@@ -36,4 +36,5 @@ setup(name='cogfusion',
             'Topic :: Scientific/Engineering'],
       install_requires=reqs,
       include_package_data=True,
+      scripts=['exe/cogfusion'],
       )
