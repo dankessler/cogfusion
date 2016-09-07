@@ -1,0 +1,8 @@
+language: 
+  - python
+install:
+  - "pip install -e ."
+script:
+  - coverage run --source=niprov setup.py test
+after_success:
+  - coveralls
