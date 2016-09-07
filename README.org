@@ -43,7 +43,6 @@ Welcome to the cogfusion wiki!
 #+END_SRC
 
 #+RESULTS:
-
 [[file:schematic.png]]
 
 neurovault map: contrast term (for cog atlas)
