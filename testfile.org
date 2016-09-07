@@ -1,0 +1,49 @@
+Welcome to the cogfusion wiki!
+
+#+BEGIN_SRC dot :file schematic.png :export results
+  digraph G{
+  rankdir=LR;
+          node[shape=circle];
+
+          U[label="U, ω"];
+          V[label="V, π"];
+          T[label=Θ];
+          R
+          {rank=source,D,S,R};
+          {rank=sink,U,V,T};
+          D;
+          S;
+
+          R2[label="R*"];
+
+
+          node[shape=rectangle];
+          dec[label=decomposer];
+          diff;
+          review;
+
+          T -> diff;        
+          D -> dec;
+          S -> dec;
+          R -> dec;
+          dec -> U;
+          dec -> V;
+          dec -> T;
+          review -> R2;
+          R2 -> R;
+          R -> diff;
+          diff -> review;
+
+
+
+  }
+
+#+END_SRC
+
+#+RESULTS:
+[[file:schematic.png]]
+
+[[file:schematic.png]]
+
+neurovault map: contrast term (for cog atlas)
+paradigm term 
