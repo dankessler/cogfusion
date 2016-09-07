@@ -3,6 +3,6 @@ language:
 install:
   - "pip install -e ."
 script:
-  - coverage run --source=niprov setup.py test
+  - coverage run --source=cogfusion setup.py test
 after_success:
   - coveralls
