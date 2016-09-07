@@ -150,6 +150,7 @@ def _solve_omega(D, U, delta1, omega):
     -------
     omega : np.ndarray (n_similarities, 1)
     """
+    pass
 
 
 def _solve_pi(S, V, delta2, pi):
