@@ -1,0 +1,17 @@
+* cogfusion
+Work on the cogfusion toolbox started at Neurohackweek 2016
+
+Welcome to the cogfusion wiki!
+
+#+BEGIN_SRC dot :file schematic.png
+  digraph G{
+          D -> dec;
+          S -> dec;
+          R -> dec;
+  }
+        
+#+END_SRC
+
+#+RESULTS:
+[[file:schematic.png]]
+
