@@ -1,0 +1,3 @@
+[submodule "nv_tagging/nilearn"]
+	path = nv_tagging/nilearn
+	url = https://github.com/bcipolli/nilearn.git
