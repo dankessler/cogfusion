@@ -13,6 +13,8 @@ reqs = [
 'waitress',
 'jupyter',
 'pandas',
+'matplotlib',
+'seaborn',
 ]
 
 try:

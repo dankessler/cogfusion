@@ -7,6 +7,7 @@
 <li>Matteo Visconti di Oleggio Castello</li>
 <li>Sue Kulason</li>
 <li>Ami Tsuchida</li>
+<li>Luka Ruzic</li>
 <li>Robert Welsh</li>
 <li>Jasper van den Bosch</li>
 </ul>
