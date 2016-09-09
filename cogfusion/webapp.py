@@ -5,7 +5,7 @@ import waitress, os
 
 def serve():
     wsgiapp = main(None)
-    waitress.serve(wsgiapp, host='0.0.0.0', port=6543)
+    waitress.serve(wsgiapp, host='0.0.0.0', port=80)
 
 def main(global_config, **settings):
     """ This function returns a Pyramid WSGI application.
