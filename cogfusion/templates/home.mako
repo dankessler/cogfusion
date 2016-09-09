@@ -3,13 +3,13 @@
 <p>Cogfusion is a project started at the Neurohackweek 2016
 
 <ul>
-<li>Dan Kessler</li>
-<li>Matteo Visconti di Oleggio Castello</li>
+<li><a href="http://www.dankessler.me">Dan Kessler</a></li>
+<li><a href="http://www.mvdoc.me">Matteo Visconti di Oleggio Castello</a></li>
 <li>Sue Kulason</li>
 <li>Ami Tsuchida</li>
 <li>Luka Ruzic</li>
 <li>Robert Welsh</li>
-<li>Jasper van den Bosch</li>
+<li><a href="https://twitter.com/jjfvandenbosch">Jasper van den Bosch</a></li>
 </ul>
 
 <ul>
