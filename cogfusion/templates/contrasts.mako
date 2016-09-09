@@ -8,8 +8,15 @@
     <li>
         ${contrast['contrast_text']}
         <ul>
-% for conceptid in conceptsByContrasts.get(contrast['id'], []):
-            <li>${conceptid}</li>
+<%
+    matches = conceptsByContrasts[conceptsByContrasts['contrast']==contrast['id']]
+%>
+% for index, row in matches.iterrows():
+
+<%
+    concept = concepts[concepts['id']==row['concept']].iloc[0]
+%>
+            <li>${concept['name']}</li>
 % endfor
         </ul>
     </li>
