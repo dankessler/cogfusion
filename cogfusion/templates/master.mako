@@ -10,6 +10,11 @@
 
   <body>
 
+        <p id="header">
+            <a href="${request.route_url('home')}"><h1>Cogfusion</h1></a>
+            <a href="${request.route_url('images')}">images</a>
+        </p>
+
         ${self.body()}
 
   </body>
