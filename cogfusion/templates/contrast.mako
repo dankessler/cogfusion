@@ -1,10 +1,17 @@
 <%inherit file="master.mako"/>
 
 
-<h1>Contrasts</h1>
+<h1>${contrast['contrast_text']}</h1>
 
         <ul>
-% for conceptid in conceptsByContrasts.get(contrast['id'], []):
-            <li>${conceptid}</li>
+<%
+    matches = conceptsByContrasts[conceptsByContrasts['contrast']==contrastid]
+%>
+% for index, row in matches.iterrows():
+
+<%
+    concept = concepts[concepts['id']==row['concept']].iloc[0]
+%>
+            <li>${concept['name']}</li>
 % endfor
         </ul>

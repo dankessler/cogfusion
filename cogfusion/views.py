@@ -23,10 +23,15 @@ def contrasts(request):
 
 @view_config(route_name='contrast', renderer='templates/contrast.mako')
 def contrast(request):
+    cnt = request.matchdict['contrast']
     data = {}
     for view in ('concepts','contrasts','conceptsByContrasts'):
         csvfile = 'data/{}.csv'.format(view)
         data[view] = pandas.read_csv(csvfile, encoding='utf-8')
+    data['contrastid'] = cnt
+    contrasts = data['contrasts']
+    contrast = contrasts[contrasts['id']==cnt].iloc[0]
+    data['contrast'] = contrast
     return data
 
 
