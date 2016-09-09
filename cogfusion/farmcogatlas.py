@@ -85,6 +85,6 @@ if __name__ == '__main__':
 
     get_concept().pandas.to_csv('data/concepts.csv', encoding='utf-8')
     pandas.DataFrame(allcontrasts).to_csv('data/contrasts.csv', encoding='utf-8')
-    pandas.DataFrame(concepts).T['name'].to_csv('data/conceptsByContrasts.csv', encoding='utf-8')
+    pickle.dump(concepts, open('data/conceptsByContrasts.pickle','wb'))
 
 
