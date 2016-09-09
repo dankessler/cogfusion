@@ -1,3 +1,6 @@
 [submodule "nv_tagging/nilearn"]
 	path = nv_tagging/nilearn
 	url = https://github.com/bcipolli/nilearn.git
+[submodule "cogFusion"]
+	path = similarity_metrics/cogFusion
+	url = git@github.com:rcwelsh/cogFusion
