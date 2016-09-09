@@ -1,4 +1,4 @@
 git pull
-env/bin/python setup.py develop
+env/bin/pip -e .
 pkill cogfusion
 env/bin/cogfusion serve &

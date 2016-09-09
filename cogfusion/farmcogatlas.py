@@ -1,5 +1,10 @@
 #!/usr/bin/python
 
+"""
+Based on an example from https://github.com/CognitiveAtlas/cogat-python
+    by Vanessa Sochat
+"""
+
 from cognitiveatlas.api import get_concept, get_task
 
 

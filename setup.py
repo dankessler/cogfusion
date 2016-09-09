@@ -11,10 +11,7 @@ reqs = [
 'pyramid',
 'pyramid_mako',
 'waitress',
-'jupyter',
 'pandas',
-'matplotlib',
-'seaborn',
 ]
 
 try:
