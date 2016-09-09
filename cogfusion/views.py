@@ -13,5 +13,15 @@ def images(request):
     labeledImages = data['cognitive_contrast_cogatlas'].dropna()
     return {'data':labeledImages}
 
+@view_config(route_name='contrasts', renderer='templates/contrasts.mako')
+def contrasts(request):
+    data = {}
+    for view in ('concepts','contrasts','conceptsByContrasts'):
+        csvfile = 'data/{}.csv'.format(view)
+        data[view] = pandas.read_csv(csvfile, encoding='utf-8')
+    return data
+
+
+
 
 

@@ -2,6 +2,9 @@
 
 from cognitiveatlas.api import get_concept, get_task
 
+
+    
+
 # EXAMPLE 1: #########################################################
 # We are going to retrieve all cognitive paradgims (tasks), find 
 # associated contrasts, and then find the cognitive concepts 
@@ -41,47 +44,47 @@ from cognitiveatlas.api import get_concept, get_task
 
 # Step 2: Find contrasts associated with each task
 # Note that this is an inefficient way to retrieve the full data, but it will work!
+if __name__ == '__main__':
+    task_uids = [task["id"] for task in get_task().json]
+    contrasts = dict() # contrast lookup by task uid
 
-task_uids = [task["id"] for task in get_task().json]
-contrasts = dict() # contrast lookup by task uid
+    # Now we can retrieve the full data. We are interested in contrasts, so let's save those.
+    for t, task in enumerate(task_uids):
+        if task not in contrasts:
+            print('Task {} of {}'.format(t, len(task_uids)))
+            task_complete = get_task(task).json[0]
+            # Only save if we have contrasts
+            if len(task_complete["contrasts"]) > 0:
+                contrasts[task] = task_complete["contrasts"]
 
-# Now we can retrieve the full data. We are interested in contrasts, so let's save those.
-for t, task in enumerate(task_uids):
-    if task not in contrasts:
+    # How many tasks have contrasts?
+    print('# contrasts: {}'.format(len(contrasts)))
+    # 437
+
+    # Step 3: Make a contrast --> concept lookup
+    concepts = dict()
+    for t, taskContrasts in enumerate(contrasts.items()):
+        task_uid, contrast_set = taskContrasts
         print('Task {} of {}'.format(t, len(task_uids)))
-        task_complete = get_task(task).json[0]
-        # Only save if we have contrasts
-        if len(task_complete["contrasts"]) > 0:
-            contrasts[task] = task_complete["contrasts"]
+        for contrast in contrast_set:
+            contrast_uid = contrast["id"]
+            if contrast_uid not in concepts:
+                try: # Some calls don't work
+                    concepts[contrast_uid] = get_concept(contrast_id=contrast_uid).json[0]
+                except:
+                    pass
 
-# How many tasks have contrasts?
-print('# contrasts: {}'.format(len(contrasts)))
-# 437
+    # How many concepts are asserted to measure different contrasts?
+    len(concepts)
+    print('# concepts: {}'.format(len(concepts)))
 
-# Step 3: Make a contrast --> concept lookup
-concepts = dict()
-for t, taskContrasts in enumerate(contrasts.items()):
-    task_uid, contrast_set = taskContrasts
-    print('Task {} of {}'.format(t, len(task_uids)))
-    for contrast in contrast_set:
-        contrast_uid = contrast["id"]
-        if contrast_uid not in concepts:
-            try: # Some calls don't work
-                concepts[contrast_uid] = get_concept(contrast_id=contrast_uid).json[0]
-            except:
-                pass
+    allcontrasts = []
+    for tid, taskContrasts in contrasts.items():
+        for contrast in taskContrasts:
+            allcontrasts.append(contrast)
 
-# How many concepts are asserted to measure different contrasts?
-len(concepts)
-print('# concepts: {}'.format(len(concepts)))
-
-allcontrasts = []
-for tid, taskContrasts in contrasts.items():
-    for contrast in taskContrasts:
-        allcontrasts.append(contrast)
-
-get_concept().pandas.to_csv('data/concepts.csv', encoding='utf-8')
-pandas.DataFrame(allcontrasts).to_csv('data/contrasts.csv', encoding='utf-8')
-pandas.DataFrame(concepts).T['name'].to_csv('data/conceptsByContrasts.csv', encoding='utf-8')
+    get_concept().pandas.to_csv('data/concepts.csv', encoding='utf-8')
+    pandas.DataFrame(allcontrasts).to_csv('data/contrasts.csv', encoding='utf-8')
+    pandas.DataFrame(concepts).T['name'].to_csv('data/conceptsByContrasts.csv', encoding='utf-8')
 
 

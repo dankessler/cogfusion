@@ -15,6 +15,7 @@ def main(global_config, **settings):
     config.add_static_view('static', 'static', cache_max_age=10)
     config.add_route('home', '/')
     config.add_route('images', '/images')
+    config.add_route('contrasts', '/contrasts')
     #config.add_request_method(lambda r: Dependencies(), 
     #    'dependencies', reify=True)
     config.scan()
