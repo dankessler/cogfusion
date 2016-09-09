@@ -1,0 +1,1468 @@
+,contrast_text,contrast_uri,event_stamp,id,id_user
+0,Generation minus baseline,,2014-04-10 12:46:21,cnt_5346929d22655,usr_49a467bf4e0db
+1,areas of activation during task minus baseline,,2011-06-22 21:44:37,cnt_4e02624559a17,usr_4de5345b3b6a8
+2,number correct forward,,2013-01-28 21:36:40,cnt_5106ef685b53d,usr_4de5345b3b6a8
+3,number correct backward,,2013-01-28 21:36:48,cnt_5106ef70e1f21,usr_4de5345b3b6a8
+4,number in correct order,,2013-01-28 21:37:04,cnt_5106ef8038cf0,usr_4de5345b3b6a8
+5,emotionally reactive,,2013-10-01 22:19:23,cnt_524b4a6b1b418,usr_51bc76ae9636c
+6,anxious depressed,,2013-10-01 22:19:37,cnt_524b4a79a1a62,usr_51bc76ae9636c
+7,somatic complaints,,2013-10-01 22:20:02,cnt_524b4a92ba8fb,usr_51bc76ae9636c
+8,withdrawn,,2013-10-01 22:20:14,cnt_524b4a9eaee3a,usr_51bc76ae9636c
+9,sleep problems,,2013-10-01 22:20:27,cnt_524b4aab945a1,usr_51bc76ae9636c
+10,attention problems,,2013-10-01 22:20:55,cnt_524b4ac7607c5,usr_51bc76ae9636c
+11,aggressive behavior,,2013-10-01 22:21:13,cnt_524b4ad9275ba,usr_51bc76ae9636c
+12,internalizing problems,,2013-10-01 22:21:35,cnt_524b4aef50da4,usr_51bc76ae9636c
+13,externalizing problems,,2013-10-01 22:21:50,cnt_524b4afe10a65,usr_51bc76ae9636c
+14,affective problems,,2013-10-01 22:22:09,cnt_524b4b114d758,usr_51bc76ae9636c
+15,anxiety problems,,2013-10-01 22:22:20,cnt_524b4b1c6dd43,usr_51bc76ae9636c
+16,pervasive developmental score,,2013-10-01 22:22:40,cnt_524b4b30ea93c,usr_51bc76ae9636c
+17,attention deficit hyperactivity,,2013-10-01 22:23:01,cnt_524b4b4506e51,usr_51bc76ae9636c
+18,oppositional defiant problems,,2013-10-01 22:33:22,cnt_524b4db24ad5e,usr_51bc76ae9636c
+19,social problems,,2013-10-01 22:24:03,cnt_524b4b83ab297,usr_51bc76ae9636c
+20,thought problems,,2013-10-01 22:24:15,cnt_524b4b8f51cef,usr_51bc76ae9636c
+21,obsessive compulsive problems,,2013-10-01 22:24:47,cnt_524b4baf1f04d,usr_51bc76ae9636c
+22,post traumatic stress problems,,2013-10-01 22:25:13,cnt_524b4bc9ee0a0,usr_51bc76ae9636c
+23,conduct problems,,2013-10-01 22:32:55,cnt_524b4d978c37c,usr_51bc76ae9636c
+24,accuracy of subject minus average accuracy of controls,,2011-06-08 22:27:46,cnt_4deff762a9fb7,usr_4de5345b3b6a8
+25,d&#39; (difference between correct identifications and false alarms),,2011-06-21 20:21:17,cnt_4e00fd3de3b0a,usr_4de5345b3b6a8
+26,reaction time after some manipulation minus reaction time at baseline,,2011-06-21 20:21:54,cnt_4e00fd62beac3,usr_4de5345b3b6a8
+27,path of eye movements,,2011-06-21 20:31:38,cnt_4e00ffaa486fa,usr_4de5345b3b6a8
+28,average rating of sensation minus subject rating of sensation,,2011-06-13 22:06:12,cnt_4df689d409dec,usr_4de5345b3b6a8
+29,areas of activation during task minus baseline,,2011-06-13 22:06:30,cnt_4df689e663ffe,usr_4de5345b3b6a8
+30,subject rating during task minus subject baseline rating,,2011-06-13 22:06:54,cnt_4df689fe846de,usr_4de5345b3b6a8
+31,probabilistic classification trials,,2010-10-06 22:04:23,cnt_4cacf26718047,usr_49a467bf4e0db
+32,proportion of correct responses across all trials minus proportion correct on early trials,,2011-06-15 17:16:33,cnt_4df8e8f10f33a,usr_4de5345b3b6a8
+33,accuracy of participant minus average accuracy of controls,,2011-06-15 17:16:48,cnt_4df8e900881cf,usr_4de5345b3b6a8
+34,feedback,,2015-04-24 01:36:22,cnt_55399e161c884,usr_51bc76ae9636c
+35,positive feedback,,2015-04-24 15:58:32,cnt_553a68284e225,usr_51bc76ae9636c
+36,negative feedback,,2015-04-24 15:58:39,cnt_553a682f464e7,usr_51bc76ae9636c
+37,positive minus negative feedback,,2015-04-24 15:58:53,cnt_553a683d08f6f,usr_51bc76ae9636c
+38,all,,2015-04-24 16:33:48,cnt_553a706ca6e88,usr_51bc76ae9636c
+39,survey IRT score,,2013-01-14 03:45:09,cnt_50f37f45b00e2,usr_4de5345b3b6a8
+40,rest eyes open,rest_eyes_open,2015-02-20 03:02:38,cnt_54e6a3ceb7216,usr_51bc76ae9636c
+41,rest eyes closed,rest_eyes_closed,2015-02-20 03:01:40,cnt_54e6a394d0fb8,usr_51bc76ae9636c
+42,CS-participant report disparity,,2012-07-16 20:25:11,cnt_500478a733748,usr_4f177506dde77
+43,perceptual identification,,2011-06-22 18:38:06,cnt_4e02368e6d840,usr_4de5345b3b6a8
+44,lexical decision,,2011-06-22 18:38:42,cnt_4e0236b247798,usr_4de5345b3b6a8
+45,response time to known words minus (or learned words) response time to unknown words,,2011-06-22 18:42:28,cnt_4e023794e822b,usr_4de5345b3b6a8
+46,response time to pseudowords minus response time to words,,2011-06-22 18:42:50,cnt_4e0237aa75286,usr_4de5345b3b6a8
+47,accuracy of participant minus average accuracy of controls,,2011-06-22 18:43:06,cnt_4e0237ba58871,usr_4de5345b3b6a8
+48,latency identification,,2011-06-22 18:59:33,cnt_4e023b95e5100,usr_4de5345b3b6a8
+49,primed identification,,2011-06-22 19:02:02,cnt_4e023c2ae3c76,usr_4de5345b3b6a8
+50,stroop inference versus color naming,,2015-04-30 19:40:50,cnt_55428542ad068,usr_51bc76ae9636c
+51,response latency,,2013-01-17 19:19:31,cnt_50f84ec36494c,usr_4de5345b3b6a8
+52,movement time,,2013-01-17 19:19:38,cnt_50f84ecaeb640,usr_4de5345b3b6a8
+53,sequence length,,2012-08-06 23:17:11,cnt_5020507780603,usr_4f177506dde77
+54,emotion detection,,2011-06-06 17:46:25,cnt_4ded127195273,usr_4de5345b3b6a8
+55,identity detection,,2011-06-06 17:47:11,cnt_4ded129f8c996,usr_4de5345b3b6a8
+56,attention,,2015-07-15 18:21:50,cnt_55a6a4be25a47,usr_51bc76ae9636c
+57,hyperactivity,,2015-07-15 18:21:58,cnt_55a6a4c6659ce,usr_51bc76ae9636c
+58,total severity,,2015-07-15 18:22:12,cnt_55a6a4d4afbbf,usr_51bc76ae9636c
+59,pain at baseline minus pain during acupuncture,,2011-06-23 18:09:21,cnt_4e038151ee9fb,usr_4de5345b3b6a8
+60,areas of activation during task minus baseline,,2011-06-23 18:10:51,cnt_4e0381ab6d190,usr_4de5345b3b6a8
+61,active versus sham,,2011-08-15 17:44:30,cnt_4e495afedc2df,usr_4e42a3196fbcd
+62,number correct,,2013-01-17 19:38:45,cnt_50f853460010d,usr_4de5345b3b6a8
+63,false positives,,2013-01-17 19:39:06,cnt_50f8535a4f6f2,usr_4de5345b3b6a8
+64,d&#39; (difference between correct identifications and false alarms),,2011-06-16 23:38:22,cnt_4dfa93ee97bc8,usr_4de5345b3b6a8
+65,accuracy of recognition minus accuracy of source identification,,2011-06-16 23:42:12,cnt_4dfa94d49dc90,usr_4de5345b3b6a8
+66,conditional stimulus,,2011-06-01 23:16:31,cnt_4de6c84f74508,usr_4de5345b3b6a8
+67,unconditional stimulus,,2012-08-06 22:15:58,cnt_5020421e4a79e,usr_4f177506dde77
+68,unconditional response,,2011-06-01 23:20:37,cnt_4de6c945846f2,usr_4de5345b3b6a8
+69,conditional response,,2011-06-01 23:21:40,cnt_4de6c9842dbbe,usr_4de5345b3b6a8
+70,post-extinction response to CS,,2012-08-09 18:32:59,cnt_5024025b137a6,usr_4f177506dde77
+71,post-extinction response to US,,2012-08-09 18:37:25,cnt_502403657d971,usr_4f177506dde77
+72,percent correct,,2013-01-17 20:52:49,cnt_50f864a19c88d,usr_4de5345b3b6a8
+73,false positives,,2013-01-17 20:53:02,cnt_50f864aed1ce5,usr_4de5345b3b6a8
+74,correct pronunciation,,2013-01-07 21:27:05,cnt_50eb3da904b79,usr_4de5345b3b6a8
+75,identification,,2013-01-07 21:27:38,cnt_50eb3dca702f2,usr_4de5345b3b6a8
+76,arousal in response to picture minus baseline arousal,,2011-06-07 23:13:25,cnt_4deeb0951bd72,usr_4de5345b3b6a8
+77,distracted RT minus non-distracted RT,,2015-07-13 00:06:35,cnt_55a3010bbd12c,usr_4e42a3196fbcd
+78,Cold Task versus Baseline,,2011-09-09 16:59:27,cnt_4e6a45ef2fdb1,usr_4e4a7f57b30e6
+79,Pain Task versus Cold Task,,2011-09-09 16:59:46,cnt_4e6a4602d08c8,usr_4e4a7f57b30e6
+80,RMW,,2011-06-21 21:53:43,cnt_4e0112e7d3bca,usr_4de5345b3b6a8
+81,RMF,,2011-06-21 21:54:09,cnt_4e011301aee39,usr_4de5345b3b6a8
+82,RMW minus RMF,,2011-06-21 21:54:35,cnt_4e01131ba65a7,usr_4de5345b3b6a8
+83,participant score minus average score,,2011-06-21 21:55:15,cnt_4e0113430ffad,usr_4de5345b3b6a8
+84,Average difference in degrees from correct answer,,2013-08-10 22:31:20,cnt_5206bf3813b0d,usr_51bc76ae9636c
+85,# of words recalled,,2013-01-07 21:48:35,cnt_50eb42b349127,usr_4de5345b3b6a8
+86,go trial,,2010-01-06 14:57:25,cnt_4b44a4d544ee7,usr_49a467bf4e0db
+87,stop trial,,2010-01-06 14:57:55,cnt_4b44a4f353f68,usr_49a467bf4e0db
+88,stop signal reaction time,,2010-01-06 14:58:58,cnt_4b44a5321112e,usr_49a467bf4e0db
+89,successful stop trial,,2010-08-18 04:21:41,cnt_4c6b5fd5bfc41,usr_49a467bf4e0db
+90,unsuccessful stop trial,,2010-08-18 04:22:37,cnt_4c6b600d4b80f,usr_49a467bf4e0db
+91,successful stop trial minus go trial,,2010-10-06 21:43:24,cnt_4caced7c54a55,usr_49a467bf4e0db
+92,successful stop trial minus failed stop trial,,2013-12-17 08:36:51,cnt_52b00d23dc3e9,usr_4ec31fb01eab4
+93,failed stop,,2015-04-24 01:33:31,cnt_55399d6bcd8dc,usr_51bc76ae9636c
+94,junk,,2015-04-24 01:33:40,cnt_55399d74220c0,usr_51bc76ae9636c
+95,all,,2015-04-24 01:33:48,cnt_55399d7c03593,usr_51bc76ae9636c
+96,unsuccessful minus successful,,2015-04-24 01:34:16,cnt_55399d987e2f1,usr_51bc76ae9636c
+97,areas of activation during task minus baseline,,2011-06-23 21:57:02,cnt_4e03b6ae397cc,usr_4de5345b3b6a8
+98,accuracy of participant minus average accuracy of controls,,2011-06-14 18:58:04,cnt_4df7af3c32a49,usr_4de5345b3b6a8
+99,muscle control,,2011-06-03 22:16:15,cnt_4de95d2ff1462,usr_4de5345b3b6a8
+100,areas of activation during task minus baseline,,2011-06-23 19:53:31,cnt_4e0399bbae0ed,usr_4de5345b3b6a8
+101,no response (task),,2015-04-24 16:16:59,cnt_553a6c7bb774d,usr_51bc76ae9636c
+102,correct response (task),,2015-04-24 16:17:08,cnt_553a6c849b13f,usr_51bc76ae9636c
+103,correct or incorrect response (control),,2015-04-24 16:17:29,cnt_553a6c99a61ed,usr_51bc76ae9636c
+104,accuracy of participant minus average accuracy of age-matched controls,,2011-06-14 00:12:32,cnt_4df6a77053b3f,usr_4de5345b3b6a8
+105,aggressiveness,,2013-10-19 19:12:11,cnt_5262d98b148af,usr_51bc76ae9636c
+106,arousal,,2013-10-19 19:12:20,cnt_5262d994b86f1,usr_51bc76ae9636c
+107,phonological skills,,2013-10-19 19:12:33,cnt_5262d9a1aec5c,usr_51bc76ae9636c
+108,semantic/pragmatic competence,,2013-10-19 19:12:55,cnt_5262d9b79a40e,usr_51bc76ae9636c
+109,specific fears,,2013-10-19 19:13:21,cnt_5262d9d19c56b,usr_51bc76ae9636c
+110,"learning, memory, and receptive language",,2013-10-19 19:13:45,cnt_5262d9e96079d,usr_51bc76ae9636c
+111,ritualisms,,2013-10-19 19:14:05,cnt_5262d9fd26a5f,usr_51bc76ae9636c
+112,sensory total,,2013-10-19 19:14:19,cnt_5262da0b14ae6,usr_51bc76ae9636c
+113,semantic/pragmatic problems,,2013-10-19 19:14:37,cnt_5262da1dbe022,usr_51bc76ae9636c
+114,social approach,,2013-10-19 19:15:06,cnt_5262da3a15ba0,usr_51bc76ae9636c
+115,total score,,2013-10-19 19:15:15,cnt_5262da43d451b,usr_51bc76ae9636c
+116,listening span of participant minus average listening span,,2011-06-16 17:33:01,cnt_4dfa3e4d70781,usr_4de5345b3b6a8
+117,listening comprehension of participant minus average listening comprehension,,2011-06-16 17:34:50,cnt_4dfa3ebab2930,usr_4de5345b3b6a8
+118,listening span with comprehension questions minus listening span without,,2011-06-16 17:35:46,cnt_4dfa3ef2bcbf0,usr_4de5345b3b6a8
+119,listening comprehension with listening span task minus listening comprehension without,,2011-06-16 17:36:14,cnt_4dfa3f0edd3d4,usr_4de5345b3b6a8
+120,sequence length,,2012-08-06 19:22:18,cnt_5020196a49a19,usr_4f177506dde77
+121,Random Interaction,,2015-04-17 17:49:39,cnt_553147b362347,usr_51bc76ae9636c
+122,Mental Interaction,,2015-04-17 17:49:47,cnt_553147bb4e97d,usr_51bc76ae9636c
+123,Random Interaction minus Mental Interaction,,2015-04-17 17:50:42,cnt_553147f2ea504,usr_51bc76ae9636c
+124,Negative Random Interaction,,2015-04-17 17:55:43,cnt_5531491f76a16,usr_51bc76ae9636c
+125,Negative Mental Interaction,,2015-04-17 17:55:57,cnt_5531492d016c7,usr_51bc76ae9636c
+126,Mental Interaction minus Random Interaction,,2015-04-17 17:56:16,cnt_55314940f18c6,usr_51bc76ae9636c
+127,areas of activation during task minus baseline,,2011-06-10 21:16:52,cnt_4df289c4c46fa,usr_4de5345b3b6a8
+128,mental age (difficulty) of maze,,2012-07-30 19:34:09,cnt_5016e1b12e5c8,usr_4f177506dde77
+129,"response time for ""bad"" or risky doors minus response time for ""good"" doors",,2012-11-27 00:40:38,cnt_50b40c06406f1,usr_4de5345b3b6a8
+130,accuracy of subject minus average accuracy of controls,,2012-11-27 00:40:59,cnt_50b40c1b28ad3,usr_4de5345b3b6a8
+131,"number of ""good"" doors chosen vs. number of ""bad"" doors",,2012-11-27 00:41:30,cnt_50b40c3aa95af,usr_4de5345b3b6a8
+132,valid,,2011-06-02 19:31:56,cnt_4de7e52cd0ad6,usr_4de5345b3b6a8
+133,invalid,,2011-06-02 19:32:27,cnt_4de7e54b3b8d8,usr_4de5345b3b6a8
+134,visual perception score,,2013-09-22 20:55:07,cnt_523f592b5aaf9,usr_51bc76ae9636c
+135,motor coordination score,,2013-09-22 20:55:21,cnt_523f593964534,usr_51bc76ae9636c
+136,accuracy of participant minus average accuracy of controls,,2011-06-20 17:13:51,cnt_4dff7fcf1b8a2,usr_4de5345b3b6a8
+137,Plausible Sentences,,2011-06-20 17:14:43,cnt_4dff8003a6b0a,usr_4de5345b3b6a8
+138,Implausible Snetences,,2011-06-20 17:15:28,cnt_4dff8030b7e41,usr_4de5345b3b6a8
+139,response time to implausible sentences minus response time to plausible sentences,,2011-06-20 17:17:34,cnt_4dff80aec63b6,usr_4de5345b3b6a8
+140,d&#39;-context,,2013-03-28 19:11:42,cnt_515495ee6ef15,usr_4de5345b3b6a8
+141,beta (response criterion),,2013-03-28 19:11:50,cnt_515495f61ce8b,usr_4de5345b3b6a8
+142,number correct,,2013-01-16 23:14:49,cnt_50f7346907d30,usr_4de5345b3b6a8
+143,false positives,,2013-01-16 23:14:57,cnt_50f73471382f8,usr_4de5345b3b6a8
+144,total score,,2013-10-22 17:57:54,cnt_5266bca2e6a0d,usr_51bc76ae9636c
+145,auditory comprehension,,2013-10-22 17:58:16,cnt_5266bcb8dd805,usr_51bc76ae9636c
+146,expressive communication,,2013-10-22 17:58:45,cnt_5266bcd51c5bc,usr_51bc76ae9636c
+147,emotion manipulation versus control,,2011-06-06 21:48:36,cnt_4ded4b345f82a,usr_4de5345b3b6a8
+148,category list,,2011-06-06 21:49:48,cnt_4ded4b7c49083,usr_4de5345b3b6a8
+149,total score,,2013-01-15 20:45:43,cnt_50f5bff7748da,usr_4de5345b3b6a8
+150,Faces,,2015-04-17 17:47:58,cnt_5531474e117df,usr_51bc76ae9636c
+151,Shapes,,2015-04-17 17:48:07,cnt_55314757a78a1,usr_51bc76ae9636c
+152,Faces minus Shapes,,2015-04-17 17:48:19,cnt_553147632424b,usr_51bc76ae9636c
+153,Negative Faces,,2015-04-17 17:48:31,cnt_5531476fa91e9,usr_51bc76ae9636c
+154,Negative Shapes,,2015-04-17 17:48:40,cnt_553147783d53b,usr_51bc76ae9636c
+155,Shapes minus Faces,,2015-04-17 17:48:49,cnt_55314781f094c,usr_51bc76ae9636c
+156,number correct,,2013-01-17 00:06:47,cnt_50f7409730966,usr_4de5345b3b6a8
+157,Cue,,2015-04-17 18:34:14,cnt_55315226076d3,usr_51bc76ae9636c
+158,Left Foot,,2015-04-17 18:35:28,cnt_55315270d1e14,usr_51bc76ae9636c
+159,Left Hand,,2015-04-17 18:35:36,cnt_55315278ea6cc,usr_51bc76ae9636c
+160,Right Foot,,2015-04-17 18:35:45,cnt_5531528173117,usr_51bc76ae9636c
+161,Right Hand,,2015-04-17 18:35:53,cnt_5531528989cc7,usr_51bc76ae9636c
+162,Tongue,,2015-04-17 18:36:00,cnt_553152908ac51,usr_51bc76ae9636c
+163,Average,,2015-04-17 18:36:08,cnt_553152984f850,usr_51bc76ae9636c
+164,Cue minus Average,,2015-04-17 18:36:15,cnt_5531529f4645b,usr_51bc76ae9636c
+165,Left Foot minus Average,,2015-04-17 18:36:23,cnt_553152a7a0b6c,usr_51bc76ae9636c
+166,Left Hand minus Average,,2015-04-17 18:36:33,cnt_553152b1dfd37,usr_51bc76ae9636c
+167,Right Foot minus Average,,2015-04-17 18:36:47,cnt_553152bf58a31,usr_51bc76ae9636c
+168,Right Hand minus Average,,2015-04-17 18:36:57,cnt_553152c97dd5d,usr_51bc76ae9636c
+169,Tongue minus Average,,2015-04-17 18:37:05,cnt_553152d16cfe1,usr_51bc76ae9636c
+170,Negative Cue,,2015-04-17 18:37:12,cnt_553152d8c233d,usr_51bc76ae9636c
+171,Negative Left Foot,,2015-04-17 18:37:21,cnt_553152e128eb4,usr_51bc76ae9636c
+172,Negative Left Hand,,2015-04-17 18:37:28,cnt_553152e8980dd,usr_51bc76ae9636c
+173,Negative Right Foot,,2015-04-17 18:37:40,cnt_553152f4dbf86,usr_51bc76ae9636c
+174,Negative Right Hand,,2015-04-17 18:37:49,cnt_553152fd52bf1,usr_51bc76ae9636c
+175,Negative Tongue,,2015-04-17 18:37:59,cnt_5531530759866,usr_51bc76ae9636c
+176,Negative Average,,2015-04-17 18:38:09,cnt_553153113dfc5,usr_51bc76ae9636c
+177,Average minus Cue,,2015-04-17 18:38:15,cnt_55315317b4224,usr_51bc76ae9636c
+178,Average minus Left Foot,,2015-04-17 18:38:27,cnt_55315323a698b,usr_51bc76ae9636c
+179,Average minus Left Hand,,2015-04-17 18:38:37,cnt_5531532dc579d,usr_51bc76ae9636c
+180,Average minus Right Foot,,2015-04-17 18:38:52,cnt_5531533c43e15,usr_51bc76ae9636c
+181,Average minus Right Hand,,2015-04-17 18:39:06,cnt_5531534a03607,usr_51bc76ae9636c
+182,Average minus Tongue,,2015-04-17 18:39:19,cnt_55315357c5638,usr_51bc76ae9636c
+183,percent correct,,2015-07-13 00:19:36,cnt_55a30418945f9,usr_4e42a3196fbcd
+184,accuracy of participant minus average accuracy of age-matched controls,,2011-06-09 22:13:01,cnt_4df1456d05cab,usr_4de5345b3b6a8
+185,response to first stimulus,,2011-06-01 22:56:52,cnt_4de6c3b459269,usr_4de5345b3b6a8
+186,magnitude of response to second stimulus,,2011-06-01 22:57:12,cnt_4de6c3c82d46d,usr_4de5345b3b6a8
+187,distance walked,,2013-01-08 00:44:43,cnt_50eb6bfb7e504,usr_4de5345b3b6a8
+188,consistent - inconsistent,,2012-07-17 19:47:14,cnt_5005c1421ee49,usr_4f177506dde77
+189,target - distractor,,2012-07-17 19:53:41,cnt_5005c2c544201,usr_4f177506dde77
+190,d&#39;,,2012-08-07 22:41:37,cnt_502199a142cab,usr_4f177506dde77
+191,Congruent,,2010-02-23 20:12:37,cnt_4b8436b57862e,usr_4aef33d37b963
+192,Incongruent,,2010-02-23 20:12:48,cnt_4b8436c051c94,usr_4aef33d37b963
+193,Incongruent,,2010-02-23 20:13:20,cnt_4b8436e073769,usr_4aef33d37b963
+194,Irritability/Agitation,,2013-09-20 16:50:34,cnt_523c7cdacdc20,usr_51bc76ae9636c
+195,Lethargy/Social Withdrawal,,2013-09-20 16:50:56,cnt_523c7cf0ea7b4,usr_51bc76ae9636c
+196,Stereotypic Behavior,,2013-09-20 16:51:25,cnt_523c7d0de6735,usr_51bc76ae9636c
+197,Hyperactivity/Noncompliance,,2013-09-20 16:51:43,cnt_523c7d1fc539f,usr_51bc76ae9636c
+198,Inappropriate Speech,,2013-09-20 16:51:55,cnt_523c7d2b82709,usr_51bc76ae9636c
+199,real task time minus imagined task time,,2011-06-07 16:24:18,cnt_4dee50b24d8c4,usr_4de5345b3b6a8
+200,real task areas of activation minus imagined task areas of activation,,2011-06-07 16:24:49,cnt_4dee50d11696f,usr_4de5345b3b6a8
+201,real task effort minus imagined task effort,,2011-06-07 16:25:05,cnt_4dee50e19a0a5,usr_4de5345b3b6a8
+202,d&#39;,,2012-08-06 21:52:02,cnt_50203c822eed9,usr_4f177506dde77
+203,total score,,2013-08-22 22:02:02,cnt_52168a5a4c3d7,usr_51bc76ae9636c
+204,reciprical social interaction,,2013-08-22 22:02:31,cnt_52168a770f5c0,usr_51bc76ae9636c
+205,communication,,2013-08-22 22:02:47,cnt_52168a8712870,usr_51bc76ae9636c
+206,restrictive and repetitive behavior,,2013-08-22 22:03:03,cnt_52168a9794c01,usr_51bc76ae9636c
+207,immediate memory copy,,2011-06-03 18:36:22,cnt_4de929a613652,usr_4de5345b3b6a8
+208,general memory copy,,2011-06-03 18:37:45,cnt_4de929f98367a,usr_4de5345b3b6a8
+209,digit/symbol coding - symbol copy,,2011-06-03 18:44:40,cnt_4de92b983089e,usr_4de5345b3b6a8
+210,false picture question,,2015-04-24 16:00:08,cnt_553a6888a86e7,usr_51bc76ae9636c
+211,false belief question minus false picture question,,2015-04-24 16:00:27,cnt_553a689b663ed,usr_51bc76ae9636c
+212,false picture story,,2015-04-24 16:00:41,cnt_553a68a9eaea4,usr_51bc76ae9636c
+213,false belief story,,2015-04-24 16:00:57,cnt_553a68b954b07,usr_51bc76ae9636c
+214,all,,2015-04-24 16:01:07,cnt_553a68c3d7ff8,usr_51bc76ae9636c
+215,false belief story minus false picture story,,2015-04-24 16:01:19,cnt_553a68cf05712,usr_51bc76ae9636c
+216,false belief minus false picture,,2015-04-24 16:01:32,cnt_553a68dc57c0c,usr_51bc76ae9636c
+217,false belief question,,2015-04-24 16:01:39,cnt_553a68e3f0566,usr_51bc76ae9636c
+218,areas of activation during covert minus areas of activation during overt,,2011-06-22 20:41:36,cnt_4e0253808fe82,usr_4de5345b3b6a8
+219,accuracy of participant minus average accuracy of controls,,2011-06-22 20:41:58,cnt_4e02539674407,usr_4de5345b3b6a8
+220,ERP strength minus baseline,,2011-06-22 20:45:27,cnt_4e025467f28e7,usr_4de5345b3b6a8
+221,Math,,2015-04-17 17:59:30,cnt_55314a02877ba,usr_51bc76ae9636c
+222,Story,,2015-04-17 17:59:36,cnt_55314a0837714,usr_51bc76ae9636c
+223,Math minus Story,,2015-04-17 17:59:44,cnt_55314a10d4412,usr_51bc76ae9636c
+224,Story minus Math,,2015-04-17 17:59:54,cnt_55314a1a5514c,usr_51bc76ae9636c
+225,Negative Math,,2015-04-17 18:00:04,cnt_55314a245b40b,usr_51bc76ae9636c
+226,Negative Story,,2015-04-17 18:00:11,cnt_55314a2b79a0b,usr_51bc76ae9636c
+227,false positives,,2013-03-28 18:49:54,cnt_515490d277b2e,usr_4de5345b3b6a8
+228,number correct,,2013-03-28 18:56:13,cnt_5154924daead4,usr_4de5345b3b6a8
+229,percent correct,,2015-07-13 00:22:41,cnt_55a304d1cfc84,usr_4e42a3196fbcd
+230,total score,,2013-10-29 18:50:16,cnt_52700368df6d8,usr_51bc76ae9636c
+231,vocabulary,,2013-10-29 18:58:03,cnt_5270053b30cb5,usr_51bc76ae9636c
+232,comprehension,,2013-10-29 18:58:46,cnt_52700566e4732,usr_51bc76ae9636c
+233,pattern analysis,,2013-10-29 19:06:43,cnt_527007430497f,usr_51bc76ae9636c
+234,quantitative,,2013-10-29 19:27:43,cnt_52700c2f1cfc3,usr_51bc76ae9636c
+235,memory for sentences,,2013-10-29 19:28:09,cnt_52700c49523b9,usr_51bc76ae9636c
+236,# items remembered with encoding task - number remembered without,,2011-06-03 23:06:00,cnt_4de968d88e3d3,usr_4de5345b3b6a8
+237,number of seconds to walk 4m,,2013-01-08 00:30:10,cnt_50eb6892e9317,usr_4de5345b3b6a8
+238,total score,,2013-10-19 18:04:06,cnt_5262c996e744b,usr_51bc76ae9636c
+239,amount consumed,,2011-06-03 22:24:10,cnt_4de95f0aa8476,usr_4de5345b3b6a8
+240,food choice periods of high energy trials versus food choice periods of low energy trials,,2015-09-08 20:24:43,cnt_55ef440b3f6f2,usr_51bc76ae9636c
+241,areas of activation during task minus baseline,,2011-06-22 05:46:49,cnt_4e0181c976a19,usr_4de5345b3b6a8
+242,response time of subject minus response time of controls,,2011-06-22 05:48:35,cnt_4e0182336c9cc,usr_4de5345b3b6a8
+243,d&#39;-Context,,2010-09-22 01:54:21,cnt_4c9961cd8a778,usr_4aef384a4c085
+244,beta (response criterion),,2010-09-22 02:58:49,cnt_4c9970e9759d2,usr_4aef384a4c085
+245,accuracy of participant minus average accuracy of controls,,2011-06-17 19:45:57,cnt_4dfbaef575808,usr_4de5345b3b6a8
+246,accuracy of immediate recognition test minus accuracy of delayed test,,2011-06-17 19:46:47,cnt_4dfbaf2722de5,usr_4de5345b3b6a8
+247,average response time,,2011-06-17 19:47:26,cnt_4dfbaf4e94f96,usr_4de5345b3b6a8
+248,number correct,,2013-01-17 00:11:29,cnt_50f741b1591cf,usr_4de5345b3b6a8
+249,change point probability,,2015-04-27 17:08:58,cnt_553e6d2a395b2,usr_51bc76ae9636c
+250,relative uncertainty,,2015-04-27 17:09:06,cnt_553e6d32a3fd7,usr_51bc76ae9636c
+251,reward value,,2015-04-27 17:09:19,cnt_553e6d3f41b03,usr_51bc76ae9636c
+252,residual update,,2015-04-27 17:09:24,cnt_553e6d44d6921,usr_51bc76ae9636c
+253,percent correct (number of correct responses/number of total pictures),,2011-06-01 19:01:53,cnt_4de68ca153c38,usr_4de5345b3b6a8
+254,target size,,2012-07-18 23:09:15,cnt_5007421b7d846,usr_4f177506dde77
+255,movement amplitude,,2012-07-18 23:09:24,cnt_5007422433506,usr_4f177506dde77
+256,peak velocity,,2012-07-18 23:12:36,cnt_500742e46e628,usr_4f177506dde77
+257,target shape,,2012-07-18 23:13:48,cnt_5007432c64f97,usr_4f177506dde77
+258,target visibility,,2012-07-18 23:15:12,cnt_50074380529ff,usr_4f177506dde77
+259,suppression - control (articulatory suppression effect),,2013-01-15 16:25:08,cnt_50f582e4f0a26,usr_49a467bf4e0db
+260,primed versus unprimed,,2012-07-31 20:24:51,cnt_50183f13074db,usr_4f177506dde77
+261,subject score minus average normal score,,2011-06-10 18:15:17,cnt_4df25f35f17e3,usr_4de5345b3b6a8
+262,Contamination/Cleaning,,2011-06-10 18:21:16,cnt_4df2609ceae39,usr_4de5345b3b6a8
+263,Checking,,2011-06-10 18:22:53,cnt_4df260fd670ea,usr_4de5345b3b6a8
+264,Slowness,,2011-06-10 18:23:51,cnt_4df26137bc72d,usr_4de5345b3b6a8
+265,Doubting,,2011-06-10 18:27:08,cnt_4df261fc3cd71,usr_4de5345b3b6a8
+266,total score,,2013-12-02 22:32:17,cnt_529d0a711d43d,usr_51bc76ae9636c
+267,Difficulty Level 1,,2010-02-17 14:58:37,cnt_4b7c041db99fb,usr_49a467bf4e0db
+268,Difficulty Level 2,,2010-02-17 14:59:01,cnt_4b7c04350ce30,usr_49a467bf4e0db
+269,Difficulty Level 3,,2010-02-17 14:59:26,cnt_4b7c044e556ea,usr_49a467bf4e0db
+270,Accuracy on level 3 minus accuracy on level 1,,2011-06-16 17:51:54,cnt_4dfa42ba0f7c2,usr_4de5345b3b6a8
+271,Overall accuracy of participant minus average accuracy,,2011-06-16 17:52:29,cnt_4dfa42dddd062,usr_4de5345b3b6a8
+272,percent correct,,2015-07-13 00:15:15,cnt_55a30313da429,usr_4e42a3196fbcd
+273,response time,,2015-07-13 00:15:34,cnt_55a303261a647,usr_4e42a3196fbcd
+274,number correct,,2013-01-07 22:04:45,cnt_50eb467d50cab,usr_4de5345b3b6a8
+275,Faces (0-back faces + 2-back faces), ,2015-03-19 22:51:04,cnt_550b52d8506ec,usr_51bc76ae9636c
+276,Places (0-back places + 2-back places),,2015-03-19 22:51:24,cnt_550b52ec705da,usr_51bc76ae9636c
+277,Tools (0-back tools + 2-back tools),,2015-03-19 22:51:41,cnt_550b52fd2e6fa,usr_51bc76ae9636c
+278,Body (0-back body + 2-back body),,2015-03-19 22:52:01,cnt_550b53110c3a8,usr_51bc76ae9636c
+279,2-back Body,,2015-04-17 18:03:43,cnt_55314aff55913,usr_51bc76ae9636c
+280,2-back Face,,2015-04-17 18:03:50,cnt_55314b0643005,usr_51bc76ae9636c
+281,2-back Place,,2015-04-17 18:04:02,cnt_55314b12878f7,usr_51bc76ae9636c
+282,2-back Tool,,2015-04-17 18:04:14,cnt_55314b1edb310,usr_51bc76ae9636c
+283,0-back Body,,2015-04-17 18:04:26,cnt_55314b2a72bee,usr_51bc76ae9636c
+284,0-back Face,,2015-04-17 18:04:57,cnt_55314b49e5c9d,usr_51bc76ae9636c
+285,0-back Place,,2015-04-17 18:05:10,cnt_55314b56bceed,usr_51bc76ae9636c
+286,0-back Tool,,2015-04-17 18:05:18,cnt_55314b5e393d2,usr_51bc76ae9636c
+287,2-back,,2015-04-17 18:05:28,cnt_55314b688f165,usr_51bc76ae9636c
+288,0-back,,2015-04-17 18:05:33,cnt_55314b6d8b510,usr_51bc76ae9636c
+289,2-back minus 0-back,,2015-04-17 18:05:44,cnt_55314b78d85fd,usr_51bc76ae9636c
+290,Negative 2-back,,2015-04-17 18:30:43,cnt_553151539f545,usr_51bc76ae9636c
+291,Negative 0-back,,2015-04-17 18:30:52,cnt_5531515c422fe,usr_51bc76ae9636c
+292,0-back minus 2-back,,2015-04-17 18:31:03,cnt_5531516762fb2,usr_51bc76ae9636c
+293,Body minus Average,,2015-04-17 18:31:21,cnt_5531517957741,usr_51bc76ae9636c
+294,Face minus Average,,2015-04-17 18:31:32,cnt_55315184e74dd,usr_51bc76ae9636c
+295,Place minus Average,,2015-04-17 18:31:43,cnt_5531518f600cf,usr_51bc76ae9636c
+296,Tool minus Average,,2015-04-17 18:31:55,cnt_5531519b47d97,usr_51bc76ae9636c
+297,Negative Body,,2015-04-17 18:32:16,cnt_553151b0cb13c,usr_51bc76ae9636c
+298,Negative Face,,2015-04-17 18:32:26,cnt_553151ba0be1f,usr_51bc76ae9636c
+299,Negative Place,,2015-04-17 18:32:35,cnt_553151c3b05f5,usr_51bc76ae9636c
+300,Negative Tool,,2015-04-17 18:32:44,cnt_553151ccb63f4,usr_51bc76ae9636c
+301,Average minus Body,,2015-04-17 18:33:01,cnt_553151dd37b0d,usr_51bc76ae9636c
+302,Average minus Face,,2015-04-17 18:33:10,cnt_553151e627665,usr_51bc76ae9636c
+303,Average minus Place,,2015-04-17 18:33:17,cnt_553151eda891e,usr_51bc76ae9636c
+304,Average minus Tool,,2015-04-17 18:33:34,cnt_553151fe97771,usr_51bc76ae9636c
+305,nonword repetition,,2013-10-17 18:10:05,cnt_526027fdc9141,usr_51bc76ae9636c
+306,phonological memory,,2013-10-17 18:13:15,cnt_526028bb8afc0,usr_51bc76ae9636c
+307,memory for digits,,2013-10-17 18:14:46,cnt_5260291679470,usr_51bc76ae9636c
+308,blending words,,2013-10-17 18:14:59,cnt_5260292385acd,usr_51bc76ae9636c
+309,rapid digit naming,,2013-10-17 18:16:49,cnt_52602991a559b,usr_51bc76ae9636c
+310,rapid letter naming,,2013-10-17 18:17:02,cnt_5260299eb3d0f,usr_51bc76ae9636c
+311,total score,,2015-07-15 18:19:51,cnt_55a6a44770b40,usr_51bc76ae9636c
+312,Heat Stimulation versus Baseline,,2011-09-09 15:47:04,cnt_4e6a34f8c2f2c,usr_4e4a7f57b30e6
+313,number of items correct,,2016-07-27 15:48:36,cnt_5798d7d41f82b,usr_579611e01221d
+314,Baseline minus heat stimulation,,2011-08-24 16:30:48,cnt_4e552738a229c,usr_4e4a7f57b30e6
+315,standard deviation from the mean score,,2011-06-17 22:49:08,cnt_4dfbd9e47c418,usr_4de5345b3b6a8
+316,standard deviation from the mean score,,2011-06-20 23:46:03,cnt_4dffdbbb010e1,usr_4de5345b3b6a8
+317,ANOVA of of score by disease timecourse,,2011-06-20 23:46:32,cnt_4dffdbd8c48f7,usr_4de5345b3b6a8
+318,incongruent minus congruent,,2012-07-30 18:46:06,cnt_5016d66e0ecb7,usr_4f177506dde77
+319,accuracy of participant minus average accuracy of controls,,2011-06-16 23:23:52,cnt_4dfa9088a6739,usr_4de5345b3b6a8
+320,reaction time of participant minus average reaction time of controls,,2011-06-16 23:24:31,cnt_4dfa90af8345d,usr_4de5345b3b6a8
+321,reaction time after some manipulation minus reaction time at baseline,,2011-06-16 23:24:52,cnt_4dfa90c46cf46,usr_4de5345b3b6a8
+322,communication total,,2013-08-10 10:19:35,cnt_520613b7ec09c,usr_51bc76ae9636c
+323,play total,,2013-08-10 10:19:46,cnt_520613c2e388b,usr_51bc76ae9636c
+324,social interaction total,,2013-08-10 10:19:58,cnt_520613ce52654,usr_51bc76ae9636c
+325,communication + social interaction total,,2013-08-10 10:20:31,cnt_520613efddbc2,usr_51bc76ae9636c
+326,stereotyped behaviors and restricted interests Total,,2013-08-10 10:20:59,cnt_5206140b96f95,usr_51bc76ae9636c
+327,pounds or kilograms of force,,2013-01-07 23:00:49,cnt_50eb53a183bb6,usr_4de5345b3b6a8
+328,ANOVA of time by age group,,2011-06-20 21:21:10,cnt_4dffb9c632156,usr_4de5345b3b6a8
+329,hearing threshold (the level below which the subject cannot hear tones),,2013-01-14 03:02:05,cnt_50f3752d9402b,usr_4de5345b3b6a8
+330,Matching,,2015-04-17 17:57:26,cnt_553149868c670,usr_51bc76ae9636c
+331,Relational Processing,,2015-04-17 17:57:43,cnt_553149979dc2e,usr_51bc76ae9636c
+332,Matching - Relational Processing,,2015-04-17 17:58:08,cnt_553149b03d240,usr_51bc76ae9636c
+333,Relational Processing minus Matching,,2015-04-17 17:58:20,cnt_553149bc9f9d1,usr_51bc76ae9636c
+334,Negative Matching,,2015-04-17 17:58:33,cnt_553149c9ef4fd,usr_51bc76ae9636c
+335,Negative Relational Processing,,2015-04-17 17:58:43,cnt_553149d39942a,usr_51bc76ae9636c
+336,anxiety,,2013-09-23 15:18:22,cnt_52405bbeec6bc,usr_51bc76ae9636c
+337,hostility,,2013-09-23 15:18:33,cnt_52405bc94d887,usr_51bc76ae9636c
+338,depression,,2013-09-23 15:18:45,cnt_52405bd546e33,usr_51bc76ae9636c
+339,somatization,,2013-09-23 15:18:59,cnt_52405be30419a,usr_51bc76ae9636c
+340,interpersonal sensitivity,,2013-09-23 15:19:16,cnt_52405bf41b0f9,usr_51bc76ae9636c
+341,psychosis,,2013-09-23 15:19:27,cnt_52405bff90283,usr_51bc76ae9636c
+342,paranoid,,2013-09-23 15:19:39,cnt_52405c0bec117,usr_51bc76ae9636c
+343,obsessive compulsive,,2013-09-23 15:19:50,cnt_52405c167b088,usr_51bc76ae9636c
+344,phobia,,2013-09-23 15:20:09,cnt_52405c29582fb,usr_51bc76ae9636c
+345,oppositional,,2013-10-14 20:42:23,cnt_525c572fd0e6b,usr_51bc76ae9636c
+346,cognitive problems,,2013-10-14 20:42:45,cnt_525c57456e8d6,usr_51bc76ae9636c
+347,hyperactivity,,2013-10-14 20:43:18,cnt_525c57664d7a7,usr_51bc76ae9636c
+348,anxious,,2013-10-14 20:43:29,cnt_525c5771523cb,usr_51bc76ae9636c
+349,perfectionism,,2013-10-14 20:43:43,cnt_525c577f94423,usr_51bc76ae9636c
+350,psychosomatic,,2013-10-14 20:43:55,cnt_525c578b8e221,usr_51bc76ae9636c
+351,social,,2013-10-14 20:44:08,cnt_525c57980c6af,usr_51bc76ae9636c
+352,restlessness,,2013-10-14 20:44:33,cnt_525c57b11694a,usr_51bc76ae9636c
+353,emotional,,2013-10-14 20:44:43,cnt_525c57bbddf7c,usr_51bc76ae9636c
+354,impulsivity,,2013-10-14 20:45:05,cnt_525c57d12435a,usr_51bc76ae9636c
+355,inattention,,2013-10-14 21:01:50,cnt_525c5bbee5aa5,usr_51bc76ae9636c
+356,total score,,2013-01-14 08:22:16,cnt_50f3c03878ce3,usr_4de5345b3b6a8
+357,percent correct,,2015-07-13 00:16:42,cnt_55a3036a4175b,usr_4e42a3196fbcd
+358,Uncued,,2011-06-15 16:46:42,cnt_4df8e1f29b788,usr_4de5345b3b6a8
+359,Congruent Cue,,2011-06-15 16:48:10,cnt_4df8e24a62cc8,usr_4de5345b3b6a8
+360,Incongruent Cue,,2011-06-15 16:48:54,cnt_4df8e2760df07,usr_4de5345b3b6a8
+361,incongruent response time - congruent response time,,2011-06-15 16:49:27,cnt_4df8e29765d7b,usr_4de5345b3b6a8
+362,congruent response time - uncued response time,,2011-06-15 16:49:51,cnt_4df8e2af408ed,usr_4de5345b3b6a8
+363,average score minus participant&#39;s score,,2011-06-20 20:15:52,cnt_4dffaa78530b6,usr_4de5345b3b6a8
+364,correct,,2013-01-07 18:23:17,cnt_50eb12958b083,usr_4de5345b3b6a8
+365,incorrect,,2013-01-07 18:23:25,cnt_50eb129d5a541,usr_4de5345b3b6a8
+366,Switch minus No-Switch,,2011-08-15 17:59:29,cnt_4e495e81b3a05,usr_4e42a3196fbcd
+367,control minus pumps average,,2015-04-24 01:40:17,cnt_55399f01df2de,usr_51bc76ae9636c
+368,cash parametric,,2015-04-24 01:40:24,cnt_55399f08a4fe4,usr_51bc76ae9636c
+369,control parametric minus pumps parametric,,2015-04-24 01:40:40,cnt_55399f18cab6a,usr_51bc76ae9636c
+370,cash average real reaction time,,2015-04-24 01:40:58,cnt_55399f2a6bc4f,usr_51bc76ae9636c
+371,control pumps average,,2015-04-24 01:41:07,cnt_55399f33ed10b,usr_51bc76ae9636c
+372,control pumps average real reaction time,,2015-04-24 01:41:20,cnt_55399f4094b1b,usr_51bc76ae9636c
+373,cash average,,2015-04-24 01:41:26,cnt_55399f4618e42,usr_51bc76ae9636c
+374,control real reaction time minus pumps real reaction time,,2015-04-24 01:41:45,cnt_55399f597f9ea,usr_51bc76ae9636c
+375,control pumps parametric,,2015-04-24 01:41:56,cnt_55399f648ae8a,usr_51bc76ae9636c
+376,pumps real reaction time minus control real reaction time,,2015-04-24 01:42:12,cnt_55399f741c859,usr_51bc76ae9636c
+377,pumps average,,2015-04-24 01:42:20,cnt_55399f7c60721,usr_51bc76ae9636c
+378,pumps parametric,,2015-04-24 01:42:30,cnt_55399f8675b23,usr_51bc76ae9636c
+379,pumps parametric minus control parametric,,2015-04-24 01:42:42,cnt_55399f92abc88,usr_51bc76ae9636c
+380,explode average,,2015-04-24 01:42:50,cnt_55399f9ac9c55,usr_51bc76ae9636c
+381,pumps average real reaction time,,2015-04-24 01:43:05,cnt_55399fa95aaee,usr_51bc76ae9636c
+382,pumps average minus control average,,2015-04-24 01:43:15,cnt_55399fb3842fa,usr_51bc76ae9636c
+383,pre-cash trials minus pre-pump trials matched for risk level,,2015-04-30 17:29:02,cnt_5542665e734fe,usr_51bc76ae9636c
+384,percent correct,,2013-01-28 21:57:04,cnt_5106f430082a0,usr_4de5345b3b6a8
+385,correct identifications,,2013-01-28 23:17:59,cnt_510707278e097,usr_4de5345b3b6a8
+386,size of subject sentence set minus average size of sentence set of control subjects,,2011-06-10 17:08:03,cnt_4df24f7376278,usr_4de5345b3b6a8
+387,commission errors (false alarms),,2012-07-18 19:31:50,cnt_50070f2604b71,usr_4f177506dde77
+388,proportion of correct to incorrect responses,,2012-07-18 19:33:39,cnt_50070f9310204,usr_4f177506dde77
+389,stimulus,,2011-06-01 22:39:40,cnt_4de6bfac7a994,usr_4de5345b3b6a8
+390,non-stimulus,,2011-06-01 22:40:31,cnt_4de6bfdf5905a,usr_4de5345b3b6a8
+391,right hand,,2011-06-01 22:41:18,cnt_4de6c00e51eda,usr_4de5345b3b6a8
+392,left hand,,2011-06-01 22:41:36,cnt_4de6c02033259,usr_4de5345b3b6a8
+393,Cue minus no cue: attention orienting,,2011-08-15 19:01:34,cnt_4e496d0e46a77,usr_4e42a3196fbcd
+394,Spatial cue minus double cue: orienting efficiency,,2011-08-15 19:02:31,cnt_4e496d475896c,usr_4e42a3196fbcd
+395,Incongruent minus congruent: Conflict / Executive network efficiency,,2011-08-15 19:03:10,cnt_4e496d6e12225,usr_4e42a3196fbcd
+396,Alerting: no cue minus double cue,,2013-12-20 23:15:56,cnt_52b4cfac3a8ce,usr_51abaebb2b78f
+397,Central cue minus Spatial cue: Orienting / Shifting network efficiency,,2014-01-22 10:47:18,cnt_52dfa1b677494,usr_523ef0e181acb
+398,% rhythm maintainance,,2011-06-06 19:29:21,cnt_4ded2a911252c,usr_4de5345b3b6a8
+399,tap speed,,2011-06-06 19:29:37,cnt_4ded2aa1ea79d,usr_4de5345b3b6a8
+400,rhythm tap,,2011-06-06 19:33:57,cnt_4ded2ba5e3681,usr_4de5345b3b6a8
+401,time tap,,2011-06-06 19:34:38,cnt_4ded2bceeda6b,usr_4de5345b3b6a8
+402,reaction time to correct stimuli,,2011-06-03 16:46:26,cnt_4de90fe2177d0,usr_4de5345b3b6a8
+403,percent correct,,2015-07-13 00:25:18,cnt_55a3056e571ca,usr_4e42a3196fbcd
+404,percent correct,,2015-07-13 00:30:18,cnt_55a3069a3b9f9,usr_4e42a3196fbcd
+405,response time,,2015-07-13 00:30:32,cnt_55a306a830bfc,usr_4e42a3196fbcd
+406,accuracy of participant minus average accuracy of controls,,2011-06-20 21:11:42,cnt_4dffb78e1edc6,usr_4de5345b3b6a8
+407,Painful versus Baseline ,,2011-09-08 15:38:20,cnt_4e68e16ce673d,usr_4e4a7f57b30e6
+408,Non-Painful versus Baseline,,2011-09-08 15:38:48,cnt_4e68e188bfadc,usr_4e4a7f57b30e6
+409,Painful versus Non-Painful,,2011-09-08 15:39:31,cnt_4e68e1b3598ac,usr_4e4a7f57b30e6
+410,Negativity Scale,,2011-05-31 23:53:17,cnt_4de57f6d43cfd,usr_4de5345b3b6a8
+411,Inconsistency Scale,,2011-05-31 23:53:33,cnt_4de57f7db9e97,usr_4de5345b3b6a8
+412,why minus how,,2015-04-28 18:00:44,cnt_553fcacc72dd6,usr_51bc76ae9636c
+413,belief minus photo,,2015-04-28 18:00:57,cnt_553fcad9e49ee,usr_51bc76ae9636c
+414,[why minus how] minus [belief minus photo] (interaction),,2015-04-28 18:01:39,cnt_553fcb03070af,usr_51bc76ae9636c
+415,why face minus how face,,2015-04-29 16:40:21,cnt_55410975ce70b,usr_51bc76ae9636c
+416,why hand minus how hand,,2015-04-29 16:40:33,cnt_5541098145b5a,usr_51bc76ae9636c
+417,why nonsocial minus how nonsocial,,2015-04-29 16:40:50,cnt_55410992b9c4b,usr_51bc76ae9636c
+418,[why face minus how nonsocial] minus [why nonsocial minus how face],,2015-04-29 16:41:19,cnt_554109af50e85,usr_51bc76ae9636c
+419,[why hand minus how nonsocial] minus [why nonsocial minus how hand],,2015-04-29 16:41:41,cnt_554109c5544c8,usr_51bc76ae9636c
+420,score,,2011-06-06 18:43:20,cnt_4ded1fc8db0c2,usr_4de5345b3b6a8
+421,amnesic versus control performance,,2012-08-06 18:59:53,cnt_5020142926f05,usr_4f177506dde77
+422,response time for risky decks minus response time for advantageous decks,,2011-06-09 18:10:22,cnt_4df10c8ee9834,usr_4de5345b3b6a8
+423,accuracy of subject minus average accuracy of controls,,2011-06-09 18:13:03,cnt_4df10d2fb170f,usr_4de5345b3b6a8
+424,"""safe"" deck versus ""risky"" deck choices",,2012-08-07 23:09:54,cnt_5021a042336c1,usr_4f177506dde77
+425,P cue–no cue P,,2012-08-09 20:50:36,cnt_5024229cb9cef,usr_4f177506dde77
+426,no cue U–no cue N,,2012-08-09 20:51:20,cnt_502422c805b89,usr_4f177506dde77
+427,go trial,,2015-04-28 18:04:46,cnt_553fcbbeaa31e,usr_51bc76ae9636c
+428,stop trial,,2015-04-28 18:04:46,cnt_553fcbbeaa537,usr_51bc76ae9636c
+429,stop signal reaction time,,2015-04-28 18:04:46,cnt_553fcbbeaa80f,usr_51bc76ae9636c
+430,successful stop trial,,2015-04-28 18:04:46,cnt_553fcbbeb237e,usr_51bc76ae9636c
+431,unsuccessful stop trial,,2015-04-28 18:04:46,cnt_553fcbbeb2507,usr_51bc76ae9636c
+432,successful stop trial minus go trial,,2015-04-28 18:04:46,cnt_553fcbbeb282f,usr_51bc76ae9636c
+433,successful stop trial minus failed stop trial,,2015-04-28 18:04:46,cnt_553fcbbeb291c,usr_51bc76ae9636c
+434,failed stop,,2015-04-28 18:04:46,cnt_553fcbbeb2a98,usr_51bc76ae9636c
+435,junk,,2015-04-28 18:04:46,cnt_553fcbbeb2c0c,usr_51bc76ae9636c
+436,all,,2015-04-28 18:04:46,cnt_553fcbbeb2f5e,usr_51bc76ae9636c
+437,unsuccessful minus successful,,2015-04-28 18:04:46,cnt_553fcbbeb30e2,usr_51bc76ae9636c
+438,percent correct,,2015-07-13 00:11:51,cnt_55a30247227e5,usr_4e42a3196fbcd
+439,response time,,2015-07-13 00:12:02,cnt_55a302526f444,usr_4e42a3196fbcd
+440,total score,,2013-10-14 19:49:19,cnt_525c4abf79872,usr_51bc76ae9636c
+441,expressive communication,,2013-10-30 21:35:44,cnt_52717bb0bb848,usr_51bc76ae9636c
+442,receptive communication,,2013-10-30 21:40:33,cnt_52717cd1461e2,usr_51bc76ae9636c
+443,daily living - personal,,2013-10-30 21:45:24,cnt_52717df4e8959,usr_51bc76ae9636c
+444,written communication,,2013-10-30 21:45:40,cnt_52717e043cd2f,usr_51bc76ae9636c
+445,daily living - domestic,,2013-10-30 21:46:03,cnt_52717e1b87a15,usr_51bc76ae9636c
+446,daily living - community,,2013-10-30 21:48:49,cnt_52717ec122bf9,usr_51bc76ae9636c
+447,maladaptive behavior,,2013-10-30 21:49:30,cnt_52717eeade9e5,usr_51bc76ae9636c
+448,interpersonal relationships,,2013-10-30 21:49:51,cnt_52717eff2a75d,usr_51bc76ae9636c
+449,play and leisure time,,2013-10-30 21:50:18,cnt_52717f1a9b5ee,usr_51bc76ae9636c
+450,coping skills,,2013-10-30 21:50:38,cnt_52717f2e9a362,usr_51bc76ae9636c
+451,gross motor,,2013-10-30 21:56:12,cnt_5271807c80df3,usr_51bc76ae9636c
+452,fine motor,,2013-10-30 21:56:31,cnt_5271808f8f605,usr_51bc76ae9636c
+453,JO social orient percent correct,,2013-12-02 19:34:38,cnt_529ce0ceec559,usr_51bc76ae9636c
+454,JO nonsocial orient percent correct,,2013-12-02 19:35:14,cnt_529ce0f2aa03d,usr_51bc76ae9636c
+455,JO joint attention percent correct,,2013-12-02 19:35:50,cnt_529ce116b5cff,usr_51bc76ae9636c
+456,JO social orient percent incorrect,,2013-12-02 19:36:19,cnt_529ce133886f4,usr_51bc76ae9636c
+457,JO nonsocial orient percent incorrect,,2013-12-02 19:36:41,cnt_529ce149671c4,usr_51bc76ae9636c
+458,JO joint attention percent incorrect,,2013-12-02 19:37:01,cnt_529ce15d64bc7,usr_51bc76ae9636c
+459,dual minus control,,2012-07-18 20:57:09,cnt_500723252de72,usr_4f177506dde77
+460,dual task RT minus single task RT,,2015-07-13 00:05:40,cnt_55a300d4a2e78,usr_4e42a3196fbcd
+461,percent correct,,2015-07-13 00:16:12,cnt_55a3034ca0943,usr_4e42a3196fbcd
+462,expectation violation (mean expected offer minus actual offer),,2015-04-27 19:12:28,cnt_553e8a1c41262,usr_51bc76ae9636c
+463,frequency of selecting the safe choice (20) minus frequency of selecting risky choices (40 and 80),,2011-06-16 17:21:58,cnt_4dfa3bb649f8a,usr_4de5345b3b6a8
+464,variable – invariant,,2012-07-16 22:47:43,cnt_50049a0f821aa,usr_4f177506dde77
+465,number of distractors,,2012-07-17 18:49:30,cnt_5005b3ba37b11,usr_4f177506dde77
+466,go trial,,2013-05-02 05:23:47,cnt_5181f863d5591,usr_4cf5de07654c8
+467,stop trial,,2013-05-02 05:23:47,cnt_5181f863d5647,usr_4cf5de07654c8
+468,successful stop trial,,2013-05-02 05:23:47,cnt_5181f863d542a,usr_4cf5de07654c8
+469,unsuccessful stop trial,,2013-05-02 05:23:47,cnt_5181f863d54db,usr_4cf5de07654c8
+470,successful stop trial minus go trial,,2013-05-02 05:23:47,cnt_5181f863d5290,usr_4cf5de07654c8
+471,stop signal reaction time,,2013-05-02 05:23:47,cnt_5181f863d5370,usr_4cf5de07654c8
+472,viewing monostable image minus global mean,,2015-04-28 18:18:38,cnt_553fcefe2f38d,usr_51bc76ae9636c
+473,viewing bistable image minus global mean,,2015-04-28 18:18:49,cnt_553fcf09c316c,usr_51bc76ae9636c
+474,pattern seen during bistable images minus pattern seen during monostable image,,2015-04-28 18:19:00,cnt_553fcf145379e,usr_51bc76ae9636c
+475,total score,,2013-10-17 18:37:46,cnt_52602e7ab102f,usr_51bc76ae9636c
+476,horizontal checkerboard,,2015-04-27 18:53:50,cnt_553e85be83924,usr_51bc76ae9636c
+477,vertical checkerboard,,2015-04-27 18:54:00,cnt_553e85c82f108,usr_51bc76ae9636c
+478,right audio click,,2015-04-27 18:54:12,cnt_553e85d4af020,usr_51bc76ae9636c
+479,left audio click,,2015-04-27 18:54:41,cnt_553e85f11747b,usr_51bc76ae9636c
+480,right video click,,2015-04-27 18:54:52,cnt_553e85fc78496,usr_51bc76ae9636c
+481,left video click,,2015-04-27 18:55:00,cnt_553e86042df77,usr_51bc76ae9636c
+482,audio computation,,2015-04-27 18:55:08,cnt_553e860cb6e0a,usr_51bc76ae9636c
+483,video computation,,2015-04-27 18:55:18,cnt_553e8616191c4,usr_51bc76ae9636c
+484,video sentences,,2015-04-27 18:56:16,cnt_553e865074ad4,usr_51bc76ae9636c
+485,audio sentences,,2015-04-27 18:56:29,cnt_553e865d69738,usr_51bc76ae9636c
+486,left click,,2015-04-27 18:56:35,cnt_553e8663d056a,usr_51bc76ae9636c
+487,right click,,2015-04-27 18:56:41,cnt_553e86698bd6b,usr_51bc76ae9636c
+488,checkerboard,,2015-04-27 18:56:50,cnt_553e8672a9f1d,usr_51bc76ae9636c
+489,motor,,2015-04-27 18:56:56,cnt_553e867843f97,usr_51bc76ae9636c
+490,computation,,2015-04-27 18:57:04,cnt_553e86803c9a5,usr_51bc76ae9636c
+491,sentences,,2015-04-27 18:57:11,cnt_553e868732f16,usr_51bc76ae9636c
+492,audio,,2015-04-27 18:57:16,cnt_553e868c4a13c,usr_51bc76ae9636c
+493,video,,2015-04-27 18:57:23,cnt_553e869334ef6,usr_51bc76ae9636c
+494,horizontal checkerboard minus vertical checkerboard,,2015-04-27 18:57:42,cnt_553e86a6a4c76,usr_51bc76ae9636c
+495,vertical checkerboard minus horizontal checkerboard,,2015-04-27 18:57:56,cnt_553e86b42d9ed,usr_51bc76ae9636c
+496,left click minus right click,,2015-04-27 18:58:05,cnt_553e86bd44b55,usr_51bc76ae9636c
+497,right click minus left click,,2015-04-27 18:58:14,cnt_553e86c6009b3,usr_51bc76ae9636c
+498,video minus audio,,2015-04-27 18:58:24,cnt_553e86d01c026,usr_51bc76ae9636c
+499,audio minus video,,2015-04-27 18:58:33,cnt_553e86d979710,usr_51bc76ae9636c
+500,motor minus cognitive,,2015-04-27 18:58:44,cnt_553e86e46731e,usr_51bc76ae9636c
+501,cognitive minus motor,,2015-04-27 18:58:53,cnt_553e86ed4315c,usr_51bc76ae9636c
+502,audio computation minus audio sentences,,2015-04-27 18:59:07,cnt_553e86fb2bff8,usr_51bc76ae9636c
+503,video computation minus video sentences,,2015-04-27 18:59:18,cnt_553e87063e84c,usr_51bc76ae9636c
+504,computation minus sentences,,2015-04-27 18:59:25,cnt_553e870ddfe83,usr_51bc76ae9636c
+505,video minus checkerboard,,2015-04-27 18:59:32,cnt_553e8714cbac7,usr_51bc76ae9636c
+506,video sentences minus checkerboard,,2015-04-27 18:59:42,cnt_553e871eb790c,usr_51bc76ae9636c
+507,audio click minus audio sentences,,2015-04-27 18:59:58,cnt_553e872e377e1,usr_51bc76ae9636c
+508,video click minus video sentences,,2015-04-27 19:00:12,cnt_553e873c6106c,usr_51bc76ae9636c
+509,effects of interest without time derivative,,2015-04-27 19:00:31,cnt_553e874fc762f,usr_51bc76ae9636c
+510,Pain versus No Pain,,2011-09-02 17:32:33,cnt_4e611331826a0,usr_4e4a7f57b30e6
+511,go-critical,,2015-04-24 01:22:29,cnt_55399ad50b4f4,usr_51bc76ae9636c
+512,stop-noncritical trial,,2010-10-06 22:12:56,cnt_4cacf4680bbcd,usr_49a467bf4e0db
+513,successful stop minus go,,2011-11-11 04:17:53,cnt_4ebca1f15eb7d,usr_4cf5de07654c8
+514,failed stop-critical ,,2011-11-11 04:18:10,cnt_4ebca202935c6,usr_4cf5de07654c8
+515,failed stop-noncritical ,,2011-11-11 04:18:41,cnt_4ebca22149619,usr_4cf5de07654c8
+516,junk ,,2011-11-11 04:19:01,cnt_4ebca2351bb79,usr_4cf5de07654c8
+517,go-critical minus go-noncritical,,2015-04-24 01:18:42,cnt_553999f2c69ef,usr_51bc76ae9636c
+518,unsuccessful stop minus successful stop,,2015-04-24 01:18:56,cnt_55399a008d960,usr_51bc76ae9636c
+519,go-noncritical,,2015-04-24 01:19:28,cnt_55399a202b4ff,usr_51bc76ae9636c
+520,all,,2015-04-24 01:30:02,cnt_55399c9a3ae82,usr_51bc76ae9636c
+521,successful stop-critical,,2015-04-24 01:19:59,cnt_55399a3f5e512,usr_51bc76ae9636c
+522,formulating sentences subtest,,2011-06-01 23:50:18,cnt_4de6d03ae67ac,usr_4de5345b3b6a8
+523,recalling sentences subtest,,2011-06-01 23:51:02,cnt_4de6d066cb97a,usr_4de5345b3b6a8
+524,sentence structure subtest,,2011-06-01 23:52:53,cnt_4de6d0d5790a3,usr_4de5345b3b6a8
+525,concepts and directions subtest,,2011-06-01 23:54:01,cnt_4de6d1194349d,usr_4de5345b3b6a8
+526,word classes subtest,,2011-06-01 23:55:17,cnt_4de6d1650c739,usr_4de5345b3b6a8
+527,word structure subtest,,2011-06-01 23:59:48,cnt_4de6d2747197f,usr_4de5345b3b6a8
+528,standard deviation,,2011-06-02 00:02:10,cnt_4de6d30243eb5,usr_4de5345b3b6a8
+529,semantic relationships subtest,,2011-06-02 00:07:04,cnt_4de6d42855dcd,usr_4de5345b3b6a8
+530,sentence assembly subtest,,2011-06-02 00:07:57,cnt_4de6d45dd9ceb,usr_4de5345b3b6a8
+531,subject groups,,2011-05-31 23:11:50,cnt_4de575b6944bf,usr_4de5345b3b6a8
+532,length of longest correct sequence,,2011-06-06 21:35:09,cnt_4ded480d5aec0,usr_4de5345b3b6a8
+533,Segmented blocks,,2010-02-17 14:54:29,cnt_4b7c0325a9f17,usr_49a467bf4e0db
+534,Unsegmented blocks,,2010-02-17 14:54:45,cnt_4b7c03351fc78,usr_49a467bf4e0db
+535,average male score minus average female score,,2011-06-10 18:38:11,cnt_4df26493887a0,usr_4de5345b3b6a8
+536,areas of activation during task minus baseline,,2011-06-10 18:44:15,cnt_4df265ff04368,usr_4de5345b3b6a8
+537,areas of activation during task minus baseline,,2011-06-20 18:34:17,cnt_4dff92a9d5875,usr_4de5345b3b6a8
+538,standard deviation of k (discounting),,2011-06-20 18:39:16,cnt_4dff93d462d38,usr_4de5345b3b6a8
+539,easy trials all,,2015-04-24 16:24:04,cnt_553a6e24c3c78,usr_51bc76ae9636c
+540,easy parametric,,2015-04-24 16:24:10,cnt_553a6e2abcca9,usr_51bc76ae9636c
+541,hard trials all,,2015-04-24 16:24:16,cnt_553a6e30d85a1,usr_51bc76ae9636c
+542,hard parametric,,2015-04-24 16:24:28,cnt_553a6e3c583d8,usr_51bc76ae9636c
+543,junk,,2015-04-24 16:24:36,cnt_553a6e4424e4d,usr_51bc76ae9636c
+544,all,,2015-04-24 16:24:41,cnt_553a6e49737bf,usr_51bc76ae9636c
+545,hard all minus easy all,,2015-04-24 16:24:50,cnt_553a6e52baf3b,usr_51bc76ae9636c
+546,average rating of sensation minus subject rating of sensation,,2011-06-10 23:12:11,cnt_4df2a4cb64388,usr_4de5345b3b6a8
+547,areas of activation during task minus baseline,,2011-06-10 23:12:18,cnt_4df2a4d2ecac9,usr_4de5345b3b6a8
+548,rating of sensation minus baseline,,2011-06-10 23:12:30,cnt_4df2a4de25215,usr_4de5345b3b6a8
+549,congruent cue,,2011-06-16 22:50:03,cnt_4dfa889b33ecf,usr_4de5345b3b6a8
+550,incongruent cue,,2011-06-16 22:52:13,cnt_4dfa891db4cf7,usr_4de5345b3b6a8
+551,incongruent response time - congruent response time,,2011-06-16 22:52:42,cnt_4dfa893ade336,usr_4de5345b3b6a8
+552,accuracy to congruent cues minus accuracy to incongruent cues,,2011-06-16 22:53:13,cnt_4dfa89596184f,usr_4de5345b3b6a8
+553,incorrect minus correct (incongruent),,2015-04-24 16:29:47,cnt_553a6f7bd6db8,usr_51bc76ae9636c
+554,incongruent correct,,2015-04-24 16:30:02,cnt_553a6f8aee26e,usr_51bc76ae9636c
+555,incorrect minus correct,,2015-04-24 16:30:23,cnt_553a6f9fc8748,usr_51bc76ae9636c
+556,incongruent minus congruent (correct),,2015-04-24 16:30:40,cnt_553a6fb033bb0,usr_51bc76ae9636c
+557,congruent correct,,2015-04-24 16:30:52,cnt_553a6fbcbd6e6,usr_51bc76ae9636c
+558,incongruent minus congruent,,2015-04-24 16:31:07,cnt_553a6fcb98efa,usr_51bc76ae9636c
+559,congruent incorrect,,2015-04-24 16:31:22,cnt_553a6fdae849b,usr_51bc76ae9636c
+560,incongruent incorrect,,2015-04-24 16:31:29,cnt_553a6fe1db191,usr_51bc76ae9636c
+561,participant score minus average score,,2011-06-22 16:34:42,cnt_4e0219a2de6be,usr_4de5345b3b6a8
+562,1-back,,2010-01-10 22:28:03,cnt_4b4a5473705db,usr_49a467bf4e0db
+563,2-back,,2010-01-10 22:28:17,cnt_4b4a5481dc0f2,usr_49a467bf4e0db
+564,3-back,,2010-01-10 22:28:32,cnt_4b4a5490f1bb4,usr_49a467bf4e0db
+565,3-back minus 1-back,,2010-01-10 22:29:49,cnt_4b4a54dd8d597,usr_49a467bf4e0db
+566,percent correct,,2015-07-13 00:20:37,cnt_55a304556bac7,usr_4e42a3196fbcd
+567,percent commission error,,2015-07-13 00:20:56,cnt_55a30468444a6,usr_4e42a3196fbcd
+568,0-back,,2011-06-27 21:25:01,cnt_4e08f52d8255d,usr_4de5345b3b6a8
+569,1-back,,2011-06-27 21:25:31,cnt_4e08f54b8a426,usr_4de5345b3b6a8
+570,2-back,,2011-06-27 21:25:55,cnt_4e08f563a47ed,usr_4de5345b3b6a8
+571,3-back,,2011-06-27 21:26:58,cnt_4e08f5a26773d,usr_4de5345b3b6a8
+572,3-back minus 0-back,,2011-06-27 21:27:06,cnt_4e08f5aa73703,usr_4de5345b3b6a8
+573,riddles,,2013-12-02 20:51:37,cnt_529cf2d97e3d3,usr_51bc76ae9636c
+574,matrices,,2013-12-02 21:29:03,cnt_529cfb9f8cce6,usr_51bc76ae9636c
+575,verbal,,2013-12-02 21:31:26,cnt_529cfc2e15385,usr_51bc76ae9636c
+576,nonverbal,,2013-12-02 21:31:58,cnt_529cfc4e356ce,usr_51bc76ae9636c
+577,IQ,,2013-12-02 21:32:09,cnt_529cfc5925318,usr_51bc76ae9636c
+578,false positives,,2013-01-17 19:33:01,cnt_50f851ed64f5f,usr_4de5345b3b6a8
+579,number correct,,2013-01-17 19:33:11,cnt_50f851f7a2cf5,usr_4de5345b3b6a8
+580,predicted premorbid IQ,,2016-07-27 17:58:17,cnt_5798f639d1544,usr_579611e01221d
+581,total errors,,2016-07-27 18:07:53,cnt_5798f8797e2d6,usr_579611e01221d
+582,HE vs LE food choice periods,http://neurovault.org/images/10924/,2015-08-08 22:48:48,cnt_55c68750052fa,usr_55b972918e005
+583,areas of activation during task minus baseline,,2011-06-10 23:01:12,cnt_4df2a238dd66b,usr_4de5345b3b6a8
+584,average rating of sensation minus subject rating of sensation ,,2011-06-10 23:02:21,cnt_4df2a27d637b3,usr_4de5345b3b6a8
+585,rating of sensation minus baseline,,2011-06-10 23:09:36,cnt_4df2a4307daec,usr_4de5345b3b6a8
+586,reaction time,,2012-05-16 18:50:20,cnt_4fb3f6ec53aa5,usr_4f177506dde77
+587,Target,,2010-01-10 22:24:13,cnt_4b4a538defadc,usr_49a467bf4e0db
+588,Nontarget,,2010-01-10 22:24:51,cnt_4b4a53b3e9525,usr_49a467bf4e0db
+589,areas of activation during task minus baseline,,2011-06-23 22:05:45,cnt_4e03b8b959bc9,usr_4de5345b3b6a8
+590,accuracy of participant minus average accuracy of controls,,2011-06-23 22:05:54,cnt_4e03b8c2457b4,usr_4de5345b3b6a8
+591,single task probe,,2015-03-05 21:32:11,cnt_54f8cb5b80caa,usr_49a467bf4e0db
+592,single task classification learning trials,,2011-11-11 04:54:13,cnt_4ebcaa755a7e5,usr_4cf5de07654c8
+593,reponse to US1 versus response to US2,,2012-08-09 18:41:10,cnt_50240446b8e2e,usr_4f177506dde77
+594,percent correct,,2013-01-28 21:23:10,cnt_5106ec3ec9e23,usr_4de5345b3b6a8
+595,congruent,,2015-04-27 17:38:42,cnt_553e742270631,usr_51bc76ae9636c
+596,incongruent,,2015-04-27 17:38:48,cnt_553e742833727,usr_51bc76ae9636c
+597,scrambled,,2015-04-27 17:38:53,cnt_553e742dd3beb,usr_51bc76ae9636c
+598,letter string,,2015-04-27 17:39:04,cnt_553e7438f2bef,usr_51bc76ae9636c
+599,scrambled minus letter string,,2015-04-29 20:07:35,cnt_55413a0769113,usr_51bc76ae9636c
+600,congruent minus scrambled,,2015-04-29 20:07:47,cnt_55413a13ad2fb,usr_51bc76ae9636c
+601,incongruent minus congruent,,2015-04-29 20:08:06,cnt_55413a264f834,usr_51bc76ae9636c
+602,incongruent minus scrambled,,2015-04-29 20:08:18,cnt_55413a3228c77,usr_51bc76ae9636c
+603,subject score minus population-matched average score,,2011-06-10 18:53:10,cnt_4df26816e1c98,usr_4de5345b3b6a8
+604,nonword length (number of syllables),,2012-07-24 17:35:57,cnt_500edcfd883ea,usr_4f177506dde77
+605,accuracy of participant minus average accuracy of controls,,2011-06-21 16:54:02,cnt_4e00ccaa100fd,usr_4de5345b3b6a8
+606,classification,,2013-10-19 18:11:50,cnt_5262cb66ad4cf,usr_51bc76ae9636c
+607,sequential order,,2013-10-19 18:12:02,cnt_5262cb729d8f4,usr_51bc76ae9636c
+608,repeated patterns,,2013-10-19 18:12:16,cnt_5262cb80328c7,usr_51bc76ae9636c
+609,design analogies,,2013-10-19 18:12:39,cnt_5262cb97eb717,usr_51bc76ae9636c
+610,reasoning,,2013-10-19 18:12:48,cnt_5262cba00d9d1,usr_51bc76ae9636c
+611,memory,,2013-10-19 18:12:56,cnt_5262cba80a837,usr_51bc76ae9636c
+612,visualization,,2013-10-19 18:13:19,cnt_5262cbbf50dc7,usr_51bc76ae9636c
+613,forward memory span,,2013-10-19 18:13:38,cnt_5262cbd26aa57,usr_51bc76ae9636c
+614,backward memory span,,2013-10-19 18:14:05,cnt_5262cbed815c6,usr_51bc76ae9636c
+615,immediate recognition,,2013-10-19 18:14:18,cnt_5262cbfa2cbb6,usr_51bc76ae9636c
+616,delayed recognition,,2013-10-19 18:14:32,cnt_5262cc0801239,usr_51bc76ae9636c
+617,associative memory,,2013-10-19 18:14:42,cnt_5262cc12a3d87,usr_51bc76ae9636c
+618,associative delayed memory,,2013-10-19 18:15:01,cnt_5262cc25f2467,usr_51bc76ae9636c
+619,spatial memory,,2013-10-19 18:15:18,cnt_5262cc368f077,usr_51bc76ae9636c
+620,visual coding,,2013-10-19 18:15:29,cnt_5262cc418ea0d,usr_51bc76ae9636c
+621,sustained attention,,2013-10-19 18:15:53,cnt_5262cc597b2b1,usr_51bc76ae9636c
+622,divided attention,,2013-10-19 18:16:04,cnt_5262cc64bb978,usr_51bc76ae9636c
+623,figure rotation,,2013-10-19 18:19:19,cnt_5262cd27045a1,usr_51bc76ae9636c
+624,% correct recall,,2012-11-28 19:04:26,cnt_50b6603a36ae2,usr_4de5345b3b6a8
+625,number correct,,2013-01-07 19:01:01,cnt_50eb1b6d46337,usr_4de5345b3b6a8
+626,regulate up,,2015-11-28 23:05:56,cnt_565a335495029,usr_51bc76ae9636c
+627,regulate down,,2015-11-28 23:06:05,cnt_565a335d476eb,usr_51bc76ae9636c
+628,regulate up minus regulate down,,2015-11-28 23:06:24,cnt_565a33703badb,usr_51bc76ae9636c
+629,accuracy without distractors minus accuracy with distractors,,2011-06-23 18:49:52,cnt_4e038ad0147d7,usr_4de5345b3b6a8
+630,reaction time of participant minus average reaction time of controls,,2011-06-23 18:51:08,cnt_4e038b1c6fd1f,usr_4de5345b3b6a8
+631,reaction time (to detect target) to one stimulus minus reaction time to paired stimuli,,2011-06-23 18:53:24,cnt_4e038ba42d3a7,usr_4de5345b3b6a8
+632,ADHD Inattentive - Severity Score,,2013-09-21 19:43:24,cnt_523df6dc5a14b,usr_51bc76ae9636c
+633,ADHD Combined - Severity Score,,2013-09-21 19:43:35,cnt_523df6e767ea6,usr_51bc76ae9636c
+634,ADHD Hyperactivity / Impulsivity - Severity Score,,2013-09-21 19:44:07,cnt_523df7075b68e,usr_51bc76ae9636c
+635,Conduct Disorder - Severity Score,,2013-09-21 19:44:22,cnt_523df7166b0aa,usr_51bc76ae9636c
+636,Antisocial Personality - Severity Score,,2013-09-21 19:44:39,cnt_523df727b2b2d,usr_51bc76ae9636c
+637,General Anxiety Disorder - Severity Score,,2013-09-21 19:44:51,cnt_523df733af85f,usr_51bc76ae9636c
+638,Opposition Defiant Disorder - Severity Score,,2013-09-21 19:45:09,cnt_523df74587157,usr_51bc76ae9636c
+639,Specific Phobia - Severity Score,,2013-09-21 19:45:29,cnt_523df759d51e4,usr_51bc76ae9636c
+640,Panic Attack - Severity Score,,2013-09-21 19:45:46,cnt_523df76abff7c,usr_51bc76ae9636c
+641,Obsessions - Severity Score,,2013-09-21 19:46:00,cnt_523df778821d2,usr_51bc76ae9636c
+642,Compulsions - Severity Score,,2013-09-21 19:46:09,cnt_523df7816b16b,usr_51bc76ae9636c
+643,PTSD - Severity Score,,2013-09-21 19:46:18,cnt_523df78aee64c,usr_51bc76ae9636c
+644,Motor Tics - Severity Score,,2013-09-21 19:46:33,cnt_523df7992469b,usr_51bc76ae9636c
+645,Vocal Tics - Severity Score,,2013-09-21 19:46:45,cnt_523df7a5120c9,usr_51bc76ae9636c
+646,Somatization Disorder - Severity Score,,2013-09-21 19:46:58,cnt_523df7b28d95a,usr_51bc76ae9636c
+647,Social Phobia - Severity Score,,2013-09-21 19:47:12,cnt_523df7c01a116,usr_51bc76ae9636c
+648,Separation Anxiety - Severity Score,,2013-09-21 19:47:34,cnt_523df7d6697ef,usr_51bc76ae9636c
+649,Schizoid Personality - Severity Score,,2013-09-21 19:47:44,cnt_523df7e0f0100,usr_51bc76ae9636c
+650,Schizophrenia - Severity Score,,2013-09-21 19:48:12,cnt_523df7fc9aa9f,usr_51bc76ae9636c
+651,Nocturnal Enuresis - Severity Score,,2013-09-21 19:48:26,cnt_523df80a6d9a1,usr_51bc76ae9636c
+652,Major Depressive Disorder - Severity Score,,2013-09-21 19:48:52,cnt_523df8243edb4,usr_51bc76ae9636c
+653,"Enuresis, Encopresis - Severity Score",,2013-09-21 19:49:04,cnt_523df830e8f93,usr_51bc76ae9636c
+654,Dysthymic Disorder - Severity Score,,2013-09-21 19:49:27,cnt_523df847494a2,usr_51bc76ae9636c
+655,Anorexia Nervosa - Severity Score,,2013-09-21 19:49:42,cnt_523df856697a2,usr_51bc76ae9636c
+656,Bipolar Disorder - Severity Score,,2013-09-21 19:50:06,cnt_523df86e56445,usr_51bc76ae9636c
+657,Bulimia Nervosa - Severity Score,,2013-09-21 19:50:21,cnt_523df87d24f91,usr_51bc76ae9636c
+658,shift-related incorrect responses,,2013-01-16 22:56:58,cnt_50f7303ade3dd,usr_4de5345b3b6a8
+659,response time and accuracy,,2011-06-03 19:47:51,cnt_4de93a6779688,usr_4de5345b3b6a8
+660,percent correct (number of correct sequences/number of total sequences),,2011-06-01 18:39:15,cnt_4de6875390f37,usr_4de5345b3b6a8
+661,incongruent minus congruent,,2011-06-17 19:58:45,cnt_4dfbb1f51259f,usr_4de5345b3b6a8
+662,incongruent minus neutral,,2011-08-09 17:38:08,cnt_4e41708078f47,usr_49a467bf4e0db
+663,incongruent minus congruent depending on the congruency condicition of the previous trial,,2014-04-24 11:03:49,cnt_5358ef9570ace,usr_530dde225d328
+664,Information,,2011-06-21 23:14:36,cnt_4e0125dc5bc09,usr_4de5345b3b6a8
+665,Digit Span,,2011-06-21 23:15:40,cnt_4e01261c45db8,usr_4de5345b3b6a8
+666,Vocabulary,,2011-06-21 23:16:13,cnt_4e01263d51c93,usr_4de5345b3b6a8
+667,Arithmetic,,2011-06-21 23:16:50,cnt_4e012662da2d7,usr_4de5345b3b6a8
+668,Comprehension,,2011-06-21 23:17:30,cnt_4e01268a18f79,usr_4de5345b3b6a8
+669,Similarities,,2011-06-21 23:18:17,cnt_4e0126b9ec56b,usr_4de5345b3b6a8
+670,Picture Completion,,2011-06-21 23:18:52,cnt_4e0126dc131ec,usr_4de5345b3b6a8
+671,Picture Arrangement,,2011-06-21 23:19:30,cnt_4e012702f0951,usr_4de5345b3b6a8
+672,Block Design,,2011-06-21 23:20:02,cnt_4e012722eeb57,usr_4de5345b3b6a8
+673,Digit Symbol,,2011-06-21 23:21:48,cnt_4e01278c5e632,usr_4de5345b3b6a8
+674,Object Assembly,,2011-06-21 23:22:19,cnt_4e0127abddfeb,usr_4de5345b3b6a8
+675,Verbal IQ minus Performance IQ,,2011-06-21 23:30:51,cnt_4e0129ab22608,usr_4de5345b3b6a8
+676,participant IQ minus average IQ,,2011-06-21 23:31:11,cnt_4e0129bf96513,usr_4de5345b3b6a8
+677,predicted premorbid IQ,,2016-07-27 18:11:19,cnt_5798f9476456f,usr_579611e01221d
+678,total errors,,2016-07-27 18:11:19,cnt_5798f947648b1,usr_579611e01221d
+679,age judgment,,2015-04-27 22:16:37,cnt_553eb5457e145,usr_51bc76ae9636c
+680,attractiveness judgment,,2015-04-27 22:16:48,cnt_553eb550dc520,usr_51bc76ae9636c
+681,trustworthiness judgment,,2015-04-27 22:17:08,cnt_553eb5644f96f,usr_51bc76ae9636c
+682,happiness judgment,,2015-04-27 22:17:14,cnt_553eb56aa25df,usr_51bc76ae9636c
+683,left motor response,,2015-04-27 22:17:22,cnt_553eb57214e91,usr_51bc76ae9636c
+684,right motor response,,2015-04-27 22:17:29,cnt_553eb57906332,usr_51bc76ae9636c
+685,stimulus onset asynchrony (SOA),,2012-07-10 23:04:44,cnt_4ffcb50c3f71c,usr_4f177506dde77
+686,stimulus onset asynchrony (SOA),,2012-11-27 03:12:55,cnt_50b42fb7d7c9d,usr_4f177506dde77
+687,percent detected,,2015-07-13 00:07:45,cnt_55a30151c0e78,usr_4e42a3196fbcd
+688,sleep,,2013-10-11 17:54:17,cnt_52583b494605a,usr_51bc76ae9636c
+689,appetite,,2013-10-11 17:54:42,cnt_52583b62b9127,usr_51bc76ae9636c
+690,sadness,,2013-10-11 17:55:50,cnt_52583ba6ea3bd,usr_51bc76ae9636c
+691,thinking / concentration,,2013-10-11 17:56:11,cnt_52583bbbcfd9c,usr_51bc76ae9636c
+692,lack of interest,,2013-10-11 17:56:24,cnt_52583bc89a63b,usr_51bc76ae9636c
+693,guilt,,2013-10-11 17:56:40,cnt_52583bd8020da,usr_51bc76ae9636c
+694,tired / fatigue,,2013-10-11 17:56:58,cnt_52583beae7af6,usr_51bc76ae9636c
+695,suicidal ideation,,2013-10-11 17:57:25,cnt_52583c058bea0,usr_51bc76ae9636c
+696,antisaccade,,2011-05-31 21:19:35,cnt_4de55b6707536,usr_4de5345b3b6a8
+697,prosaccade,,2011-05-31 21:19:51,cnt_4de55b77a9984,usr_4de5345b3b6a8
+698,mania,,2015-07-15 18:23:58,cnt_55a6a53e0515f,usr_51bc76ae9636c
+699,negative,,2015-07-15 18:24:14,cnt_55a6a54e3bce2,usr_51bc76ae9636c
+700,positive,,2015-07-15 18:24:20,cnt_55a6a554315f7,usr_51bc76ae9636c
+701,depanx,,2015-07-15 18:24:26,cnt_55a6a55ac4405,usr_51bc76ae9636c
+702,immediate recall,,2011-06-01 20:35:04,cnt_4de6a278a7dd5,usr_4de5345b3b6a8
+703,interference,,2011-06-01 20:36:14,cnt_4de6a2be90526,usr_4de5345b3b6a8
+704,long recall,,2011-06-01 20:37:07,cnt_4de6a2f38a5ed,usr_4de5345b3b6a8
+705,recognition trial,,2011-06-01 20:38:12,cnt_4de6a334313b1,usr_4de5345b3b6a8
+706,visual forgetting (trial 3 - delayed),,2016-07-25 13:36:41,cnt_579615e961f37,usr_579611e01221d
+707,verbal recall (people test),,2011-06-03 19:59:36,cnt_4de93d2864ae9,usr_4de5345b3b6a8
+708,visual recognition (doors test),,2011-06-03 20:02:34,cnt_4de93ddadf379,usr_4de5345b3b6a8
+709,visual recall (shapes test),,2011-06-03 20:03:54,cnt_4de93e2a13bb5,usr_4de5345b3b6a8
+710,verbal recognition (names test),,2011-06-03 20:05:23,cnt_4de93e831c09d,usr_4de5345b3b6a8
+711,verbal forgetting (trial 3 - delayed),,2016-07-25 13:32:36,cnt_579614f464f73,usr_579611e01221d
+712,number of errors,,2016-07-27 14:39:07,cnt_5798c78bcea27,usr_579611e01221d
+713,areas of activation during task minus baseline,,2011-06-13 23:25:37,cnt_4df69c712873f,usr_4de5345b3b6a8
+714,reading span of participant minus average reading span of controls,,2011-06-15 21:48:56,cnt_4df928c85f523,usr_4de5345b3b6a8
+715,copying test,,2011-06-01 17:05:40,cnt_4de6716415d2d,usr_4de5345b3b6a8
+716,size match,,2011-06-01 17:06:55,cnt_4de671af5aeb3,usr_4de5345b3b6a8
+717,length match,,2011-06-01 17:07:29,cnt_4de671d131ff9,usr_4de5345b3b6a8
+718,orientation match,,2011-06-01 17:07:51,cnt_4de671e75974e,usr_4de5345b3b6a8
+719,position of gap match,,2011-06-01 17:08:51,cnt_4de6722368730,usr_4de5345b3b6a8
+720,overlapping figures test,,2011-06-01 17:20:22,cnt_4de674d6a85e6,usr_4de5345b3b6a8
+721,object decision,,2011-06-01 17:23:22,cnt_4de6758abdfa5,usr_4de5345b3b6a8
+722,minimal feature match,,2011-06-01 17:32:26,cnt_4de677aa1e1bb,usr_4de5345b3b6a8
+723,foreshortened match,,2011-06-01 17:33:52,cnt_4de67800c904a,usr_4de5345b3b6a8
+724,drawing from memory test,,2011-06-01 17:36:23,cnt_4de6789784d77,usr_4de5345b3b6a8
+725,picture naming,,2011-06-01 17:37:36,cnt_4de678e027440,usr_4de5345b3b6a8
+726,accuracy of participant minus average accuracy of controls,,2011-06-16 22:22:12,cnt_4dfa8214869b9,usr_4de5345b3b6a8
+727,perservative errors minus nonperservative errors,,2011-06-16 22:28:18,cnt_4dfa838286e12,usr_4de5345b3b6a8
+728,Body ownership minus no body ownership,,2011-08-29 16:31:21,cnt_4e5bbed9bd8ae,usr_4e4a7f57b30e6
+729,attend negative stimulus,,2015-04-24 16:25:19,cnt_553a6e6f8336e,usr_51bc76ae9636c
+730,attend neutral stimulus,,2015-04-24 16:25:33,cnt_553a6e7daf8e6,usr_51bc76ae9636c
+731,reappraise negative rating,,2015-04-24 16:26:02,cnt_553a6e9a84bd2,usr_51bc76ae9636c
+732,attend negative minus attend neutral stimulus,,2015-12-22 21:21:07,cnt_5679bec3715cd,usr_51bc76ae9636c
+733,reappraise negative stimulus minus attend negative stimulus,,2015-04-24 16:27:05,cnt_553a6ed942692,usr_51bc76ae9636c
+734,response time,,2011-06-06 22:15:39,cnt_4ded518b33a0b,usr_4de5345b3b6a8
+735,kinematics,,2011-06-06 22:15:47,cnt_4ded51930eba6,usr_4de5345b3b6a8
+736,pressure exerted by participant minus average pressure,,2011-06-22 21:24:09,cnt_4e025d79cc9f9,usr_4de5345b3b6a8
+737,accuracy of participant minus average accuracy of controls,,2011-06-22 21:24:29,cnt_4e025d8d96ecf,usr_4de5345b3b6a8
+738,Choice periods of NSC versus SC trials,http://neurovault.org/images/10925/,2015-08-08 23:33:51,cnt_55c691df5c0c7,usr_55b972918e005
+739,verbal comprehension,,2013-10-22 19:04:52,cnt_5266cc547e0dd,usr_51bc76ae9636c
+740,expressive language,,2013-10-22 19:05:34,cnt_5266cc7eb942a,usr_51bc76ae9636c
+741,average time of men minus average time of women,,2011-06-20 23:58:43,cnt_4dffdeb36edc5,usr_4de5345b3b6a8
+742,participant&#39;s time minus average time,,2011-06-20 23:59:19,cnt_4dffded7a9be2,usr_4de5345b3b6a8
+743,areas of activation during task minus baseline,,2011-06-21 00:00:09,cnt_4dffdf0929a7b,usr_4de5345b3b6a8
+744,sum of strength scores x sum of items per hand,,2011-06-03 22:45:12,cnt_4de963f853b03,usr_4de5345b3b6a8
+745,0-back,,2011-06-17 18:17:22,cnt_4dfb9a322c52f,usr_4de5345b3b6a8
+746,1-back,,2011-06-17 18:18:29,cnt_4dfb9a75a2cff,usr_4de5345b3b6a8
+747,2-back,,2011-06-17 18:19:36,cnt_4dfb9ab8d70ce,usr_4de5345b3b6a8
+748,3-back,,2011-06-17 18:20:32,cnt_4dfb9af098602,usr_4de5345b3b6a8
+749,3-back minus 0-back,,2011-06-17 18:20:55,cnt_4dfb9b0719363,usr_4de5345b3b6a8
+750,reward amount,,2012-07-17 20:18:21,cnt_5005c88d1f7fc,usr_4f177506dde77
+751,reward probability,,2012-07-17 20:18:37,cnt_5005c89dd6bef,usr_4f177506dde77
+752,reward probability-amount ratio,,2012-07-17 20:25:42,cnt_5005ca466073a,usr_4f177506dde77
+753,First category,,2010-02-17 15:24:35,cnt_4b7c0a3329368,usr_49a467bf4e0db
+754,Subsequent categories,,2010-02-17 15:26:28,cnt_4b7c0aa41e7a4,usr_49a467bf4e0db
+755,Perseverative errors,,2010-02-17 15:49:50,cnt_4b7c101e9b549,usr_49a467bf4e0db
+756,Nonperseverative errors,,2010-02-17 15:50:11,cnt_4b7c1033c2b16,usr_49a467bf4e0db
+757,Failure to maintain set,,2010-02-17 15:51:40,cnt_4b7c108cc7a68,usr_49a467bf4e0db
+758,Total number of categories acheived,,2010-02-17 15:52:17,cnt_4b7c10b1b1de1,usr_49a467bf4e0db
+759,areas of activation during task minus baseline,,2011-06-22 21:57:23,cnt_4e026543eae67,usr_4de5345b3b6a8
+760,areas of activation during covert minus areas of activation during overt,,2011-06-22 21:57:30,cnt_4e02654a92111,usr_4de5345b3b6a8
+761,reward antisaccade,,2015-11-28 22:45:15,cnt_565a2e7be5281,usr_51bc76ae9636c
+762,neutral antisaccade,,2015-11-28 22:45:16,cnt_565a2e7c28333,usr_51bc76ae9636c
+763,reward antisaccade minus neutral antisaccade,,2015-11-28 22:52:55,cnt_565a3047b5740,usr_51bc76ae9636c
+764,d&#39;,,2011-06-03 17:28:47,cnt_4de919cf2b2bd,usr_4de5345b3b6a8
+765,number of correctly recalled items,,2012-02-19 23:17:30,cnt_4f41830a3d5a9,usr_49a467bf4e0db
+766,percent intrusions,,2015-07-13 00:31:53,cnt_55a306f9b7178,usr_4e42a3196fbcd
+767,inappropriate affect,,2015-07-15 21:26:35,cnt_55a6d00bbcd72,usr_51bc76ae9636c
+768,hallucinations,,2015-07-15 21:26:47,cnt_55a6d017a87a9,usr_51bc76ae9636c
+769,delusions,,2015-07-15 21:27:20,cnt_55a6d038c3861,usr_51bc76ae9636c
+770,bizarre behavior,,2015-07-15 21:27:30,cnt_55a6d042e6b4b,usr_51bc76ae9636c
+771,"sum of rate, accuracy, fluency, and comprehension scaled scores",,2011-06-06 22:26:52,cnt_4ded542c8c4f8,usr_4de5345b3b6a8
+772,words minus consonants,,2015-04-24 01:36:51,cnt_55399e33d9ed4,usr_51bc76ae9636c
+773,words,,2015-04-24 01:36:59,cnt_55399e3b3d13e,usr_51bc76ae9636c
+774,scrambled objects,,2015-04-24 01:37:08,cnt_55399e44106d4,usr_51bc76ae9636c
+775,objects minus scrambled,,2015-04-24 01:37:16,cnt_55399e4c6c429,usr_51bc76ae9636c
+776,objects,,2015-04-24 01:37:23,cnt_55399e5388e65,usr_51bc76ae9636c
+777,consonant strings,,2015-04-24 01:37:30,cnt_55399e5ab094d,usr_51bc76ae9636c
+778,accuracy of participant minus average accuracy of controls,,2011-06-13 22:18:20,cnt_4df68cac967cc,usr_4de5345b3b6a8
+779,same size-different size,,2012-07-16 19:36:47,cnt_50046d4f1c8a1,usr_4f177506dde77
+780,participant&#39;s responses vs. Nash equilibrium equation,,2011-06-23 21:43:00,cnt_4e03b364135e2,usr_4de5345b3b6a8
+781,reading comprehension age minus real age,,2011-06-22 17:47:04,cnt_4e022a9861397,usr_4de5345b3b6a8
+782,incongruent - congruent,,2009-12-04 19:59:33,cnt_4b196a25d1671,usr_0000000000
+783,incongruent - neutral,,2009-12-04 19:59:45,cnt_4b196a314e3c4,usr_0000000000
+784,ERP for related stimuli minus ERP for unrelated stimuli,,2011-06-16 21:06:22,cnt_4dfa704eaedf9,usr_4de5345b3b6a8
+785,accuracy of participant minus average accuracy of controls,,2011-06-16 21:07:40,cnt_4dfa709c313b1,usr_4de5345b3b6a8
+786,Semantically associated items,,2011-06-16 21:13:20,cnt_4dfa71f0c9d32,usr_4de5345b3b6a8
+787,Semantically unrelated items,,2011-06-16 21:14:31,cnt_4dfa7237ec1f0,usr_4de5345b3b6a8
+788,percent correct,,2015-07-13 00:14:03,cnt_55a302cbb1f7c,usr_4e42a3196fbcd
+789,number correct,,2013-01-28 22:01:45,cnt_5106f549c82ae,usr_4de5345b3b6a8
+790,Single Number,,2011-06-20 22:50:17,cnt_4dffcea990109,usr_4de5345b3b6a8
+791,Single Geometric Form,,2011-06-20 22:51:21,cnt_4dffcee92f400,usr_4de5345b3b6a8
+792,Single Nonsense Letter,,2011-06-20 22:56:56,cnt_4dffd0380146f,usr_4de5345b3b6a8
+793,Gestalt Figure,,2011-06-20 22:58:33,cnt_4dffd0991b237,usr_4de5345b3b6a8
+794,Single Letter,,2011-06-20 23:00:05,cnt_4dffd0f56b850,usr_4de5345b3b6a8
+795,Single Letter in Syllable Context,,2011-06-20 23:01:31,cnt_4dffd14b5b0b3,usr_4de5345b3b6a8
+796,Two Letters,,2011-06-20 23:02:25,cnt_4dffd181cb7da,usr_4de5345b3b6a8
+797,Sequence of Geometric Forms,,2011-06-20 23:03:55,cnt_4dffd1dbec4b1,usr_4de5345b3b6a8
+798,Four-Letter Nonsense Syllable (Unpronounceable),,2011-06-20 23:05:29,cnt_4dffd2399ebc0,usr_4de5345b3b6a8
+799,Four-Letter Nonsense Syllable (Pronounceable),,2011-06-20 23:06:40,cnt_4dffd280187c6,usr_4de5345b3b6a8
+800,Four-Letter Word,,2011-06-20 23:07:38,cnt_4dffd2bac8005,usr_4de5345b3b6a8
+801,Unspaced Four-Letter Word,,2011-06-20 23:09:27,cnt_4dffd3273f13e,usr_4de5345b3b6a8
+802,Single Number (Second Time),,2011-06-20 23:10:19,cnt_4dffd35b101cb,usr_4de5345b3b6a8
+803,# correct minus # incorrect/30 or 60 seconds,,2011-06-20 23:17:01,cnt_4dffd4ed38b03,usr_4de5345b3b6a8
+804,difference between scores at different times of administration,,2011-06-17 19:17:04,cnt_4dfba830d0974,usr_4de5345b3b6a8
+805,participant score minus average score,,2011-06-17 19:17:29,cnt_4dfba849ece4c,usr_4de5345b3b6a8
+806,Trait Anxiety ,,2011-06-17 19:18:20,cnt_4dfba87cdaf19,usr_4de5345b3b6a8
+807,State Anxiety,,2011-06-17 19:19:12,cnt_4dfba8b046120,usr_4de5345b3b6a8
+808,congruent correct,,2011-06-06 16:22:51,cnt_4decfedb91973,usr_4de5345b3b6a8
+809,incongruent correct,,2011-06-06 16:23:32,cnt_4decff04d5cb5,usr_4de5345b3b6a8
+810,incongruent response time minus congruent response time,,2011-06-06 16:25:09,cnt_4decff6567821,usr_4de5345b3b6a8
+811,incongruent minus congruent correct,,2014-04-24 11:06:01,cnt_5358f019cdf06,usr_530dde225d328
+812,incorrect minus correct,,2015-04-24 16:03:22,cnt_553a694a86e65,usr_51bc76ae9636c
+813,incorrect minus correct incongruent,,2015-04-24 16:03:42,cnt_553a695e0415c,usr_51bc76ae9636c
+814,percent correct,,2015-07-13 00:33:29,cnt_55a3075967471,usr_4e42a3196fbcd
+815,degree of association between unattended and attended,,2012-07-18 19:03:34,cnt_5007088618bd2,usr_4f177506dde77
+816,fixation time below maximum degree of eye movement,,2011-06-06 20:37:41,cnt_4ded3a95a6098,usr_4de5345b3b6a8
+817,degree of eye movement,,2011-06-06 20:39:50,cnt_4ded3b16cdb74,usr_4de5345b3b6a8
+818,accuracy,,2011-06-06 23:21:15,cnt_4ded60eb3a50f,usr_4de5345b3b6a8
+819,dual task classification learning trials,,2011-11-11 04:53:26,cnt_4ebcaa463d20e,usr_4cf5de07654c8
+820,dual-task tone counting probe,,2011-11-11 04:53:38,cnt_4ebcaa52e7dbd,usr_4cf5de07654c8
+821,no delay,,2010-01-10 23:14:45,cnt_4b4a5f651765d,usr_49a467bf4e0db
+822,delay,,2010-01-10 23:15:17,cnt_4b4a5f85437c2,usr_49a467bf4e0db
+823,delay minus no delay,,2010-01-10 23:19:59,cnt_4b4a609f11b96,usr_49a467bf4e0db
+824,percent correct,,2015-07-13 00:32:37,cnt_55a30725ee445,usr_4e42a3196fbcd
+825,ERP strength minus baseline,,2011-06-13 19:51:15,cnt_4df66a33d6b43,usr_4de5345b3b6a8
+826,areas of activation during task minus baseline,,2011-06-13 19:51:28,cnt_4df66a407cc2e,usr_4de5345b3b6a8
+827,accuracy of participant minus average accuracy of controls,,2011-06-13 19:51:57,cnt_4df66a5dec65d,usr_4de5345b3b6a8
+828,auditory oddball stimulus presentation,,2015-04-24 16:56:59,cnt_553a75dbedfc5,usr_51bc76ae9636c
+829,auditory standard stimulus presentation,,2015-04-24 16:57:34,cnt_553a75fe3ca65,usr_51bc76ae9636c
+830,behavioral response time following auditory oddball stimulus onset,,2015-04-24 16:58:29,cnt_553a76353b465,usr_51bc76ae9636c
+831,auditory all,,2015-04-24 16:58:38,cnt_553a763e198f5,usr_51bc76ae9636c
+832,auditory oddball,,2015-04-24 16:59:33,cnt_553a7675c00bc,usr_51bc76ae9636c
+833,auditory reaction time,,2015-04-24 16:59:40,cnt_553a767c981c7,usr_51bc76ae9636c
+834,auditory standard,,2015-04-24 16:59:47,cnt_553a7683a550a,usr_51bc76ae9636c
+835,auditory targets minus standards,,2015-04-24 16:59:57,cnt_553a768dc270f,usr_51bc76ae9636c
+836,visual oddball stimulus presentation,,2015-04-24 17:00:15,cnt_553a769fcbf40,usr_51bc76ae9636c
+837,visual standard stimulus presentation,,2015-04-24 17:02:08,cnt_553a7710d845a,usr_51bc76ae9636c
+838,behavioral response time following visual oddball stimulus onset,,2015-04-24 17:02:38,cnt_553a772e8ed98,usr_51bc76ae9636c
+839,visual all,,2015-04-24 17:02:45,cnt_553a773529f0e,usr_51bc76ae9636c
+840,visual targets minus standards,,2015-04-24 17:02:56,cnt_553a7740160a3,usr_51bc76ae9636c
+841,percent correct,,2015-07-13 00:18:15,cnt_55a303c74baf9,usr_4e42a3196fbcd
+842,success,,2013-01-16 22:51:42,cnt_50f72efe2012e,usr_4de5345b3b6a8
+843,spanish-english minus abstract-repeat,,2015-04-24 15:42:07,cnt_553a644f24049,usr_51bc76ae9636c
+844,english-english minus concrete-novel,,2015-04-24 15:42:23,cnt_553a645f6d002,usr_51bc76ae9636c
+845,abstract minus concrete,,2015-04-24 15:42:35,cnt_553a646be2a49,usr_51bc76ae9636c
+846,english-spanish minus abstract-repeat,,2015-04-24 15:42:52,cnt_553a647ca67ed,usr_51bc76ae9636c
+847,spanish-spanish minus abstract-repeat,,2015-04-24 15:43:08,cnt_553a648cc0a93,usr_51bc76ae9636c
+848,spanish-english minus concrete-novel,,2015-04-24 15:43:25,cnt_553a649d060b8,usr_51bc76ae9636c
+849,spanish-english minus concrete-repeat,,2015-04-24 15:43:47,cnt_553a64b3e171d,usr_51bc76ae9636c
+850,english-spanish minus concrete-novel,,2015-04-24 15:44:18,cnt_553a64d23c393,usr_51bc76ae9636c
+851,spanish-spanish minus concrete-novel,,2015-04-24 15:44:42,cnt_553a64ea67841,usr_51bc76ae9636c
+852,english-english minus concrete-repeat,,2015-04-24 15:45:37,cnt_553a6521c5c4d,usr_51bc76ae9636c
+853,english-spanish minus abstract-novel,,2015-04-24 15:46:42,cnt_553a65621ddd2,usr_51bc76ae9636c
+854,english-english minus abstract-repeat,,2015-04-24 15:46:59,cnt_553a6573c37ee,usr_51bc76ae9636c
+855,spanish-spanish minus concrete-repeat,,2015-04-24 15:47:40,cnt_553a659cba94c,usr_51bc76ae9636c
+856,spanish-spanish minus abstract-novel,,2015-04-24 15:48:02,cnt_553a65b24119c,usr_51bc76ae9636c
+857,all,,2015-04-24 15:48:08,cnt_553a65b8b5a92,usr_51bc76ae9636c
+858,spanish-english minus abstract-novel,,2015-04-24 15:48:24,cnt_553a65c88528d,usr_51bc76ae9636c
+859,novel minus repeat,,2015-04-24 15:50:24,cnt_553a6640aa059,usr_51bc76ae9636c
+860,english-spanish minus concrete-repeat,,2015-04-24 15:50:39,cnt_553a664f97104,usr_51bc76ae9636c
+861,english-english minus abstract-novel,,2015-04-24 15:50:51,cnt_553a665bef7b8,usr_51bc76ae9636c
+862,MVC minus baseline,,2011-06-09 19:03:25,cnt_4df118fd720dd,usr_4de5345b3b6a8
+863,total score,,2013-07-10 17:49:07,cnt_51dd9e934148a,usr_51bc76ae9636c
+864,social skill,,2013-07-21 17:26:28,cnt_51ec19c434db0,usr_51bc76ae9636c
+865,attention switching,,2013-07-21 17:26:42,cnt_51ec19d22283e,usr_51bc76ae9636c
+866,attention to detail,,2013-07-21 17:26:55,cnt_51ec19df23bcb,usr_51bc76ae9636c
+867,communication,,2013-07-21 17:27:17,cnt_51ec19f5be290,usr_51bc76ae9636c
+868,imagination,,2013-07-21 17:27:31,cnt_51ec1a03c57f1,usr_51bc76ae9636c
+869,"[(chosen minus best unchosen) on irrelevant attribute] MINUS [(chosen minus best unchosen) on relevant attribute], at time of decision.",,2015-04-27 22:06:49,cnt_553eb2f965ebd,usr_51bc76ae9636c
+870,attribute prediction error,,2015-04-27 22:07:13,cnt_553eb3113497b,usr_51bc76ae9636c
+871,reward prediction error,,2015-04-27 22:07:25,cnt_553eb31d57363,usr_51bc76ae9636c
+872,"Contrast [(chosen minus best unchosen) on irrelevant attribute] PLUS [(chosen minus best unchosen) on relevant attribute], at time of decision",,2015-04-27 22:08:15,cnt_553eb34fd6730,usr_51bc76ae9636c
+873,percent of time responded to joint attention,,2013-11-29 20:35:21,cnt_5298fa8955db0,usr_51bc76ae9636c
+874,mirror minus plain,,2013-04-23 18:17:45,cnt_5176d049049f8,usr_49a467bf4e0db
+875,switch minus nonswitch mirror only,,2015-04-24 16:07:44,cnt_553a6a506990c,usr_51bc76ae9636c
+876,plain-repeat,,2015-04-24 16:07:56,cnt_553a6a5cafdac,usr_51bc76ae9636c
+877,junk,,2015-04-24 16:08:02,cnt_553a6a62708eb,usr_51bc76ae9636c
+878,mirror-repeat nonswitch,,2015-04-24 16:08:20,cnt_553a6a7493147,usr_51bc76ae9636c
+879,mirror-reversal minus plain-text,,2015-04-24 16:08:41,cnt_553a6a8934d60,usr_51bc76ae9636c
+880,switch minus nonswitch plain only,,2015-04-24 16:09:00,cnt_553a6a9c84dca,usr_51bc76ae9636c
+881,switch minus nonswitch,,2015-04-24 16:09:14,cnt_553a6aaacecdf,usr_51bc76ae9636c
+882,plain-switch,,2015-04-24 16:09:34,cnt_553a6abe9438e,usr_51bc76ae9636c
+883,mirror-repeat switch,,2015-04-24 16:09:44,cnt_553a6ac873184,usr_51bc76ae9636c
+884,number of items correctly recalled,,2013-01-07 18:45:39,cnt_50eb17d3cde37,usr_4de5345b3b6a8
+885,number of incorrect dimension assignments,,2013-01-07 18:47:25,cnt_50eb183de4efb,usr_4de5345b3b6a8
+886,number of features correctly drawn,,2016-07-27 15:26:47,cnt_5798d2b73fb3b,usr_579611e01221d
+887,standard deviation from the mean score,,2011-06-22 22:34:34,cnt_4e026dfa02b6d,usr_4de5345b3b6a8
+888,Trait Affect,,2011-06-22 22:48:26,cnt_4e02713a45cdc,usr_4de5345b3b6a8
+889,State Affect,,2011-06-22 22:48:53,cnt_4e027155c037c,usr_4de5345b3b6a8
+890,Total score,,2016-07-25 17:38:49,cnt_57964ea91ff76,usr_579611e01221d
+891,age judgment,,2015-04-28 18:37:42,cnt_553fd376185ca,usr_51bc76ae9636c
+892,happiness judgment,,2015-04-28 18:37:52,cnt_553fd380354b2,usr_51bc76ae9636c
+893,trustworthiness judgment,,2015-04-28 18:38:01,cnt_553fd389b23b4,usr_51bc76ae9636c
+894,left motor response,,2015-04-28 18:38:12,cnt_553fd39457558,usr_51bc76ae9636c
+895,right motor response,,2015-04-28 18:38:21,cnt_553fd39d1fec4,usr_51bc76ae9636c
+896,hit rate (number of correct recognitions),,2011-06-02 18:03:39,cnt_4de7d07b4366d,usr_4de5345b3b6a8
+897,false alarm rate (number of incorrect recognitions),,2011-06-02 18:04:07,cnt_4de7d0972591c,usr_4de5345b3b6a8
+898,miss rate (number of items subject failed to recognize),,2011-06-02 18:04:35,cnt_4de7d0b31ce2e,usr_4de5345b3b6a8
+899,standard deviation of error,,2011-06-14 20:08:39,cnt_4df7bfc72c237,usr_4de5345b3b6a8
+900,parametric gain,,2013-05-02 05:20:30,cnt_5181f79e38fb2,usr_4cf5de07654c8
+901,parametric loss,,2010-10-06 21:47:54,cnt_4cacee8ad4b14,usr_49a467bf4e0db
+902,Loss aversion,,2010-10-06 21:49:08,cnt_4caceed40b5b9,usr_49a467bf4e0db
+903,number of choices with greater chance of loss than gain minus number of choices with greater chance of gain than loss,,2011-06-10 21:59:46,cnt_4df293d2889cb,usr_4de5345b3b6a8
+904,difference from indifference,,2013-04-22 22:22:23,cnt_5175b81f53bf3,usr_4cf5de07654c8
+905,task minus baseline,,2015-09-08 16:55:33,cnt_55ef1305643e9,usr_51bc76ae9636c
+906,picture vocabulary,,2013-10-30 17:37:37,cnt_527143e1d60c2,usr_51bc76ae9636c
+907,sentence combining,,2013-10-30 17:50:00,cnt_527146c8c759d,usr_51bc76ae9636c
+908,word ordering,,2013-10-30 18:12:26,cnt_52714c0a91b84,usr_51bc76ae9636c
+909,relational vocabulary,,2013-10-30 18:12:53,cnt_52714c2591532,usr_51bc76ae9636c
+910,morphological compensation,,2013-10-30 18:17:37,cnt_52714d41df4cd,usr_51bc76ae9636c
+911,multiple meanings,,2013-10-30 21:05:29,cnt_5271749977ff2,usr_51bc76ae9636c
+912,total score,,2013-10-30 21:12:20,cnt_52717634eaa19,usr_51bc76ae9636c
+913,total score,,2013-09-21 21:41:25,cnt_523e12859c3ce,usr_51bc76ae9636c
+914,copying,,2013-10-31 16:09:20,cnt_527280b09a883,usr_51bc76ae9636c
+915,early number concepts,,2013-10-31 16:09:38,cnt_527280c2b9042,usr_51bc76ae9636c
+916,matching letter-like forms,,2013-10-31 16:09:53,cnt_527280d15e0c1,usr_51bc76ae9636c
+917,matrices,,2013-10-31 16:10:10,cnt_527280e2da2da,usr_51bc76ae9636c
+918,naming vocabulary,,2013-10-31 16:10:36,cnt_527280fcbc7f6,usr_51bc76ae9636c
+919,pattern construction,,2013-10-31 16:10:59,cnt_52728113402ad,usr_51bc76ae9636c
+920,phonological processing,,2013-10-31 16:11:17,cnt_52728125ee3cf,usr_51bc76ae9636c
+921,picture similarities,,2013-10-31 16:11:42,cnt_5272813e7ad58,usr_51bc76ae9636c
+922,rapid naming,,2013-10-31 16:12:03,cnt_52728153ba9d7,usr_51bc76ae9636c
+923,recall of designs,,2013-10-31 16:13:12,cnt_52728198e8de8,usr_51bc76ae9636c
+924,recall of digits,,2013-10-31 16:13:32,cnt_527281ac7d9b4,usr_51bc76ae9636c
+925,recall of objects,,2013-10-31 16:13:46,cnt_527281ba2970c,usr_51bc76ae9636c
+926,recall of sequential order,,2013-10-31 16:14:25,cnt_527281e1d41da,usr_51bc76ae9636c
+927,recognition of pictures,,2013-10-31 16:14:41,cnt_527281f1ea4c3,usr_51bc76ae9636c
+928,sequential and quantitative reasoning,,2013-10-31 16:15:01,cnt_52728205170c9,usr_51bc76ae9636c
+929,verbal similarities,,2013-10-31 16:15:18,cnt_52728216c4a99,usr_51bc76ae9636c
+930,speed of information processing,,2013-10-31 16:15:32,cnt_52728224d01c3,usr_51bc76ae9636c
+931,verbal comprehension,,2013-10-31 16:15:46,cnt_5272823262ea5,usr_51bc76ae9636c
+932,word definitions,,2013-10-31 16:15:59,cnt_5272823f1ac11,usr_51bc76ae9636c
+933,modulation of endurance and tone,,2013-10-24 16:04:19,cnt_526945035073c,usr_51bc76ae9636c
+934,auditory processing,,2013-10-24 16:04:38,cnt_5269451644ae7,usr_51bc76ae9636c
+935,modulation of movement,,2013-10-24 16:07:54,cnt_526945da9b9c0,usr_51bc76ae9636c
+936,visual processing,,2013-10-24 16:47:43,cnt_52694f2f10eef,usr_51bc76ae9636c
+937,vestibular processing,,2013-10-24 16:48:55,cnt_52694f7753cc0,usr_51bc76ae9636c
+938,multi-sensory processing,,2013-10-24 16:49:36,cnt_52694fa003431,usr_51bc76ae9636c
+939,modulation of body position and movement,,2013-10-24 18:59:00,cnt_52696df47325c,usr_51bc76ae9636c
+940,modulation of movement affecting activity level,,2013-10-24 21:45:06,cnt_526994e2f34fe,usr_51bc76ae9636c
+941,modulation of sensory input affecting emotional responses,,2013-10-24 21:45:30,cnt_526994fa6650a,usr_51bc76ae9636c
+942,modulation of visual input,,2013-10-24 21:45:54,cnt_5269951211abd,usr_51bc76ae9636c
+943,emotional and social responses,,2013-10-24 21:46:13,cnt_52699525e50e4,usr_51bc76ae9636c
+944,behavioral outcomes of sensory processing,,2013-10-24 21:50:09,cnt_5269961107e91,usr_51bc76ae9636c
+945,number of items to be counted (past subitizing threshold),,2012-08-13 19:38:01,cnt_50295799192b3,usr_4f177506dde77
+946,number of distractors,,2012-08-13 19:49:05,cnt_50295a3179605,usr_4f177506dde77
+947,high minus low load conditions,,2012-08-13 20:02:25,cnt_50295d51eda87,usr_4f177506dde77
+948,accuracy of participant minus average accuracy of controls,,2011-06-21 18:31:51,cnt_4e00e397017e2,usr_4de5345b3b6a8
+949,accuracy of participant minus average accuracy of controls,,2011-06-23 17:40:42,cnt_4e037a9a47d41,usr_4de5345b3b6a8
+950,gaze shifts,,2013-10-30 22:21:45,cnt_527186794628a,usr_51bc76ae9636c
+951,positive affect,,2013-10-30 22:21:55,cnt_5271868393809,usr_51bc76ae9636c
+952,emotion and eye gaze,,2013-10-30 22:22:17,cnt_5271869901fb5,usr_51bc76ae9636c
+953,communication,,2013-10-30 22:23:09,cnt_527186cd116f2,usr_51bc76ae9636c
+954,behavioral regulation,,2013-10-30 22:23:21,cnt_527186d95c3cb,usr_51bc76ae9636c
+955,social interaction,,2013-10-30 22:27:23,cnt_527187cbb684e,usr_51bc76ae9636c
+956,joint attention,,2013-10-30 22:30:02,cnt_5271886ab5997,usr_51bc76ae9636c
+957,gestures,,2013-10-30 22:31:43,cnt_527188cf5d8c6,usr_51bc76ae9636c
+958,words,,2013-10-30 22:36:33,cnt_527189f1d8eca,usr_51bc76ae9636c
+959,sounds,,2013-10-30 22:37:14,cnt_52718a1a2fcf1,usr_51bc76ae9636c
+960,understanding,,2013-10-30 22:37:41,cnt_52718a35e6077,usr_51bc76ae9636c
+961,social composite,,2013-10-30 22:38:13,cnt_52718a55b30db,usr_51bc76ae9636c
+962,speech composite,,2013-10-30 22:38:48,cnt_52718a781a09a,usr_51bc76ae9636c
+963,symbolic composite,,2013-10-30 22:40:13,cnt_52718acd157fb,usr_51bc76ae9636c
+964,postural sway,,2013-01-07 23:10:54,cnt_50eb55fe03a71,usr_4de5345b3b6a8
+965,normalized path length,,2013-01-07 23:11:39,cnt_50eb562b899ef,usr_4de5345b3b6a8
+966,language structure,,2013-10-09 21:25:57,cnt_5255c9e5a349e,usr_51bc76ae9636c
+967,pragmatic skills,,2013-10-09 21:26:09,cnt_5255c9f1ebfda,usr_51bc76ae9636c
+968,social engagement,,2013-10-09 21:26:19,cnt_5255c9fbe77f0,usr_51bc76ae9636c
+969,speech,,2013-10-09 21:32:43,cnt_5255cb7b65a68,usr_51bc76ae9636c
+970,general communication composite,,2013-10-09 21:32:58,cnt_5255cb8a5a7c9,usr_51bc76ae9636c
+971,syntax,,2013-10-09 21:34:04,cnt_5255cbcce4b86,usr_51bc76ae9636c
+972,semantics,,2013-10-09 21:34:15,cnt_5255cbd7b880a,usr_51bc76ae9636c
+973,coherence,,2013-10-09 21:34:32,cnt_5255cbe8f3d77,usr_51bc76ae9636c
+974,initiation,,2013-10-09 21:34:44,cnt_5255cbf47097d,usr_51bc76ae9636c
+975,context,,2013-10-09 21:35:18,cnt_5255cc169ffda,usr_51bc76ae9636c
+976,scripted language,,2013-10-09 21:35:32,cnt_5255cc24c4013,usr_51bc76ae9636c
+977,interests,,2013-10-09 21:36:04,cnt_5255cc441ddfb,usr_51bc76ae9636c
+978,relational complexity,,2012-08-06 18:33:03,cnt_50200ddfae9f9,usr_4f177506dde77
+979,Successful Stop trial - Go trial,,2013-05-02 05:23:07,cnt_5181f83b8ef06,usr_4cf5de07654c8
+980,Stop Signal Reaction Time,,2013-05-02 05:23:07,cnt_5181f83b8ece8,usr_4cf5de07654c8
+981,Successful Stop Trial,,2013-05-02 05:23:07,cnt_5181f83b8ed9a,usr_4cf5de07654c8
+982,Unsuccessful stop trial,,2013-05-02 05:23:07,cnt_5181f83b8ee51,usr_4cf5de07654c8
+983,Go trial,,2013-05-02 05:23:07,cnt_5181f83b8eaae,usr_4cf5de07654c8
+984,Stop trial,,2013-05-02 05:23:07,cnt_5181f83b8ec28,usr_4cf5de07654c8
+985,ERP strength minus baseline,,2011-06-15 21:00:53,cnt_4df91d85ed597,usr_4de5345b3b6a8
+986,accuracy during task minus accuracy of some baseline test (e.g. only one pattern),,2011-06-15 21:01:53,cnt_4df91dc172a88,usr_4de5345b3b6a8
+987,accuracy of participant minus average accuracy of controls,,2011-06-15 21:02:10,cnt_4df91dd29b1c6,usr_4de5345b3b6a8
+988,famous minus nonfamous,,2012-07-18 23:29:17,cnt_500746cd3e89f,usr_4f177506dde77
+989,percent correct,,2013-01-18 18:32:33,cnt_50f99541d75ac,usr_4de5345b3b6a8
+990,number of moves required to complete task,,2013-01-17 19:12:06,cnt_50f84d060a842,usr_4de5345b3b6a8
+991,number of problems solved on first choice,,2013-01-17 19:13:51,cnt_50f84d6fe2b09,usr_4de5345b3b6a8
+992,accuracy of participant minus average accuracy of controls,,2011-06-10 21:49:38,cnt_4df2917218780,usr_4de5345b3b6a8
+993,longest correct sequence of controls minus longest correct sequence of subject,,2011-06-10 21:50:00,cnt_4df2918824fb9,usr_4de5345b3b6a8
+994,cumulative duration of exposure to stimulus,,2012-08-14 21:41:36,cnt_502ac610413b0,usr_4f177506dde77
+995,duration of stimulus presentation interval,,2012-08-14 21:42:01,cnt_502ac6291faaa,usr_4f177506dde77
+996,cumulative duration of exposure to stimulus,,2012-08-14 21:42:28,cnt_502ac644ac8c8,usr_4f177506dde77
+997,contrast between stimuli,,2012-08-14 22:15:53,cnt_502ace1922626,usr_4f177506dde77
+998,number of exposures to stimulus,,2012-08-14 22:22:23,cnt_502acf9fbd81c,usr_4f177506dde77
+999,reaction time,,2012-11-28 00:44:04,cnt_50b55e542e51d,usr_4de5345b3b6a8
+1000,omissions,,2012-11-28 00:44:25,cnt_50b55e6945a0e,usr_4de5345b3b6a8
+1001,commissions (false positives),,2012-11-28 00:44:44,cnt_50b55e7cdd645,usr_4de5345b3b6a8
+1002,standard deviation from the mean population score in the language of the participant,,2011-06-09 21:38:40,cnt_4df13d6084e80,usr_4de5345b3b6a8
+1003,number of plates read correctly by controls with normal color vision minus number of plates read correctly by subject,,2011-06-09 18:23:24,cnt_4df10f9cbd86c,usr_4de5345b3b6a8
+1004,Transformation plates,,2011-06-09 18:42:27,cnt_4df114130545a,usr_4de5345b3b6a8
+1005,Vanishing plates,,2011-06-09 18:43:10,cnt_4df1143e30adb,usr_4de5345b3b6a8
+1006,Hidden Digits plates,,2011-06-09 18:44:40,cnt_4df11498b1933,usr_4de5345b3b6a8
+1007,Vocabulary,,2011-06-21 23:49:54,cnt_4e012e2269d7d,usr_4de5345b3b6a8
+1008,Information,,2011-06-21 23:51:00,cnt_4e012e64947cf,usr_4de5345b3b6a8
+1009,Logical Memory,,2011-06-21 23:55:39,cnt_4e012f7ba05e2,usr_4de5345b3b6a8
+1010,Verbal Paired Associates,,2011-06-21 23:56:48,cnt_4e012fc0a6d05,usr_4de5345b3b6a8
+1011,Designs,,2011-06-21 23:58:30,cnt_4e01302681cd3,usr_4de5345b3b6a8
+1012,Visual Reproduction,,2011-06-21 23:59:39,cnt_4e01306ba8db6,usr_4de5345b3b6a8
+1013,Spatial Addition,,2011-06-22 00:00:16,cnt_4e013090c4cf1,usr_4de5345b3b6a8
+1014,Symbol Span,,2011-06-22 00:01:13,cnt_4e0130c979bf1,usr_4de5345b3b6a8
+1015,participant score minus average score,,2011-06-22 00:09:00,cnt_4e01329cad8aa,usr_4de5345b3b6a8
+1016,immediate score minus delayed score,,2011-06-22 00:14:28,cnt_4e0133e4d4fe1,usr_4de5345b3b6a8
+1017,distraction minus standard,,2012-07-18 20:22:10,cnt_50071af2372d9,usr_4f177506dde77
+1018,aloof personality,,2013-09-21 20:11:25,cnt_523dfd6ddf9ef,usr_51bc76ae9636c
+1019,rigid personality,,2013-09-21 20:11:43,cnt_523dfd7f816b6,usr_51bc76ae9636c
+1020,pragmatic language,,2013-09-21 20:12:13,cnt_523dfd9d6a5ba,usr_51bc76ae9636c
+1021,areas of activation during task minus baseline,,2011-06-22 19:32:10,cnt_4e02433a9f223,usr_4de5345b3b6a8
+1022,ERP strength minus baseline,,2011-06-22 19:32:22,cnt_4e0243468cb6f,usr_4de5345b3b6a8
+1023,viewing unhealthy foods minus viewing healthy foods during feedback trials,,2015-04-28 17:03:25,cnt_553fbd5d4a2e9,usr_51bc76ae9636c
+1024,receiving feedback that peers disagreed minus peers agreed during feedback trials [peers higher + peers lower > 2*peers agree],,2015-04-28 17:04:25,cnt_553fbd9907040,usr_51bc76ae9636c
+1025,receiving feedback that peers agreed minus peers disagreed during feedback trials [2*peers agree > peers higher + peers lower],,2015-04-28 17:04:54,cnt_553fbdb6b1d18,usr_51bc76ae9636c
+1026,operation span of participant minus average operation span of controls,,2011-06-13 21:30:50,cnt_4df6818a8bcec,usr_4de5345b3b6a8
+1027,percent correct,,2015-07-13 00:09:49,cnt_55a301cd38de4,usr_4e42a3196fbcd
+1028,percent detected,,2015-07-13 00:09:58,cnt_55a301d6d57b9,usr_4e42a3196fbcd
+1029,mean number of boxes opened,,2013-01-16 23:54:36,cnt_50f73dbc3a2e7,usr_4de5345b3b6a8
+1030,probability of the participant&#39;s decision being correct based on the available evidence at the time of the decision,,2013-01-16 23:55:15,cnt_50f73de372e77,usr_4de5345b3b6a8
+1031,forward,,2011-05-31 22:44:25,cnt_4de56f49c2858,usr_4de5345b3b6a8
+1032,backward,,2011-05-31 22:45:14,cnt_4de56f7a17762,usr_4de5345b3b6a8
+1033,communication,,2013-11-29 19:38:26,cnt_5298ed32ea678,usr_51bc76ae9636c
+1034,repetitive behavior,,2013-11-29 19:38:45,cnt_5298ed452d73c,usr_51bc76ae9636c
+1035,regulatory behavior,,2013-11-29 19:38:59,cnt_5298ed53c8281,usr_51bc76ae9636c
+1036,social,,2013-11-29 19:39:11,cnt_5298ed5f7af62,usr_51bc76ae9636c
+1037,sensory,,2013-11-29 19:39:21,cnt_5298ed6939932,usr_51bc76ae9636c
+1038,tone,,2013-11-29 19:39:29,cnt_5298ed71daa03,usr_51bc76ae9636c
+1039,stressful event,,2013-11-29 19:39:44,cnt_5298ed8042bfc,usr_51bc76ae9636c
+1040,participant score minus average score,,2011-06-10 21:28:30,cnt_4df28c7e2f855,usr_4de5345b3b6a8
+1041,speed versus accuracy,,2012-07-31 21:42:13,cnt_50185135a51fc,usr_4f177506dde77
+1042,age of first word (months),,2013-10-15 18:09:03,cnt_525d84bfad373,usr_51bc76ae9636c
+1043,age of first phrases (months),,2013-10-15 18:09:23,cnt_525d84d3df53b,usr_51bc76ae9636c
+1044,infant babbling,,2013-10-15 18:10:02,cnt_525d84fa886ed,usr_51bc76ae9636c
+1045,hearing concerns,,2013-10-15 18:11:12,cnt_525d8540300d6,usr_51bc76ae9636c
+1046,echolalia,,2013-10-15 18:11:29,cnt_525d8551c4a1a,usr_51bc76ae9636c
+1047,eating,,2013-10-15 18:12:42,cnt_525d859ac7a85,usr_51bc76ae9636c
+1048,gait,,2013-10-15 18:13:51,cnt_525d85df4d1dc,usr_51bc76ae9636c
+1049,overactivity,,2013-10-15 18:14:19,cnt_525d85fbf2cb1,usr_51bc76ae9636c
+1050,self injury,,2013-10-15 18:15:03,cnt_525d862700cc6,usr_51bc76ae9636c
+1051,sleep problems,,2013-10-15 18:18:19,cnt_525d86eb4aeaa,usr_51bc76ae9636c
+1052,tantrums,,2013-10-15 18:19:36,cnt_525d8738330eb,usr_51bc76ae9636c
+1053,abnormal or negative response to sensory stimuli,,2013-10-15 18:20:08,cnt_525d8758edffb,usr_51bc76ae9636c
+1054,compulsions and rituals,,2013-10-15 18:20:30,cnt_525d876e43942,usr_51bc76ae9636c
+1055,difficulty with minor change,,2013-10-15 18:21:14,cnt_525d879a4aca1,usr_51bc76ae9636c
+1056,hand and finger mannerisms,,2013-10-15 18:21:43,cnt_525d87b78dee5,usr_51bc76ae9636c
+1057,unusual attachment to objects,,2013-10-15 18:22:51,cnt_525d87fb5b1f1,usr_51bc76ae9636c
+1058,unusual sensory interests,,2013-10-15 18:23:18,cnt_525d8816f017f,usr_51bc76ae9636c
+1059,noise sensitivity,,2013-10-15 18:23:37,cnt_525d882970b5d,usr_51bc76ae9636c
+1060,head shaking,,2013-10-15 18:24:16,cnt_525d8850bf413,usr_51bc76ae9636c
+1061,imaginative play,,2013-10-15 18:24:53,cnt_525d88753a6ed,usr_51bc76ae9636c
+1062,level of language,,2013-10-15 18:25:16,cnt_525d888c5c514,usr_51bc76ae9636c
+1063,imitation,,2013-10-15 18:26:14,cnt_525d88c670300,usr_51bc76ae9636c
+1064,social verbalization,,2013-10-15 18:26:34,cnt_525d88dac8010,usr_51bc76ae9636c
+1065,direct gaze,,2013-10-15 18:27:58,cnt_525d892ec0346,usr_51bc76ae9636c
+1066,facial expression,,2013-10-15 18:28:36,cnt_525d895459b16,usr_51bc76ae9636c
+1067,smiling,,2013-10-15 18:28:45,cnt_525d895db3590,usr_51bc76ae9636c
+1068,accuracy,,2011-06-02 16:24:10,cnt_4de7b92a0ce43,usr_4de5345b3b6a8
+1069,reaction time to figures minus reaction time to Kanizsa figures,,2011-06-09 20:57:06,cnt_4df133a20d8da,usr_4de5345b3b6a8
+1070,accuracy of participant minus average accuracy of controls,,2011-06-09 20:57:24,cnt_4df133b48842d,usr_4de5345b3b6a8
+1071,meditation versus control self-report of affect,,2012-08-08 22:14:04,cnt_5022e4acafe58,usr_4f177506dde77
+1072,general oscillatory synchrony,,2012-08-08 22:15:03,cnt_5022e4e75d375,usr_4f177506dde77
+1073,meditation versus control decrease in power of alpha oscillations,,2012-08-08 22:42:50,cnt_5022eb6a0eabd,usr_4f177506dde77
+1074,meditation versus control frontal midline theta activity,,2012-08-08 22:46:08,cnt_5022ec302de82,usr_4f177506dde77
+1075,meditation versus control theta oscillations,,2012-08-08 23:05:52,cnt_5022f0d06e757,usr_4f177506dde77
+1076,meditation versus control galvanic skin response,,2012-08-08 23:06:47,cnt_5022f1079e925,usr_4f177506dde77
+1077,meditation versus control alpha coherence,,2012-08-08 23:13:10,cnt_5022f28631d3c,usr_4f177506dde77
+1078,number correct,,2013-01-18 18:49:05,cnt_50f9992176d5c,usr_4de5345b3b6a8
+1079,number of correct rejections,,2013-01-18 18:49:25,cnt_50f999352af03,usr_4de5345b3b6a8
+1080,false positives,,2013-01-18 18:49:35,cnt_50f9993f9d744,usr_4de5345b3b6a8
+1081,gains minus losses,,2011-06-15 17:44:19,cnt_4df8ef730f4cb,usr_4de5345b3b6a8
+1082,accuracy of participant minus average accuracy of controls,,2011-06-15 17:44:26,cnt_4df8ef7a8d7c3,usr_4de5345b3b6a8
+1083,number correct,,2013-01-14 04:05:55,cnt_50f38423c93aa,usr_4de5345b3b6a8
+1084,Interstimulus Interval (ISI),,2012-07-11 17:41:12,cnt_4ffdbab8b5539,usr_4f177506dde77
+1085,highest level of command correctly performed,,2016-07-27 15:03:25,cnt_5798cd3deaac0,usr_579611e01221d
+1086,accuracy of subject minus average accuracy of controls,,2011-06-09 21:27:06,cnt_4df13aaa3f2be,usr_4de5345b3b6a8
+1087,Go trials,,2010-01-10 19:49:02,cnt_4b4a2f2e27574,usr_49a467bf4e0db
+1088,Stop trial,,2010-01-10 19:49:26,cnt_4b4a2f46e2faa,usr_49a467bf4e0db
+1089,stop minus go,,2011-06-06 21:59:33,cnt_4ded4dc5b5118,usr_4de5345b3b6a8
+1090,accuracy of participant minus average accuracy of controls,,2011-06-07 19:45:17,cnt_4dee7fcd869e8,usr_4de5345b3b6a8
+1091,d&#39; (difference between correct identifications and false alarms),,2011-06-15 22:01:48,cnt_4df92bccc5ae1,usr_4de5345b3b6a8
+1092,hider,,2011-06-02 18:54:33,cnt_4de7dc695fabb,usr_4de5345b3b6a8
+1093,guesser,,2011-06-02 18:56:10,cnt_4de7dcca346d1,usr_4de5345b3b6a8
+1094,object occlusion and misinformation scores,,2011-06-02 19:01:15,cnt_4de7ddfb129a6,usr_4de5345b3b6a8
+1095,accuracy,,2011-06-02 19:02:44,cnt_4de7de54cdce7,usr_4de5345b3b6a8
+1096,spoken language,,2013-10-30 17:11:03,cnt_52713da7a1f5d,usr_51bc76ae9636c
+1097,written language,,2013-10-30 17:14:56,cnt_52713e90e499d,usr_51bc76ae9636c
+1098,general language,,2013-10-30 17:15:15,cnt_52713ea34e4a3,usr_51bc76ae9636c
+1099,Switch trial,,2010-04-23 18:49:18,cnt_4bd1ebae45752,usr_4bd1dae5124ba
+1100,Repeat trial,,2010-04-23 18:50:03,cnt_4bd1ebdb08e17,usr_4bd1dae5124ba
+1101,switch trial - repeat trial = switch cost,,2010-04-23 18:52:00,cnt_4bd1ec505dd14,usr_4bd1dae5124ba
+1102,participant score minus average score of non-smoking controls,,2011-06-20 20:58:43,cnt_4dffb483c4c3f,usr_4de5345b3b6a8
+1103,average score of smoking controls minus participant score,,2011-06-20 20:59:09,cnt_4dffb49d604fa,usr_4de5345b3b6a8
+1104,eye movement reaction time,,2015-04-09 22:01:14,cnt_5526f6aa83790,usr_4e42a3196fbcd
+1105,main experiment,,2015-04-28 17:56:59,cnt_553fc9eb4a0ab,usr_51bc76ae9636c
+1106,main experiment minus control experiment,,2015-04-28 17:57:08,cnt_553fc9f429430,usr_51bc76ae9636c
+1107,control experiment,,2015-04-28 17:57:14,cnt_553fc9fa8a39b,usr_51bc76ae9636c
+1108,main plus control experiment,,2015-04-29 22:58:31,cnt_5541621795e47,usr_51bc76ae9636c
+1109,classification trials: deterministic,,2015-03-05 21:34:03,cnt_54f8cbcb6fab6,usr_49a467bf4e0db
+1110,classification trials: probabilistic,,2011-11-11 04:55:48,cnt_4ebcaad4c41d7,usr_4cf5de07654c8
+1111,junk single-task items,,2015-04-24 15:57:05,cnt_553a67d1e4b8e,usr_51bc76ae9636c
+1112,junk dual-task items,,2015-04-24 15:57:14,cnt_553a67dadf57e,usr_51bc76ae9636c
+1113,areas of activation during task minus baseline,,2014-04-10 12:38:09,cnt_534690b1afd30,usr_49a467bf4e0db
+1114,areas of activation during covert minus areas of activation during overt,,2014-04-10 12:38:09,cnt_534690b1b9fd1,usr_49a467bf4e0db
+1115,Repetition minus baseline,,2014-04-10 12:44:13,cnt_5346921d1d3fa,usr_49a467bf4e0db
+1116,cue onset asynchrony,,2011-07-28 22:52:16,cnt_4e31e8204dad4,usr_4e31cbdaeab0d
+1117,standard deviation from the mean score,,2011-06-20 19:07:26,cnt_4dff9a6e99c08,usr_4de5345b3b6a8
+1118,number of adjacent pairs correct,,2013-01-07 18:32:58,cnt_50eb14da0c5d3,usr_4de5345b3b6a8
+1119,d&#39; (difference between correct identifications and false alarms),,2011-06-21 20:41:11,cnt_4e0101e7e8898,usr_4de5345b3b6a8
+1120,frequency of participant&#39;s saccades minus average saccade frequency,,2011-06-21 20:52:32,cnt_4e0104905eaa1,usr_4de5345b3b6a8
+1121,path of eye movements,,2011-06-21 20:53:44,cnt_4e0104d85693b,usr_4de5345b3b6a8
+1122,standard deviation from the mean accuracy score,,2011-06-15 22:57:32,cnt_4df938dc89175,usr_4de5345b3b6a8
+1123,accuracy of participant minus average accuracy of controls,,2011-06-15 23:00:15,cnt_4df9397fa59bd,usr_4de5345b3b6a8
+1124,gains minus losses,,2011-06-15 23:03:24,cnt_4df93a3c9bd2c,usr_4de5345b3b6a8
+1125,proportion of correct responses,,2012-08-08 00:09:16,cnt_5021ae2c2ab3c,usr_4f177506dde77
+1126,commission errors (false alarms),,2012-07-18 19:23:39,cnt_50070d3b312f4,usr_4f177506dde77
+1127,proportion of correct to incorrect responses,,2012-07-18 19:32:45,cnt_50070f5d10c03,usr_4f177506dde77
+1128,activity level / energy,,2013-11-29 19:15:29,cnt_5298e7d15982e,usr_51bc76ae9636c
+1129,attentional focusing,,2013-11-29 19:15:42,cnt_5298e7de72d54,usr_51bc76ae9636c
+1130,attentional shifting,,2013-11-29 19:15:53,cnt_5298e7e9cce5d,usr_51bc76ae9636c
+1131,cuddliness,,2013-11-29 19:16:06,cnt_5298e7f615c45,usr_51bc76ae9636c
+1132,discomfort,,2013-11-29 19:16:15,cnt_5298e7ffb4564,usr_51bc76ae9636c
+1133,fear,,2013-11-29 19:16:36,cnt_5298e814e6fcd,usr_51bc76ae9636c
+1134,frustration,,2013-11-29 19:16:49,cnt_5298e8212f015,usr_51bc76ae9636c
+1135,high intensity pleasure,,2013-11-29 19:17:04,cnt_5298e8307848f,usr_51bc76ae9636c
+1136,impulsivity,,2013-11-29 19:17:49,cnt_5298e85d6d494,usr_51bc76ae9636c
+1137,inhibitory control,,2013-11-29 19:18:02,cnt_5298e86a0ad46,usr_51bc76ae9636c
+1138,low intensity pleasure,,2013-11-29 19:18:15,cnt_5298e8770e879,usr_51bc76ae9636c
+1139,motor activation,,2013-11-29 19:18:48,cnt_5298e898828cf,usr_51bc76ae9636c
+1140,perceptual sensitivity,,2013-11-29 19:19:04,cnt_5298e8a800088,usr_51bc76ae9636c
+1141,positive anticipation,,2013-11-29 19:19:17,cnt_5298e8b54ac46,usr_51bc76ae9636c
+1142,sadness,,2013-11-29 19:19:36,cnt_5298e8c899b82,usr_51bc76ae9636c
+1143,shyness,,2013-11-29 19:19:49,cnt_5298e8d589544,usr_51bc76ae9636c
+1144,soothability,,2013-11-29 19:20:01,cnt_5298e8e13c3a3,usr_51bc76ae9636c
+1145,sociability,,2013-11-29 19:26:37,cnt_5298ea6de528f,usr_51bc76ae9636c
+1146,remembered minus forgotten,,2015-04-27 23:30:26,cnt_553ec692268ca,usr_51bc76ae9636c
+1147,remembered plus forgotten minus null events,,2015-04-27 23:30:40,cnt_553ec6a0a72d3,usr_51bc76ae9636c
+1148,accuracy of participant minus average accuracy of controls,,2011-06-13 23:53:58,cnt_4df6a3169f42a,usr_4de5345b3b6a8
+1149,Punish,,2015-04-17 18:00:35,cnt_55314a4320df9,usr_51bc76ae9636c
+1150,Reward,,2015-04-17 18:00:43,cnt_55314a4b8ec77,usr_51bc76ae9636c
+1151,Punish minus Reward,,2015-04-17 18:01:46,cnt_55314a8aa3751,usr_51bc76ae9636c
+1152,Negative Punish,,2015-04-17 18:01:59,cnt_55314a9748fe6,usr_51bc76ae9636c
+1153,Negative Reward,,2015-04-17 18:02:18,cnt_55314aaa2239e,usr_51bc76ae9636c
+1154,Reward minus Punish,,2015-04-17 18:02:37,cnt_55314abd12b63,usr_51bc76ae9636c
+1155,accuracy of participant minus average accuracy of controls,,2011-06-15 18:59:43,cnt_4df9011fa1f5b,usr_4de5345b3b6a8
+1156,accuracy during task minus accuracy of some baseline test (like matching),,2011-06-15 19:00:43,cnt_4df9015bcfad3,usr_4de5345b3b6a8
+1157,CS-US interval,,2012-08-09 17:57:13,cnt_5023f9f966183,usr_4f177506dde77
+1158,breath-holding index (mean blood flow velocity over time),,2011-06-01 20:00:33,cnt_4de69a61a2545,usr_4de5345b3b6a8
+1159,the examiner&#39;s evaluation,,2011-06-17 21:44:48,cnt_4dfbcad0d0f28,usr_4de5345b3b6a8
+1160,gross motor,,2013-10-19 19:00:55,cnt_5262d6e7255a4,usr_51bc76ae9636c
+1161,visual reception,,2013-10-19 19:01:04,cnt_5262d6f024e7d,usr_51bc76ae9636c
+1162,fine motor,,2013-10-19 19:01:19,cnt_5262d6ff7da05,usr_51bc76ae9636c
+1163,expressive language,,2013-10-19 19:01:29,cnt_5262d709f36dd,usr_51bc76ae9636c
+1164,receptive language,,2013-10-19 19:01:40,cnt_5262d714c6169,usr_51bc76ae9636c
+1165,average accuracy of controls minus accuracy of participant,,2011-06-13 21:15:35,cnt_4df67df7aaaea,usr_4de5345b3b6a8
+1166,response time to risky choices minus response time to non-risky choices,,2011-06-23 22:21:27,cnt_4e03bc67764f5,usr_4de5345b3b6a8
+1167,number of participant&#39;s risky choices minus average number of risky choices,,2011-06-23 22:21:53,cnt_4e03bc8177610,usr_4de5345b3b6a8
+1168,same images,,2011-06-01 21:21:56,cnt_4de6ad74bd885,usr_4de5345b3b6a8
+1169,novel images,,2011-06-01 21:23:31,cnt_4de6add395167,usr_4de5345b3b6a8
+1170,novel images with noise,,2011-06-01 21:25:18,cnt_4de6ae3e231dd,usr_4de5345b3b6a8
+1171,stimulus onset asynchrony (SOA),,2012-08-06 20:11:59,cnt_5020250f031a2,usr_4f177506dde77
+1172,longest correct sequence of controls minus longest correct sequence of subject,,2011-06-09 23:33:50,cnt_4df1585e55f60,usr_4de5345b3b6a8
+1173,average number of trials per pattern change,,2011-06-06 16:49:19,cnt_4ded050f2e7f1,usr_4de5345b3b6a8
+1174,accuracy of subject minus average accuracy of controls,,2011-06-09 17:54:12,cnt_4df108c45e041,usr_4de5345b3b6a8
+1175,proportion of dots moving randomly,,2012-07-30 21:52:24,cnt_501702188843e,usr_4f177506dde77
+1176,proportion of dots moving in a specific direction other than target,,2012-08-14 18:34:58,cnt_502a9a529d5d1,usr_4f177506dde77
+1177,parametric acquired bias,,2015-04-28 17:35:48,cnt_553fc4f4362c1,usr_51bc76ae9636c
+1178,parametric context based action reward error,,2015-04-28 17:36:01,cnt_553fc50126261,usr_51bc76ae9636c
+1179,receptive language,,2013-10-30 16:49:00,cnt_5271387cc163d,usr_51bc76ae9636c
+1180,expressive language,,2013-10-30 16:49:29,cnt_52713899ea192,usr_51bc76ae9636c
+1181,total score,,2013-10-30 17:00:26,cnt_52713b2a0d0e7,usr_51bc76ae9636c
+1182,total score,,2013-01-14 08:06:36,cnt_50f3bc8c135bc,usr_4de5345b3b6a8
+1183,energy/extraversion,,2013-09-22 21:08:04,cnt_523f5c34d27c1,usr_51bc76ae9636c
+1184,conscientiousness,,2013-09-22 21:08:29,cnt_523f5c4dc38bf,usr_51bc76ae9636c
+1185,emotional instability,,2013-09-22 21:08:46,cnt_523f5c5e490b9,usr_51bc76ae9636c
+1186,agreeableness,,2013-09-22 21:09:00,cnt_523f5c6c34adc,usr_51bc76ae9636c
+1187,intellect/openness,,2013-09-22 21:09:27,cnt_523f5c876e89c,usr_51bc76ae9636c
+1188,number or percentage of words remembered,,2011-06-07 17:26:25,cnt_4dee5f41244cc,usr_4de5345b3b6a8
+1189,mean grip strength,,2013-11-29 22:13:06,cnt_52991172871a9,usr_51bc76ae9636c
+1190,grooved peg total time,,2013-11-29 22:15:01,cnt_529911e50beb7,usr_51bc76ae9636c
+1191,localized brain activation in face matching versus other object matching,,2012-08-07 19:13:05,cnt_502168c10e933,usr_4f177506dde77
+1192,reverse role passive minus reverse role active,,2016-07-25 16:54:11,cnt_57964433e0efb,usr_579611e01221d
+1193,reverse role minus lexical,,2016-07-25 16:53:54,cnt_5796442240254,usr_579611e01221d
+1194,supra-span minus span,,2011-06-27 21:52:23,cnt_4e08fb9717d43,usr_4de5345b3b6a8
+1195,percent correct,,2015-07-13 00:08:37,cnt_55a3018591a8d,usr_4e42a3196fbcd
+1196,social interest,,2013-09-23 14:53:20,cnt_524055e0365e7,usr_51bc76ae9636c
+1197,expressiveness,,2013-09-23 14:53:32,cnt_524055ec1c81d,usr_51bc76ae9636c
+1198,restricted interests,,2013-09-23 14:53:52,cnt_52405600433b6,usr_51bc76ae9636c
+1199,conversational skill,,2013-09-23 14:54:03,cnt_5240560bb6b8c,usr_51bc76ae9636c
+1200,Comprehension,,2011-06-10 22:20:53,cnt_4df298c596941,usr_4de5345b3b6a8
+1201,Production,,2011-06-10 22:21:49,cnt_4df298fddce13,usr_4de5345b3b6a8
+1202,areas of activation during task minus baseline,,2011-06-10 22:22:08,cnt_4df29910c149e,usr_4de5345b3b6a8
+1203,accuracy of subject minus average accuracy of controls,,2011-06-10 22:23:52,cnt_4df29978d4002,usr_4de5345b3b6a8
+1204,Inter Stimulus Interval,,2015-04-07 22:20:57,cnt_55245849e85e0,usr_4e42a3196fbcd
+1205,Color,,2015-04-07 22:26:40,cnt_552459a006d45,usr_4e42a3196fbcd
+1206,lips,,2015-04-24 16:19:39,cnt_553a6d1b80024,usr_51bc76ae9636c
+1207,finger,,2015-04-24 16:20:21,cnt_553a6d4507859,usr_51bc76ae9636c
+1208,foot,,2015-04-24 16:20:27,cnt_553a6d4b20f76,usr_51bc76ae9636c
+1209,invalidly minus validly cued objects,,2015-04-24 16:04:39,cnt_553a69974d4eb,usr_51bc76ae9636c
+1210,cue minus fixation,,2015-04-24 16:04:54,cnt_553a69a6226a2,usr_51bc76ae9636c
+1211,response time to identify target,,2015-07-13 00:12:58,cnt_55a3028a5477b,usr_4e42a3196fbcd
+1212,Stimulation at PT+1.3°C minus Baseline,,2011-08-31 18:25:43,cnt_4e5e7ca787237,usr_4e4a7f57b30e6
+1213,Stimulation at PT+0.7°C minus Baseline,,2011-08-31 18:25:15,cnt_4e5e7c8b11873,usr_4e4a7f57b30e6
+1214,Stimulation at PT-0.7°C minus Baseline,,2011-08-31 18:24:37,cnt_4e5e7c658c494,usr_4e4a7f57b30e6
+1215,Stimulation at PT-1.0°C minus Baseline,,2011-08-31 18:24:17,cnt_4e5e7c5149eec,usr_4e4a7f57b30e6
+1216,risky option,,2011-06-01 23:06:29,cnt_4de6c5f53e708,usr_4de5345b3b6a8
+1217,non-risky option,,2011-06-01 23:07:26,cnt_4de6c62e9b5da,usr_4de5345b3b6a8
+1218,tone counting probe,,2015-03-05 21:31:19,cnt_54f8cb27bce65,usr_49a467bf4e0db
+1219,tone counting trials,,2011-11-11 04:51:45,cnt_4ebca9e1d3a16,usr_4cf5de07654c8
+1220,Semantically correct,,2011-06-16 20:42:59,cnt_4dfa6ad39f546,usr_4de5345b3b6a8
+1221,Semantically anomalous,,2011-06-16 20:44:12,cnt_4dfa6b1c622b1,usr_4de5345b3b6a8
+1222,d&#39; (difference between correct identifications and false alarms),,2011-06-16 20:46:37,cnt_4dfa6bad0c724,usr_4de5345b3b6a8
+1223,accuracy on semantically anomalous sentences minus accuracy on semantically correct sentences,,2011-06-16 20:47:30,cnt_4dfa6be222aa7,usr_4de5345b3b6a8
+1224,accuracy of participant minus average accuracy of controls,,2011-06-17 23:17:29,cnt_4dfbe08944a96,usr_4de5345b3b6a8
+1225,Internalizing,,2013-09-20 20:01:22,cnt_523ca992819fd,usr_51bc76ae9636c
+1226,Externalizing,,2013-09-20 20:00:08,cnt_523ca9488df58,usr_51bc76ae9636c
+1227,response time to second stimulus minus response time to first stimulus,,2011-06-20 17:40:19,cnt_4dff8603c1398,usr_4de5345b3b6a8
+1228,precision of participant minus precision of controls,,2011-06-20 17:41:49,cnt_4dff865de2859,usr_4de5345b3b6a8
+1229,level of processing (semantic versus phonemic or structural),,2012-07-23 19:58:03,cnt_500daccbafe09,usr_4f177506dde77
+1230,span length,,2013-01-17 20:44:20,cnt_50f862a47dd49,usr_4de5345b3b6a8
+1231,false positives,,2013-01-17 20:44:30,cnt_50f862ae98fc9,usr_4de5345b3b6a8
+1232,Congruent Cue,,2011-06-21 21:19:39,cnt_4e010aebbc19d,usr_4de5345b3b6a8
+1233,Incongruent Cue,,2011-06-21 21:20:12,cnt_4e010b0c971d5,usr_4de5345b3b6a8
+1234,reaction time to incongruent cues minus reaction time to congruent cues,,2011-06-21 21:20:50,cnt_4e010b32b9f74,usr_4de5345b3b6a8
+1235,final reversal errors minus correct responses,,2012-07-30 19:50:54,cnt_5016e59e25341,usr_4f177506dde77
+1236,other preceding reversal errors minus correct responses,,2012-07-30 19:51:07,cnt_5016e5ab53cce,usr_4f177506dde77
+1237,probabilistic errors minus correct responses,,2012-07-30 19:51:20,cnt_5016e5b8068a9,usr_4f177506dde77
+1238,final reversal errors minus other preceding reversal errors,,2012-07-30 19:51:31,cnt_5016e5c349611,usr_4f177506dde77
+1239,final reversal errors minus probabilistic errors,,2012-07-30 19:51:42,cnt_5016e5cec4bf4,usr_4f177506dde77
+1240,task A vs. task B,,2016-05-13 17:07:29,cnt_573609d150d95,usr_5550e439ddade
+1241,delayed inention vs. no delayed intention,,2016-05-13 17:07:47,cnt_573609e3a736d,usr_5550e439ddade
+1242,response time * accuracy compared to median,,2012-08-08 19:04:57,cnt_5022b85961b86,usr_4f177506dde77
+1243,theta score,,2013-01-07 18:07:03,cnt_50eb0ec7d3a0e,usr_4de5345b3b6a8
+1244,inattention score,,2013-10-14 19:58:07,cnt_525c4ccfd861d,usr_51bc76ae9636c
+1245,hyperactivity score,,2013-10-14 19:58:23,cnt_525c4cdf291ad,usr_51bc76ae9636c
+1246,learning problems,,2013-10-14 19:58:43,cnt_525c4cf3157f7,usr_51bc76ae9636c
+1247,executive functioning,,2013-10-14 19:58:58,cnt_525c4d023f957,usr_51bc76ae9636c
+1248,aggression,,2013-10-14 19:59:12,cnt_525c4d10ef555,usr_51bc76ae9636c
+1249,peer relations,,2013-10-14 19:59:37,cnt_525c4d2927062,usr_51bc76ae9636c
+1250,oppositional,,2013-11-28 22:54:28,cnt_5297c9a46ea03,usr_51bc76ae9636c
+1251,perfectionism,,2013-11-28 22:55:23,cnt_5297c9dbcc0ef,usr_51bc76ae9636c
+1252,social cognition,,2013-11-28 22:56:31,cnt_5297ca1f4b4b9,usr_51bc76ae9636c
+1253,cognitive problems,,2013-11-28 22:56:41,cnt_5297ca29b8826,usr_51bc76ae9636c
+1254,anxiety,,2013-11-29 22:25:03,cnt_5299143fed521,usr_51bc76ae9636c
+1255,high-value go choice at probe,,2015-04-27 18:05:15,cnt_553e7a5b2584d,usr_51bc76ae9636c
+1256,high-value go minus nogo at probe,,2015-04-27 18:05:22,cnt_553e7a6205b87,usr_51bc76ae9636c
+1257,nogo last scan training run,,2015-04-30 18:32:48,cnt_5542755046230,usr_51bc76ae9636c
+1258,go last scan training run,,2015-04-30 18:32:41,cnt_5542754960e93,usr_51bc76ae9636c
+1259,trace interval duration,,2012-08-09 18:18:40,cnt_5023ff000759f,usr_4f177506dde77
+1260,total score,,2015-06-20 20:08:53,cnt_5585c855ab224,usr_51bc76ae9636c
+1261,average degrees of movement minus participant degrees of movement,,2011-06-23 21:21:58,cnt_4e03ae76b40ab,usr_4de5345b3b6a8
+1262,percent correct,,2013-01-16 23:23:31,cnt_50f73673c04d8,usr_4de5345b3b6a8
+1263,punishment,,2012-08-09 19:36:02,cnt_50241122ad82b,usr_4f177506dde77
+1264,reinforcement,,2012-08-09 19:39:57,cnt_5024120d1b9af,usr_4f177506dde77
+1265,behavior - consequence interval,,2012-08-09 20:11:23,cnt_5024196b356d6,usr_4f177506dde77
+1266,post-extinction duration,,2012-08-20 22:47:39,cnt_5032be8b13109,usr_4f177506dde77
+1267,Noxious minus non-noxious stimulation,,2011-08-30 15:57:51,cnt_4e5d087f98fb2,usr_4e4a7f57b30e6
+1268,number correct,,2013-01-17 18:34:45,cnt_50f844459f8c3,usr_4de5345b3b6a8
+1269,shift-related incorrect responses,,2013-01-17 18:34:53,cnt_50f8444dd50db,usr_4de5345b3b6a8
+1270,response time with competing stimuli minus response time with a single stimuli or congruent stimuli,,2011-06-16 18:09:28,cnt_4dfa46d8c1622,usr_4de5345b3b6a8
+1271,accuracy with a single stimuli or congruent stimuli minus accuracy with competing stimuli ,,2011-06-16 18:11:30,cnt_4dfa4752a1120,usr_4de5345b3b6a8
+1272,total score,,2015-07-15 18:20:54,cnt_55a6a486c0fca,usr_51bc76ae9636c
+1273,number of correct identifications,,2011-06-03 23:23:04,cnt_4de96cd8c9aad,usr_4de5345b3b6a8
+1274,number of correct identifications,,2012-07-17 20:35:05,cnt_5005cc79902cc,usr_4f177506dde77
+1275,Noxious Cold minus Innocuous Cool,,2011-09-06 16:45:34,cnt_4e664e2ed4231,usr_4e4a7f57b30e6
+1276,Innocuous Cool minus Neutral,,2011-09-06 16:46:04,cnt_4e664e4c90bf1,usr_4e4a7f57b30e6
+1277,target infrequent omission,,2012-07-31 22:24:24,cnt_50185b18ad99e,usr_4f177506dde77
+1278,target frequent commission,,2012-07-31 22:24:36,cnt_50185b2433de1,usr_4f177506dde77
+1279,one cue versus two cues,,2012-07-18 19:46:15,cnt_500712871f6d5,usr_4f177506dde77
+1280,short versus long,,2012-07-18 19:46:22,cnt_5007128e8defa,usr_4f177506dde77
+1281,classification learning trials,,2013-05-02 05:37:00,cnt_5181fb7c1b60c,usr_4cf5de07654c8
+1282,number of words divided by time,,2011-06-22 17:59:16,cnt_4e022d7430161,usr_4de5345b3b6a8
+1283,areas of activation during task minus baseline,,2011-06-22 18:10:43,cnt_4e02302350f17,usr_4de5345b3b6a8
+1284,ERP strength minus baseline,,2011-06-22 18:19:29,cnt_4e0232312c822,usr_4de5345b3b6a8
+1285,(out-of-phase) - (in-phase),,2012-07-17 20:28:17,cnt_5005cae1dffba,usr_4f177506dde77
+1286,positive feedback,,2011-06-03 17:41:29,cnt_4de91cc952b43,usr_4de5345b3b6a8
+1287,negative feedback,,2011-06-03 17:41:57,cnt_4de91ce5f279a,usr_4de5345b3b6a8
+1288,accuracy with learning minus accuracy without learning/practice,,2011-06-16 22:00:49,cnt_4dfa7d117d48f,usr_4de5345b3b6a8
+1289,accuracy of participant minus average accuracy of controls,,2011-06-16 22:00:58,cnt_4dfa7d1ad09a6,usr_4de5345b3b6a8
+1290,visual immediate,,2013-08-22 21:27:13,cnt_52168231ae8b5,usr_51bc76ae9636c
+1291,visual delayed,,2013-08-22 21:15:08,cnt_52167f5cba608,usr_51bc76ae9636c
+1292,verbal immediate,,2013-08-22 21:15:29,cnt_52167f717dac6,usr_51bc76ae9636c
+1293,verbal delayed,,2013-08-22 21:15:44,cnt_52167f804e5e1,usr_51bc76ae9636c
+1294,general memory,,2013-08-22 21:16:05,cnt_52167f957d6ea,usr_51bc76ae9636c
+1295,attention/concentration,,2013-08-22 21:16:24,cnt_52167fa84c173,usr_51bc76ae9636c
+1296,learning,,2013-08-22 21:16:41,cnt_52167fb957a15,usr_51bc76ae9636c
+1297,delayed recognition,,2013-08-22 21:16:56,cnt_52167fc85b968,usr_51bc76ae9636c
+1298,meaningless,,2011-05-31 19:00:12,cnt_4de53abc62d10,usr_4de5345b3b6a8
+1299,meaningful,,2011-05-31 18:59:35,cnt_4de53a9746a40,usr_4de5345b3b6a8
+1300,immediate accuracy minus delayed accuracy,,2011-06-27 22:02:22,cnt_4e08fdee5aec9,usr_4de5345b3b6a8
+1301,accuracy for meaningful actions minus accuracy for meaningless actions,,2011-06-27 22:02:45,cnt_4e08fe051b67b,usr_4de5345b3b6a8
+1302,standard deviation from the mean accuracy score,,2011-06-27 22:03:35,cnt_4e08fe37729fc,usr_4de5345b3b6a8
+1303,Capsaicin-Evoked Pain versus Rest,,2011-09-09 15:25:02,cnt_4e6a2fce43903,usr_4e4a7f57b30e6
+1304,interfering versus non-interfering,,2012-08-07 20:02:01,cnt_502174397e768,usr_4f177506dde77
+1305,identification of global feature versus identification of local feature,,2012-08-07 21:24:14,cnt_5021877eb2bcf,usr_4f177506dde77
+1306,Cold pain vs. Baseline,,2011-09-01 18:32:17,cnt_4e5fcfb15979e,usr_4e4a7f57b30e6
+1307,Cool vs. Baseline,,2011-09-01 18:32:39,cnt_4e5fcfc70842b,usr_4e4a7f57b30e6
+1308,Thermal Grill vs. Baseline,,2011-09-01 18:33:06,cnt_4e5fcfe2883a1,usr_4e4a7f57b30e6
+1309,Warm vs. Baseline,,2011-09-01 18:33:24,cnt_4e5fcff423ea1,usr_4e4a7f57b30e6
+1310,Heat pain vs. Baseline,,2011-09-01 18:33:40,cnt_4e5fd004d47d7,usr_4e4a7f57b30e6
+1311,number of moves required to complete task,,2012-07-31 21:24:50,cnt_50184d223ef01,usr_4f177506dde77
+1312,blunt affect,,2015-07-15 18:16:57,cnt_55a6a399ea943,usr_51bc76ae9636c
+1313,alogia,,2015-07-15 18:17:07,cnt_55a6a3a385759,usr_51bc76ae9636c
+1314,avolition,,2015-07-15 18:17:15,cnt_55a6a3abcd129,usr_51bc76ae9636c
+1315,anhedonia,,2015-07-15 18:17:24,cnt_55a6a3b4b552d,usr_51bc76ae9636c
+1316,attention,,2015-07-15 18:17:30,cnt_55a6a3ba669c9,usr_51bc76ae9636c
+1317,total correct responses for all categories,,2011-06-01 22:08:58,cnt_4de6b87a44743,usr_4de5345b3b6a8
+1318,total score,,2015-07-15 18:34:24,cnt_55a6a7b01babb,usr_51bc76ae9636c
+1319,emotional rating to picture stimuli minus emotional rating to neutral baseline picture,,2011-06-17 22:08:30,cnt_4dfbd05eb07d6,usr_4de5345b3b6a8
+1320,Matching,,2010-01-31 20:20:26,cnt_4b65e60a2f37a,usr_4b64af5545a03
+1321,Non-matching,,2010-01-31 20:21:00,cnt_4b65e62c5351c,usr_4b64af5545a03
+1322,response time to non-matching minus response time to matching,,2011-06-22 20:54:44,cnt_4e025694022e0,usr_4de5345b3b6a8
+1323,accuracy of participant minus average accuracy of controls,,2011-06-22 20:54:53,cnt_4e02569dd0139,usr_4de5345b3b6a8
+1324,Matrix Reasoning,,2011-06-21 22:26:15,cnt_4e011a8762e55,usr_4de5345b3b6a8
+1325,Block Design,,2011-06-21 22:27:42,cnt_4e011aded6b9e,usr_4de5345b3b6a8
+1326,Similarities,,2011-06-21 22:28:14,cnt_4e011afe30540,usr_4de5345b3b6a8
+1327,Vocabulary,,2011-06-21 22:28:56,cnt_4e011b28cebdc,usr_4de5345b3b6a8
+1328,participant IQ minus average IQ,,2011-06-21 22:35:33,cnt_4e011cb5c3e85,usr_4de5345b3b6a8
+1329,total score,,2013-10-22 18:21:22,cnt_5266c222da58d,usr_51bc76ae9636c
+1330,number of false positives,,2011-06-02 17:17:37,cnt_4de7c5b19456f,usr_4de5345b3b6a8
+1331,number of false negatives (missed words),,2011-06-02 17:18:23,cnt_4de7c5df194ea,usr_4de5345b3b6a8
+1332,number of correct identifications,,2011-06-02 17:21:50,cnt_4de7c6ae5a2a1,usr_4de5345b3b6a8
+1333,angular distance between test view and study view,,2012-07-30 23:16:30,cnt_501715cead551,usr_4f177506dde77
+1334,overall similarity to intended picture,,2011-06-03 20:49:02,cnt_4de948beb7f3c,usr_4de5345b3b6a8
+1335,areas of activation during task minus baseline,,2011-06-13 23:17:38,cnt_4df69a929ce35,usr_4de5345b3b6a8
+1336,real visual areas of activation minus imagined task areas of activation,,2011-06-07 16:43:09,cnt_4dee551d3a46b,usr_4de5345b3b6a8
+1337,physical representation of imagined object,,2011-06-07 17:00:46,cnt_4dee593ebfcc7,usr_4de5345b3b6a8
+1338,Words,,2010-05-09 17:06:13,cnt_4be6eb858054b,usr_4b64af5545a03
+1339,Pseudowords,,2010-05-09 17:07:19,cnt_4be6ebc7c0886,usr_4b64af5545a03
+1340,Consonant letter strings,,2010-05-09 17:08:28,cnt_4be6ec0d002ee,usr_4b64af5545a03
+1341,Fixation,,2010-05-09 17:09:03,cnt_4be6ec2f802fb,usr_4b64af5545a03
+1342,Words - Pseudowords,,2010-05-09 17:09:32,cnt_4be6ec4cb064c,usr_4b64af5545a03
+1343,Words - Consonant letter strings,,2010-05-09 17:10:06,cnt_4be6ec6e29f57,usr_4b64af5545a03
+1344,Words - Fixation,,2010-05-09 17:10:20,cnt_4be6ec7c08a71,usr_4b64af5545a03
+1345,standard deviation from the mean score,,2011-06-10 22:45:45,cnt_4df29e99a47ae,usr_4de5345b3b6a8
+1346,time to complete task with non-dominant hand minus time to complete task with dominant hand,,2011-06-10 22:46:34,cnt_4df29eca27ab5,usr_4de5345b3b6a8
+1347,total score,,2013-10-17 18:29:28,cnt_52602c88d74b0,usr_51bc76ae9636c
+1348,self-report score,,2013-01-14 03:12:37,cnt_50f377a5d345e,usr_4de5345b3b6a8
+1349,deviance by intensity interaction,,2015-12-13 17:57:57,cnt_566db1a5e230d,usr_51bc76ae9636c
+1350,high minus low condition,,2015-12-13 17:57:41,cnt_566db1953db67,usr_51bc76ae9636c
+1351,deviant minus standard,,2015-12-13 17:55:46,cnt_566db122ef282,usr_51bc76ae9636c
+1352,anxiety,,2015-07-15 18:37:52,cnt_55a6a88090b03,usr_51bc76ae9636c
+1353,depression,,2015-07-15 18:37:58,cnt_55a6a8865332e,usr_51bc76ae9636c
+1354,minimum size visible while still minus while in motion,,2013-01-14 03:54:16,cnt_50f38168aba37,usr_4de5345b3b6a8
+1355,minimum size visible while in motion,,2013-01-14 03:56:02,cnt_50f381d2aab5a,usr_4de5345b3b6a8
+1356,minimum size visible while still,,2013-01-14 03:56:15,cnt_50f381df14722,usr_4de5345b3b6a8
+1357,social awareness,,2013-08-12 15:30:05,cnt_5208ff7d82bce,usr_51bc76ae9636c
+1358,total score,,2013-08-12 15:30:17,cnt_5208ff894a6b7,usr_51bc76ae9636c
+1359,social cognition,,2013-08-12 15:31:20,cnt_5208ffc82d64b,usr_51bc76ae9636c
+1360,autistic mannerisms,,2013-08-12 15:32:00,cnt_5208fff0019d6,usr_51bc76ae9636c
+1361,social communication,,2013-08-12 15:32:19,cnt_520900032796f,usr_51bc76ae9636c
+1362,social motivation,,2013-08-12 15:32:54,cnt_520900265b01d,usr_51bc76ae9636c
+1363,converted A and B error score,,2011-06-27 20:50:21,cnt_4e08ed0d8815f,usr_4de5345b3b6a8
+1364,Initiation,,2011-06-27 20:51:54,cnt_4e08ed6a4d30d,usr_4de5345b3b6a8
+1365,Inhibition,,2011-06-27 20:52:36,cnt_4e08ed9422f36,usr_4de5345b3b6a8
+1366,Initiation minus Inhibition,,2011-06-27 20:53:00,cnt_4e08edac14ee7,usr_4de5345b3b6a8
+1367,subject&#39;s pantomime ability compared to controls,,2011-06-13 23:03:41,cnt_4df6974d8c674,usr_4de5345b3b6a8
+1368,mean length of utterance (MLU) score,,2012-08-08 00:35:50,cnt_5021b4664cfbb,usr_4f177506dde77
+1369,frequency of overregularization,,2012-08-08 00:39:26,cnt_5021b53e64523,usr_4f177506dde77
+1370,usage of correct irregular word forms,,2012-08-08 00:40:23,cnt_5021b5773a9ae,usr_4f177506dde77
+1371,comprehension of common phrases,,2012-08-08 18:48:32,cnt_5022b4801fb23,usr_4f177506dde77
+1372,comprehension of single words,,2012-08-08 18:48:45,cnt_5022b48dbd8e8,usr_4f177506dde77
+1373,vocabulary production,,2012-08-08 18:50:02,cnt_5022b4da18b61,usr_4f177506dde77
+1374,gesture production,,2012-08-08 18:51:03,cnt_5022b5173b371,usr_4f177506dde77
+1375,use of suffixes,,2012-08-08 18:51:37,cnt_5022b539a2698,usr_4f177506dde77
+1376,onset of combinatorial language,,2012-08-08 18:52:34,cnt_5022b5727f9d6,usr_4f177506dde77
+1377,d&#39; (difference between correct identifications and false alarms),,2011-06-13 19:23:59,cnt_4df663cf4ea8a,usr_4de5345b3b6a8
+1378,accuracy of participant minus average accuracy of controls,,2011-06-13 19:24:48,cnt_4df66400663ec,usr_4de5345b3b6a8
+1379,average accuracy of controls minus accuracy of participant,,2011-06-13 21:49:27,cnt_4df685e797da2,usr_4de5345b3b6a8
+1380,standard deviation from the mean time,,2011-06-15 20:24:16,cnt_4df914f00dd42,usr_4de5345b3b6a8
+1381,correct,,2013-01-07 17:51:57,cnt_50eb0b3d09ef0,usr_4de5345b3b6a8
+1382,incorrect,,2013-01-07 17:52:04,cnt_50eb0b44d1ca2,usr_4de5345b3b6a8
+1383,delay period distractor task,,2010-09-22 03:14:44,cnt_4c9974a44a920,usr_4aef384a4c085
+1384,sensory modality,,2010-09-22 03:20:28,cnt_4c9975fc3078c,usr_4aef384a4c085
+1385,high importance versus low importance,,2012-07-30 20:21:46,cnt_5016ecda0cb5d,usr_4f177506dde77
+1386,Early Blind,,2011-06-23 19:05:12,cnt_4e038e680bd57,usr_4de5345b3b6a8
+1387,Late Blind,,2011-06-23 19:05:52,cnt_4e038e90bd3e7,usr_4de5345b3b6a8
+1388,areas of activation of early blind minus areas of activation of late blind,,2011-06-23 19:33:46,cnt_4e03951a4914c,usr_4de5345b3b6a8
+1389,areas of activation while reading words or sentences minus reading control dots,,2011-06-23 19:34:47,cnt_4e039557ad404,usr_4de5345b3b6a8
+1390,response time to incongruent vs. response time to congruent,,2012-11-28 19:32:42,cnt_50b666dabe619,usr_4de5345b3b6a8
+1391,self-report vs. task report,,2012-11-28 19:34:57,cnt_50b667617b8fb,usr_4de5345b3b6a8
+1392,blocks of both probabilistic classification trials and deterministic classification trials,,2011-11-11 04:46:48,cnt_4ebca8b8bb859,usr_4cf5de07654c8
+1393,number or value of rewards times probability of reward,,2011-06-02 18:37:08,cnt_4de7d854ceb50,usr_4de5345b3b6a8
+1394,money earned,,2011-06-02 18:40:00,cnt_4de7d90024fe4,usr_4de5345b3b6a8
+1395,probability of highest reward,,2011-06-02 18:40:12,cnt_4de7d90ca34da,usr_4de5345b3b6a8
+1396,Unsegmented blocks,,2010-02-22 18:52:27,cnt_4b82d26b480ea,usr_4aef33d37b963
+1397,Segmented blocks,,2010-02-22 18:52:47,cnt_4b82d27f31194,usr_4aef33d37b963
+1398,perception,,2015-04-27 23:01:23,cnt_553ebfc3ab40d,usr_51bc76ae9636c
+1399,target 1-back minus 0-back,,2015-09-08 20:23:17,cnt_55ef43b5be6da,usr_51bc76ae9636c
+1400,scrambled,,2015-04-24 16:46:13,cnt_553a7355cfc2c,usr_51bc76ae9636c
+1401,face minus house,,2015-04-24 16:46:23,cnt_553a735f124cd,usr_51bc76ae9636c
+1402,house minus scrambled,,2015-04-24 16:46:30,cnt_553a73665ef81,usr_51bc76ae9636c
+1403,chair,,2015-04-24 16:46:38,cnt_553a736eda4fd,usr_51bc76ae9636c
+1404,cat,,2015-04-24 16:46:43,cnt_553a73739fed0,usr_51bc76ae9636c
+1405,scissors,,2015-04-24 16:46:49,cnt_553a737936e1f,usr_51bc76ae9636c
+1406,face,,2015-04-24 16:46:55,cnt_553a737fa2d81,usr_51bc76ae9636c
+1407,shoe,,2015-04-24 16:47:00,cnt_553a7384838a1,usr_51bc76ae9636c
+1408,bottle,,2015-04-24 16:47:06,cnt_553a738ae5a91,usr_51bc76ae9636c
+1409,face minus scrambled,,2015-04-24 16:47:14,cnt_553a739219c69,usr_51bc76ae9636c
+1410,house minus face,,2015-04-24 16:47:23,cnt_553a739bdc9ed,usr_51bc76ae9636c
+1411,all,,2015-04-24 16:47:28,cnt_553a73a084bdd,usr_51bc76ae9636c
+1412,chair minus scrambled,,2015-04-24 16:47:35,cnt_553a73a7b6b8d,usr_51bc76ae9636c
+1413,house,,2015-04-24 16:47:41,cnt_553a73ad4759c,usr_51bc76ae9636c
+1414,predicted premorbid IQ,,2016-07-27 18:15:21,cnt_5798fa39c1328,usr_579611e01221d
+1415,total errors,,2016-07-27 18:15:21,cnt_5798fa39c150a,usr_579611e01221d
+1416,Pain versus No Pain,,2011-09-02 18:36:30,cnt_4e61222e46c9c,usr_4e4a7f57b30e6
+1417,number correct,,2013-01-18 19:11:25,cnt_50f99e5dc7aff,usr_4de5345b3b6a8
+1418,number of correct rejections,,2013-01-18 19:11:32,cnt_50f99e6433ec8,usr_4de5345b3b6a8
+1419,false positives,,2013-01-18 19:11:36,cnt_50f99e6849d22,usr_4de5345b3b6a8
+1420,probability of reward * magnitude of bet,,2011-06-01 21:57:36,cnt_4de6b5d032f89,usr_4de5345b3b6a8
+1421,ratio,,2011-06-01 22:01:01,cnt_4de6b69d1e765,usr_4de5345b3b6a8
+1422,decision making latency in ascending versus descending betting condition,,2012-08-07 18:23:30,cnt_50215d225f015,usr_4f177506dde77
+1423,number of steps completed correctly,,2016-07-27 15:19:49,cnt_5798d115b13e3,usr_579611e01221d
+1424,similarity of copy to original,,2016-07-27 15:34:08,cnt_5798d47082694,usr_579611e01221d
+1425,stimulus contrast,,2012-08-15 18:31:45,cnt_502beb1124278,usr_4f177506dde77
+1426,signal-to-noise ratio,,2012-08-15 18:32:17,cnt_502beb3168bac,usr_4f177506dde77
+1427,eccentricity of distractor stimuli,,2012-08-15 18:50:11,cnt_502bef633e582,usr_4f177506dde77
+1428,presence versus absence of spatial cues,,2012-07-23 23:17:58,cnt_500ddba625847,usr_4f177506dde77
+1429,question-by-question analysis,,2013-01-16 23:29:05,cnt_50f737c173e2a,usr_4de5345b3b6a8
+1430,cue onset asynchrony ,,2011-07-28 22:38:55,cnt_4e31e4ff71f3c,usr_4e31cbdaeab0d
+1431,valid versus invalid,,2012-07-18 20:50:02,cnt_5007217a45778,usr_4f177506dde77
+1432,short form,,2011-06-01 00:12:44,cnt_4de583fcb0789,usr_4de5345b3b6a8
+1433,long form,,2011-06-01 00:14:17,cnt_4de584598a9c7,usr_4de5345b3b6a8
+1434,minimum visible size,,2013-01-14 03:35:26,cnt_50f37cfea325a,usr_4de5345b3b6a8
+1435,Word,,2011-06-15 18:33:05,cnt_4df8fae1e604a,usr_4de5345b3b6a8
+1436,Morphologically Decomposable Pseudowords,,2011-06-15 18:34:57,cnt_4df8fb518c099,usr_4de5345b3b6a8
+1437,Morphologically Non-decomposable Pseudowords,,2011-06-15 18:36:14,cnt_4df8fb9e0224f,usr_4de5345b3b6a8
+1438,Response time to morphologically non-decomposable pseudowords minus response time to morphologically decomposable psuedowords,,2011-06-15 18:38:02,cnt_4df8fc0a76f53,usr_4de5345b3b6a8
+1439,response time to pseudowords minus response time to words,,2011-06-15 18:38:22,cnt_4df8fc1e54759,usr_4de5345b3b6a8
+1440,substitution speed minus copy speed,,2011-06-17 22:34:00,cnt_4dfbd65810a40,usr_4de5345b3b6a8
+1441,time to complete,,2013-01-07 22:36:52,cnt_50eb4e0450867,usr_4de5345b3b6a8
+1442,accuracy of participant minus average accuracy of controls,,2011-06-16 18:58:05,cnt_4dfa523d45d5b,usr_4de5345b3b6a8
+1443,generalized labeled magnitude scale (gLMS),,2013-01-14 03:28:18,cnt_50f37b522549b,usr_4de5345b3b6a8
+1444,word minus baseline,,2011-03-31 15:23:59,cnt_4d949c8f3101c,usr_49a467bf4e0db
+1445,pseudoword minus baseline,,2011-03-31 15:24:11,cnt_4d949c9b01604,usr_49a467bf4e0db
+1446,pseudoword minus word,,2011-06-16 17:00:52,cnt_4dfa36c40f3a1,usr_4de5345b3b6a8
+1447,word minus pseudoword,,2015-04-24 16:38:45,cnt_553a719509b22,usr_51bc76ae9636c
+1448,all,,2015-04-24 16:38:57,cnt_553a71a13dfc5,usr_51bc76ae9636c
+1449,standard deviation from the mean accuracy score,,2011-06-27 22:06:51,cnt_4e08fefbf0382,usr_4de5345b3b6a8
+1450,attention scale,,2013-10-01 23:13:06,cnt_524b5702780ad,usr_51bc76ae9636c
+1451,persistence,,2013-10-01 23:13:06,cnt_524b570288099,usr_51bc76ae9636c
+1452,interest involvement,,2013-10-01 23:13:06,cnt_524b570288b15,usr_51bc76ae9636c
+1453,initiation of activities,,2013-10-01 23:14:39,cnt_524b575f2b696,usr_51bc76ae9636c
+1454,joint attention,,2013-10-01 23:14:58,cnt_524b5772e43a8,usr_51bc76ae9636c
+1455,affect,,2013-10-01 23:15:23,cnt_524b578b851f8,usr_51bc76ae9636c
+1456,number correct,,2013-01-18 23:30:22,cnt_50f9db0e69e86,usr_4de5345b3b6a8
+1457,number of correct rejections,,2013-01-18 23:30:38,cnt_50f9db1e70ebe,usr_4de5345b3b6a8
+1458,false positives,,2013-01-18 23:30:45,cnt_50f9db2500981,usr_4de5345b3b6a8
+1459,degree of head tilt (HT),,2012-08-14 23:24:42,cnt_502ade3a6b4d4,usr_4f177506dde77
+1460,degree of body tilt (BT),,2012-08-14 23:24:54,cnt_502ade46b2038,usr_4f177506dde77
+1461,degree of trunk tilt (TT),,2012-08-14 23:25:06,cnt_502ade521b4bd,usr_4f177506dde77
+1462,HT - BT,,2012-08-14 23:25:22,cnt_502ade6246b25,usr_4f177506dde77
+1463,HT - TT,,2012-08-14 23:25:41,cnt_502ade7522e56,usr_4f177506dde77
+1464,experimental minus control,,2012-07-24 17:09:36,cnt_500ed6d06dd2e,usr_4f177506dde77
+1465,deterministic classification trials,,2011-11-11 04:40:13,cnt_4ebca72d737c1,usr_4cf5de07654c8
+1466,feedback,,2015-04-24 01:34:58,cnt_55399dc274d97,usr_51bc76ae9636c

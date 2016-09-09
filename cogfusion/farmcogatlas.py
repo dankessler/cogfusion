@@ -2,10 +2,6 @@
 
 from cognitiveatlas.api import get_concept, get_task
 
-
-
-
-
 # EXAMPLE 1: #########################################################
 # We are going to retrieve all cognitive paradgims (tasks), find 
 # associated contrasts, and then find the cognitive concepts 
@@ -64,7 +60,9 @@ print('# contrasts: {}'.format(len(contrasts)))
 
 # Step 3: Make a contrast --> concept lookup
 concepts = dict()
-for task_uid,contrast_set in contrasts.iteritems():
+for t, taskContrasts in enumerate(contrasts.items()):
+    task_uid, contrast_set = taskContrasts
+    print('Task {} of {}'.format(t, len(task_uids)))
     for contrast in contrast_set:
         contrast_uid = contrast["id"]
         if contrast_uid not in concepts:
@@ -77,7 +75,13 @@ for task_uid,contrast_set in contrasts.iteritems():
 len(concepts)
 print('# concepts: {}'.format(len(concepts)))
 
-pandas.DataFrame(concepts).T['name'].to_json('data/conceptsByContrasts.json')
-get_concept().pandas.to_json('data/concepts.json')
+allcontrasts = []
+for tid, taskContrasts in contrasts.items():
+    for contrast in taskContrasts:
+        allcontrasts.append(contrast)
+
+get_concept().pandas.to_csv('data/concepts.csv', encoding='utf-8')
+pandas.DataFrame(allcontrasts).to_csv('data/contrasts.csv', encoding='utf-8')
+pandas.DataFrame(concepts).T['name'].to_csv('data/conceptsByContrasts.csv', encoding='utf-8')
 
 
