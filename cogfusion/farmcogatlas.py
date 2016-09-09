@@ -77,7 +77,7 @@ if __name__ == '__main__':
             contrast_uid = contrast["id"]
             if contrast_uid not in concepts:
                 try: # Some calls don't work
-                    concepts[contrast_uid] = get_concept(contrast_id=contrast_uid).json[0]
+                    concepts[contrast_uid] = get_concept(contrast_id=contrast_uid).json
                 except:
                     pass
 
