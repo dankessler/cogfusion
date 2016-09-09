@@ -4,8 +4,10 @@
 Based on an example from https://github.com/CognitiveAtlas/cogat-python
     by Vanessa Sochat
 """
-
-from cognitiveatlas.api import get_concept, get_task
+try:
+    from cognitiveatlas.api import get_concept, get_task
+except:
+    pass
 
 
     
