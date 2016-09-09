@@ -11,6 +11,8 @@ reqs = [
 'pyramid',
 'pyramid_mako',
 'waitress',
+'jupyter',
+'pandas',
 ]
 
 try:
