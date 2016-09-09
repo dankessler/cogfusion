@@ -5,7 +5,7 @@ import waitress, os
 
 def serve():
     wsgiapp = main(None)
-    waitress.serve(wsgiapp, host='0.0.0.0', port=6543)
+    waitress.serve(wsgiapp, host='0.0.0.0', port=80)
 
 def main(global_config, **settings):
     """ This function returns a Pyramid WSGI application.
@@ -14,6 +14,7 @@ def main(global_config, **settings):
     config.include('pyramid_mako')
     config.add_static_view('static', 'static', cache_max_age=10)
     config.add_route('home', '/')
+    config.add_route('images', '/images')
     #config.add_request_method(lambda r: Dependencies(), 
     #    'dependencies', reify=True)
     config.scan()
