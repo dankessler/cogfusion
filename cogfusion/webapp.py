@@ -16,6 +16,7 @@ def main(global_config, **settings):
     config.add_route('home', '/')
     config.add_route('images', '/images')
     config.add_route('contrasts', '/contrasts')
+    config.add_route('contrast', '/contrasts/{contrast}')
     #config.add_request_method(lambda r: Dependencies(), 
     #    'dependencies', reify=True)
     config.scan()

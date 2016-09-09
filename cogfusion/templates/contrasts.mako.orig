@@ -1,0 +1,31 @@
+<%inherit file="master.mako"/>
+
+
+<h1>Contrasts</h1>
+
+<ul>
+% for index, contrast in contrasts.iterrows():
+    <li>
+<<<<<<< HEAD
+        <a href="${request.route_url('contrasts',contrast['contrast_text'])}">${contrast['contrast_text']}</a>
+=======
+        ${contrast['contrast_text']}
+        <ul>
+<%
+    matches = conceptsByContrasts[conceptsByContrasts['contrast']==contrast['id']]
+%>
+% for index, row in matches.iterrows():
+
+<%
+    concept = concepts[concepts['id']==row['concept']].iloc[0]
+%>
+            <li>${concept['name']}</li>
+% endfor
+        </ul>
+>>>>>>> master
+    </li>
+% endfor
+</ul>
+
+
+
