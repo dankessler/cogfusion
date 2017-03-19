@@ -6,12 +6,7 @@
 <ul>
 % for index, contrast in contrasts.iterrows():
     <li>
-        ${contrast['contrast_text']}
-        <ul>
-% for conceptid in conceptsByContrasts.get(contrast['id'], []):
-            <li>${conceptid}</li>
-% endfor
-        </ul>
+        <a href="${request.route_url('contrasts',contrast['id'])}">${contrast['contrast_text']}</a>
     </li>
 % endfor
 </ul>
