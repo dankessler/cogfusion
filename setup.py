@@ -31,6 +31,10 @@ setup(name='cogfusion',
       zip_safe=False,
       license='MIT',
       long_description=README,
+      entry_points="""\
+[paste.app_factory]
+main = cogfusion:main
+""",
       classifiers=[
             'License :: OSI Approved :: MIT License',
             'Intended Audience :: Science/Research',

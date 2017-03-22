@@ -1,0 +1,7 @@
+include *.txt *.ini *.cfg *.rst
+recursive-include cogfusion *.ico *.png *.svg *.css *.gif *.jpg *.pt *.txt *.mak *.mako *.js *.html *.xml *.jinja2
+recursive-include conf *.conf
+recursive-include data *.csv *.pickle
+include unpack_install_start.sh
+include requirements.txt
+
