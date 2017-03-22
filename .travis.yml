@@ -9,8 +9,8 @@ script:
   - python setup.py sdist
 after_success:
   - coveralls
-deploy:
-    provider: script
-    script: deploy.sh
-    on:
-      branch: master
+#deploy:
+#    provider: script
+#    script: deploy.sh
+#    on:
+#      branch: master
