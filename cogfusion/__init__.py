@@ -1,0 +1,1 @@
+from cogfusion.webapp import main

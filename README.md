@@ -16,4 +16,12 @@ Start web app server:
 cogfusion serve
 ```
 
+Deploy to production server:
+```shell
+python setup.py sdist   # Create build artifact
+./deploy.sh             # Send build artifact to server and install it there
+```
+(Assumes the server has the packages listed in system-requirements.txt and you have
+ssh access to the server)
+
 

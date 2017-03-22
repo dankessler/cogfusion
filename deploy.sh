@@ -1,4 +1,2 @@
-git pull
-env/bin/pip install -e .
-pkill cogfusion
-env/bin/cogfusion serve &
+scp -v dist/cogfusion-0.0.tar.gz root@cogfusion.org:/root/
+cat unpack_install_start.sh | ssh root@cogfusion.org
